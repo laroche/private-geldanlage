@@ -1,0 +1,25 @@
+Bücher
+======
+
+
+Allgemein
+---------
+
+- [Über die Gier, die Angst und den Herdentrieb der Anleger von Pirmin Hotz](https://www.buecher.de/shop/investment/ueber-die-gier-die-angst-und-den-herdentrieb-der-anleger/hotz-pirmin/products_products/detail/prod_id/60709732/)
+- [Inflation – die ersten zweitausend Jahre von Urban Bacher, Hanno Beck, Marco Herrmann](https://fazbuch.de/produkt/inflation-die-ersten-zweitausend-jahre/)
+- [Nach dem Kollaps: Die sieben Geheimnisse des Vermögenserhalts im kommenden Chaos von James Rickards ](https://www.amazon.de/Nach-dem-Kollaps-Geheimnisse-Verm%C3%B6genserhalts/dp/3959722494)
+- [Gold: Wie Sie sich vor Inflation, Zentralbanken und finanzieller Repression schützen von James Rickards](https://amazon.de/Gold-Inflation-Zentralbanken-finanzieller-Repression/dp/3959720009/)
+- [Cool bleiben und Dividenden kassieren von Christian W. Röhl, Werner H. Heussinger](https://www.buecher.de/shop/kapitalanlage/cool-bleiben-und-dividenden-kassieren/roehl-christian-w-heussinger-werner-h-/products_products/detail/prod_id/44339788/)
+- [Bargeld statt Buchgewinn von Luis Pazos](https://www.buecher.de/shop/investment/bargeld-statt-buchgewinn/pazos-luis/products_products/detail/prod_id/47029270/session/nh8amj0dsdh20b78tnlv21je0e/)
+- [Unternehmensbewertung & Kennzahlenanalyse von Nicolas Schmidlin](http://www.vahlen.de/productview.aspx?product=31026833&medium=print)
+- [Higher Probability Commodity Trading von Carley Garner](https://www.amazon.de/HIGHER-PROBABILITY-COMMODITY-TRADING-Comprehensive/dp/1942545525)
+
+
+Optionen
+--------
+
+- [Optionen, Futures und andere Derivate von John C. Hull](https://www.amazon.de/Optionen-Futures-Derivate-Pearson-Studium/dp/3868943498/)
+- [Trade Options with an Edge von Russell Richards](https://www.amazon.de/Trade-Options-Edge-Russell-Richards/dp/1524538183)
+- [Strategisch Investieren mit Aktienoptionen: Konservativer Vermögenszuwachs mit Stillhaltergeschäften von Dr. Peter Putz](https://www.amazon.de/Strategisch-Investieren-Aktienoptionen-Verm%C3%B6genszuwachs-Stillhaltergesch%C3%A4ften/dp/1491065850/)
+
+
