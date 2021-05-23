@@ -5,6 +5,7 @@ Bücher
 Allgemein
 ---------
 
+- [Einfach nicht arm sterben von Rene Isau](https://www.amazon.de/Einfach-nicht-sterben-Verm%C3%B6gensbildung-voranbringst-ebook/dp/B087699F1K)
 - [Über die Gier, die Angst und den Herdentrieb der Anleger von Pirmin Hotz](https://www.buecher.de/shop/investment/ueber-die-gier-die-angst-und-den-herdentrieb-der-anleger/hotz-pirmin/products_products/detail/prod_id/60709732/)
 - [Inflation – die ersten zweitausend Jahre von Urban Bacher, Hanno Beck, Marco Herrmann](https://fazbuch.de/produkt/inflation-die-ersten-zweitausend-jahre/)
 - [Nach dem Kollaps: Die sieben Geheimnisse des Vermögenserhalts im kommenden Chaos von James Rickards ](https://www.amazon.de/Nach-dem-Kollaps-Geheimnisse-Verm%C3%B6genserhalts/dp/3959722494)
