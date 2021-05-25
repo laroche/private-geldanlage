@@ -121,6 +121,8 @@ CoT
 - <https://www.ireallytrade.com/>
    - <https://en.wikipedia.org/wiki/Larry_R._Williams>
    - [YouTube Larry Williams](https://www.youtube.com/user/ireallytrade1/videos)
+- <https://www.livewithoscar.com/>
+   - [YouTube Oscar Carboni](https://www.youtube.com/c/futuresanalysts/videos)
 - <https://futures.io/options-futures/>
 
 
@@ -146,12 +148,14 @@ Optionen
 - <https://aeromir.com/>
    - [YouTube Aeromir](https://www.youtube.com/c/Aeromir/videos)
 - <https://jensrabe.de/>
-   - [Facebook](https://www.facebook.com/rabeacademy/)
+   - [Facebook Jens Rabe](https://www.facebook.com/rabeacademy/)
    - [YouTube Jens Rabe](https://www.youtube.com/c/JensRabeKanal/videos)
    - [YouTube Optionsstrategien](https://www.youtube.com/c/Optionshandel/videos)
-   - <https://www.facebook.com/groups/optionshaendler/>
+   - [Facebook Optionshändler](https://www.facebook.com/groups/optionshaendler/)
 - <https://optionstrat.com/>
 - <https://onfinance.org/>
    - [YouTube Patrick Boyle](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)
+- <https://www.cboe.com/insights/>
+   - [YouTube CBOE](https://www.youtube.com/user/CBOEtv/videos)
 
 
