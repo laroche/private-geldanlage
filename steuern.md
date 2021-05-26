@@ -15,6 +15,11 @@ Steuern bei inländischen Banken/Brokern
 ---------------------------------------
 
 - [Deutsche Bank Steuermerkblatt](https://www.deutsche-bank.de/dam/deutschebank/de/shared/pdf/Steuermerkblatt-Inland.pdf)
+- Über eine [Nichtveranlagungsbescheinigung](https://de.wikipedia.org/wiki/Nichtveranlagungsbescheinigung) werden keine Kapitelerträge besteuert.
+- Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
+  gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
+- Wenn man Verluste über verschiedene Depots verrechnet haben will, muss man eine
+  [Verlustbescheinigung](https://de.wikipedia.org/wiki/Verlustbescheinigung) anfordern.
 
 
 Steuern bei ausländischen Banken/Brokern
@@ -24,6 +29,45 @@ Steuern bei ausländischen Banken/Brokern
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
+
+
+Regeln der Kapitalertragsteuer
+------------------------------
+
+- Siehe [Wikipedia: Einkünfte aus Kapitalvermögen](https://de.wikipedia.org/wiki/Eink%C3%BCnfte_aus_Kapitalverm%C3%B6gen_(Deutschland)),
+- [Wikipedia:Kapitalertragsteuer](https://de.wikipedia.org/wiki/Kapitalertragsteuer_(Deutschland)) und
+  [Wikipedia:Abgeltungsteuer](https://de.wikipedia.org/wiki/Abgeltungsteuer).
+- Abgeltungssteuer ist 25 %. Darauf muss nochmal 5.5 % Solidaritätszuschlag (SolZ) und für
+  evangelische 8 % (insgesamt 27,8186 %) bzw. für katholische 9 % (insgesamt 27,9951 %) Kirchensteuer
+  bezahlt werden.
+- Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
+  gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
+- Mit dem [Sparerpauschbetrag](https://de.wikipedia.org/wiki/Sparer-Pauschbetrag) (Freibetrag) kassieren
+  Singles Kapitalerträge bis 801 Euro und gemeinsam Veranlagte bis zu 1.602 Euro steuerfrei.
+- Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (sind voll abzugsfähig).
+- Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
+  Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
+- Alle Kauf- und Verkaufspreise müssen in Euro umgerechnet werden.
+- Beim Berechnen der Gewinne und Verluste wird die FIFO-Methode angewendet.
+- Aktien
+   - Aktienverluste dürfen nur mit Aktiengewinnen verrechnet werden. (Eigener Verlustverrechnungstopf.)
+   - Bei Aktien-Leerverkäufen (über eine Jahresgrenze hinaus) wird 30 % vom Preis mit der KapESt
+     als Ersatzbemessungsgrundlage besteuert (§ 43a Absatz 2 Satz 7 EStG) und erst mit der Eindeckung ausgeglichen.
+   - Altbestände vor 2009.
+- Dividenden und Quellensteuer
+- [Investmentsteuergesetz](https://de.wikipedia.org/wiki/Investmentsteuergesetz_(Deutschland))
+- Zinsen
+- Optionen
+   - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
+   - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.)
+   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet.
+   - Alle Verluste mit Long-Optionen dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden, der Rest wird vorgetragen.
+     (Verlustverrechnungsbeschränkung von Termingeschäften.)
+      - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
+        dürfen damit verrechnet werden.
+   - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
+- Optionsscheine, CFDs, Crypto, physisches Gold/Silber
+   - nicht weiter betrachtet
 
 
 Steuern bei Fremdwährungskonten
