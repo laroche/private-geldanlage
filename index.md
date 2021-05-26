@@ -46,6 +46,9 @@ Disclaimer
 Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuerberatung.
 Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
 
+Ich bin kein Steuerberater und dieser Beitrag ist nicht als Steuerberatung anzusehen. Für rechtsverbindliche
+Beratung bitte den Steuerberater zu Rate ziehen.
+
 
 Übersicht
 ---------

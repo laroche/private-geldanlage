@@ -29,6 +29,7 @@ Steuern bei ausländischen Banken/Brokern
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
+- <https://www.haufe.de/finance/haufe-finance-office-premium/einkuenfte-aus-kapitalvermoegen-1225-zeilen-1826_idesk_PI20354_HI9285903.html>
 
 
 Regeln der Kapitalertragsteuer
@@ -59,15 +60,16 @@ Regeln der Kapitalertragsteuer
 - Zinsen
 - Optionen
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
-   - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.)
-   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet.
-   - Alle Verluste mit Long-Optionen dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden, der Rest wird vorgetragen.
-     (Verlustverrechnungsbeschränkung von Termingeschäften.)
+   - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
+   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG)
+   - Alle Verluste mit Long-Optionen dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
+     der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften.)
       - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
         dürfen damit verrechnet werden.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - nicht weiter betrachtet
+   - <https://www.gold.de/steuern-edelmetalle/>
 - Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
