@@ -68,6 +68,9 @@ Regeln der Kapitalertragsteuer
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - nicht weiter betrachtet
+- Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
+- Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
+  oder Vortrag in die Folgejahre.
 
 
 Steuern bei Fremdwährungskonten
