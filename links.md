@@ -47,6 +47,8 @@ Link-Sammlung
 - <https://www.youtube.com/c/WorldofValue/videos>
 - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
 - <https://www.youtube.com/results?search_query=Druckenmiller>
+- <https://www.realvision.com/>
+   - [YouTube RealVision](https://www.youtube.com/c/RealVisionFinance/videos)
 - <https://www.lynalden.com/>
 - <https://de.wikipedia.org/wiki/72er-Regel>
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
