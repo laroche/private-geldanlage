@@ -41,6 +41,7 @@ Link-Sammlung
    - <https://www.justetf.com/>
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
+   - <https://www.trackingdifferences.com/>
 - <https://www.gerd-kommer-invest.de/>
    - [YouTube Gerd Kommer](https://www.youtube.com/c/GerdKommer/videos)
    - <https://www.finanzfluss.de/blog/etf-weltportfolio-kommer/>
