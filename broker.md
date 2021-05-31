@@ -82,6 +82,7 @@ Tastyworks
 
 - <https://tastyworks.com/> und offene Lernplattform <https://www.tastytrade.com/>
    - [Youtube: Tastytrade](https://www.youtube.com/c/tastytrade1/videos)
+- Zum Vorbereiten der Steuererklärung kann <https://github.com/laroche/tastyworks-pnl> hilfreich sein.
 
 Pro:
 
