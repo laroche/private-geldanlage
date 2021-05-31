@@ -18,8 +18,9 @@ Steuern bei inländischen Banken/Brokern
 - Über eine [Nichtveranlagungsbescheinigung](https://de.wikipedia.org/wiki/Nichtveranlagungsbescheinigung) werden keine Kapitelerträge besteuert.
 - Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
   gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
-- Wenn man Verluste über verschiedene Depots verrechnet haben will, muss man eine
+- Wenn man Verluste über verschiedene Depots vom Finanzamt verrechnet haben will, muss man eine
   [Verlustbescheinigung](https://de.wikipedia.org/wiki/Verlustbescheinigung) anfordern.
+  Ansonsten bleiben die Verluste bei den Brokern und werden nur dort für das nächste Jahr fortgeschrieben.
 
 
 Steuern bei ausländischen Banken/Brokern
