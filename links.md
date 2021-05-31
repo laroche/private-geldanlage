@@ -42,6 +42,7 @@ Link-Sammlung
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
    - <https://www.trackingdifferences.com/>
+   - <https://www.fondsweb.com/>
 - <https://www.gerd-kommer-invest.de/>
    - [YouTube Gerd Kommer](https://www.youtube.com/c/GerdKommer/videos)
    - <https://www.finanzfluss.de/blog/etf-weltportfolio-kommer/>
@@ -57,8 +58,8 @@ Link-Sammlung
 - <https://www.iwkoeln.de/fileadmin/user_upload/HTML/2019/einkommensverteilung/index.html>
 
 
-Auswertung und Trading Log
---------------------------
+Auswertung, Trading Log und Backtest
+------------------------------------
 
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
@@ -69,6 +70,7 @@ Auswertung und Trading Log
    - <https://app.getquin.com/learn/unterstuetze-broker-getquin/>
 - <https://investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/>
 - <https://fyoumoney.de/diy-portfolio-uebersicht-in-google-sheets/>
+- <https://www.portfoliovisualizer.com/>
 
 
 Finanznachrichten
