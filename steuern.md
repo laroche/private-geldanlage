@@ -76,7 +76,7 @@ Regeln der Kapitalertragsteuer
   oder Vortrag in die Folgejahre.
 
 
-Steuern bei Fremdwährungskonten
+Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
 -------------------------------
 
 Links:
