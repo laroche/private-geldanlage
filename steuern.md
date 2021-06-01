@@ -63,14 +63,15 @@ Regeln der Kapitalertragsteuer
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG)
-   - Alle Verluste mit Long-Optionen dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
-     der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften.)
-      - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
-        dürfen damit verrechnet werden.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/>
+- Alle Verluste mit Termingeschäften dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
+  der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
+  Long-Optionen, CFDs.)
+   - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
+     dürfen damit verrechnet werden.
 - Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.

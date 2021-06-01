@@ -37,7 +37,7 @@ Link-Sammlung
 - <https://rationalreminder.ca/podcast>
 - <https://www.dje.de/>
    - [YouTube DJE Kapital](https://www.youtube.com/c/DJEKapitalAG/videos)
-- Auswahl von ETFs:
+- Auswahl von ETFs/Fonds:
    - <https://www.justetf.com/>
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
