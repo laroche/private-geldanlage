@@ -39,10 +39,12 @@ Link-Sammlung
    - [YouTube DJE Kapital](https://www.youtube.com/c/DJEKapitalAG/videos)
 - Auswahl von ETFs/Fonds:
    - <https://www.justetf.com/>
+      - [YouTube justETF](https://www.youtube.com/c/justETF/videos)
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
    - <https://www.trackingdifferences.com/>
    - <https://www.fondsweb.com/>
+   - <https://www.etf.com>
 - <https://www.gerd-kommer-invest.de/>
    - [YouTube Gerd Kommer](https://www.youtube.com/c/GerdKommer/videos)
    - <https://www.finanzfluss.de/blog/etf-weltportfolio-kommer/>
