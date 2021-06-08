@@ -9,6 +9,7 @@ Linksammlung zu Steuern
 - <https://www.wertpapier-forum.de/forum/101-steuern-recht-und-unternehmensgr%C3%BCndung/>
 - <https://www.juhn.com/>
    - [YouTube Juhn](https://www.youtube.com/channel/UCRXSpcj8K_LKN4eVaXFJkmg)
+- Besteuerung von Kryptowährungen: <https://pekuna.de/>
 
 
 Steuern bei inländischen Banken/Brokern
@@ -67,6 +68,7 @@ Regeln der Kapitalertragsteuer
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/>
+   - Besteuerung von Kryptowährungen: <https://pekuna.de/>
 - Alle Verluste mit Termingeschäften dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
   der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
   Long-Optionen, CFDs.)
@@ -75,6 +77,14 @@ Regeln der Kapitalertragsteuer
 - Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
+
+
+aktuelle Rechtsprechung, BMF und Zusatzinfos
+--------------------------------------------
+
+- [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
+- <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-06-03-einzelfragen-zur-abgeltungsteuer-ergaenzung-des-BMF-Schreibens-vom-18-Januar-2016.pdf?__blob=publicationFile&v=1>
+- <https://www.youtube.com/watch?v=xZyWEzCsF9A>
 
 
 Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
