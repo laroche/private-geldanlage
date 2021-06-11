@@ -50,7 +50,10 @@ Link-Sammlung
    - <https://www.finanzfluss.de/blog/etf-weltportfolio-kommer/>
 - <https://www.youtube.com/c/WorldofValue/videos>
 - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
+- <https://www.ifo.de/>
+   - <https://www.youtube.com/channel/UCcirfI2eb2MNKmn5K0gNAjg>
 - <https://www.youtube.com/results?search_query=Druckenmiller>
+- <https://www.youtube.com/results?search_query=Jim+Rogers>
 - <https://www.realvision.com/>
    - [YouTube RealVision](https://www.youtube.com/c/RealVisionFinance/videos)
 - <https://www.lynalden.com/>
@@ -92,6 +95,7 @@ Morgenroutine
 - <https://money.cnn.com/data/fear-and-greed/>
 - <https://putcallratio.org/>
 - <https://markets.cboe.com/us/options/market_statistics/>
+- <https://www.cboe.com/us/options/market_statistics/daily/>
 - <https://www.cboe.com/us/options/market_statistics/#current-stats>
 - <https://options4winners.de/panikbericht>
 - <https://currentmarketvaluation.com/models/buffett-indicator.php>

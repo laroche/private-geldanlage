@@ -27,6 +27,7 @@ Steuern bei inländischen Banken/Brokern
 Steuern bei ausländischen Banken/Brokern
 ----------------------------------------
 
+- Ausländische Broker behalten nur die Quellensteuer sofort ein.
 - <https://www.freakyfinance.net/>
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
@@ -59,11 +60,14 @@ Regeln der Kapitalertragsteuer
    - Altbestände vor 2009.
 - Dividenden und Quellensteuer
 - [Investmentsteuergesetz](https://de.wikipedia.org/wiki/Investmentsteuergesetz_(Deutschland))
+   - Die Anlage KAP-INV muss dazu ausgefüllt werden.
 - Zinsen
 - Optionen
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
-   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG)
+      - Wird bei Stillhaltergeschäften am Ende ein Barausgleich gezahlt, so ist dieser Barausgleich ein Termingeschäft.
+   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
+     Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - nicht weiter betrachtet

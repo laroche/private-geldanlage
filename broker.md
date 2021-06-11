@@ -87,9 +87,12 @@ Tastyworks
 Pro:
 
 - Weitgehend für Optionshändler und Aktienhändler an den Börsen der USA
+- Insgesamt geringe Kosten.
+   - Echtzeitkurse sind kostenfrei.
 - FINRA/SIPC-Schutz
 - Manche mögen die Trading-App/Weboberfläche mehr als die TWS, aber die TWS kann
   deutlich mehr, wenn man sich dazu etwas Zeit zum Einlernen nimmt.
+- ETFs wie SPY, QQQ, IWM, DIA, GLD, SLV können direkt gehandelt werden.
 
 Con:
 
@@ -104,5 +107,6 @@ Con:
    - <https://www.currencyfair.com/receive-proceeds-from-selling-shares/>
    - <https://europoor.com/fund-your-tastyworks-account-from-europe/>
    - <https://europoor.com/open-a-currencyfair-account-to-fund-your-us-broker/>
+- Nur für den privaten Handel, Geschäftskonten für Deutschland können nicht eröffnet werden.
 
 
