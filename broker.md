@@ -34,7 +34,7 @@ traditionellere Online-Broker:
 ausländische Broker
 ===================
 
-Für alle ausländischen Broker muss eine Steuererklärung KAP selber erstellt werden und am
+Für alle ausländischen Broker muss eine Steuererklärung KAP und KAP-Inv selber erstellt werden und am
 Ende vom Jahr dem Finanzamt eingereicht werden.
 
 
@@ -51,7 +51,7 @@ Pro:
 - Der günstige Standard-Broker im Ausland (USA).
 - Große Auswahl an Produkten und Börsen handelbar.
 - Sehr gringe Kosten. (Transaktionskosten, Devisenhandel, Zinsen)
-- Kreditzinsen sehr gering.
+   - Kreditzinsen sehr gering.
 - Einzahlung/Auszahlung erfolgt als SEPA-Überweisung mit geringen Kosten.
 
 Con:

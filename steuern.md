@@ -28,7 +28,6 @@ Steuern bei ausländischen Banken/Brokern
 ----------------------------------------
 
 - Ausländische Broker behalten nur die Quellensteuer sofort ein.
-- Steuerdaten für Interactive Brokers erstellen: <https://github.com/tobigs/IB_Tax>
 - <https://www.freakyfinance.net/>
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
@@ -143,5 +142,31 @@ Zusammenfassung Steuern im Privatvermögen bei Fremdwährungskonten:
   Die spätere Veräußerung von Währungsguthaben aus Dividendenzuflüssen ist somit nie nach § 23 EStG steuerbar, weil es kein Anschaffungsgeschäft dazu gibt.
   Anschaffung = Erwerb von etwas Bestehendem von einem Dritten gegen Hingabe des Kaufpreises.
 - Abflüsse, die keine Veräußerung darstellen. Ich zähle dazu u.a. Kontogebühren, fremde Steuern, Zinsen etc. im Zusammenhang mit der Kapitalüberlassung
+
+
+Steuern für Accounts bei Interactive Brokers
+--------------------------------------------
+
+Von einem Jahresreport lässt sich weitgehend die Steuer erledigen.
+
+Bei den Zahlen ist der Report etwas ungenau bei der Berechnung der Gewinne nach FIFO. Anstatt
+sowohl den Kauf wie den Verkauspreis in Euro umzurechnen wird hier der Gewinn in USD berechnet
+und dann nur dieser USD-Gewinn einmal am Schluss in Euro umgerechnet.
+
+Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
+Angaben wohl in der Steuererklärung komplett weg. (Freigrenze dazu gibt es auch.)
+
+
+Software zum Einlesen der Interactive Broker Reports
+----------------------------------------------------
+
+Hier eine Sammlung an freier Software, die mit dem Einlesen der Reports von
+Interactive Brokers zu tun hat. Vielleicht bekommt man damit für eine
+Steuererklärung weiter.
+
+- Steuerdaten für Interactive Brokers erstellen: <https://github.com/tobigs/IB_Tax>
+- <https://github.com/titov-vv/jal>
+- <https://github.com/KonishchevDmitry/investments>
+- <https://github.com/gabbersepp/ib-flex-reader>
 
 
