@@ -61,6 +61,10 @@ Link-Sammlung
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
 - <https://de.wikipedia.org/wiki/Einkommensverteilung_in_Deutschland>
 - <https://www.iwkoeln.de/fileadmin/user_upload/HTML/2019/einkommensverteilung/index.html>
+- Vereine
+   - [Bundesverband der Börsenvereine an deutschen Hochschulen e. V.](https://www.bvh.org/)
+   - <https://www.boersen-vereine.de/borsenvereine-deutschland/>
+   - [Dagoberta e. V. - Frauen und Wirtschaftswissen](https://www.dagoberta.de/)
 
 
 Auswertung, Trading Log und Backtest

@@ -48,7 +48,7 @@ Regeln der Kapitalertragsteuer
   gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
 - Mit dem [Sparerpauschbetrag](https://de.wikipedia.org/wiki/Sparer-Pauschbetrag) (Freibetrag) kassieren
   Singles Kapitalerträge bis 801 Euro und gemeinsam Veranlagte bis zu 1.602 Euro steuerfrei.
-- Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (sind voll abzugsfähig).
+- Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (und sind voll abzugsfähig).
 - Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
   Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
 - Alle Kauf- und Verkaufspreise müssen in Euro umgerechnet werden.
@@ -70,7 +70,7 @@ Regeln der Kapitalertragsteuer
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
-   - nicht weiter betrachtet
+   - hier nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/>
    - Besteuerung von Kryptowährungen: <https://pekuna.de/>
 - Alle Verluste mit Termingeschäften dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
@@ -154,7 +154,7 @@ sowohl den Kauf wie den Verkauspreis in Euro umzurechnen wird hier der Gewinn in
 und dann nur dieser USD-Gewinn einmal am Schluss in Euro umgerechnet.
 
 Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
-Angaben wohl in der Steuererklärung komplett weg. (Freigrenze dazu gibt es auch.)
+Angaben wohl in der Steuererklärung komplett weg. (Eine Freigrenze gibt es dazu auch.)
 
 
 Software zum Einlesen der Interactive Broker Reports
