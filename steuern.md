@@ -91,29 +91,29 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
 - [alle BMF-Schreiben](https://www.bundesfinanzministerium.de/Web/DE/Service/Publikationen/BMF_Schreiben/bmf_schreiben.html)
 - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2020-11-11-KapitalertragSt-Ausstellung-Steuerbescheinigung-Kapitalertraege.pdf?__blob=publicationFile&v=2>
 - BMF zur Abgeltungssteuer
-   - <https://www.bzst.de/SharedDocs/BMF/DE/Downloads/bmf_Schreiben_20160118_Einzelfragen_Abgeltungsteuer.html>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-02-19-einzelfragen-zur-abgeltungsteuer.pdf?__blob=publicationFile&v=1>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-06-03-einzelfragen-zur-abgeltungsteuer-ergaenzung-des-BMF-Schreibens-vom-18-Januar-2016.pdf?__blob=publicationFile&v=1>
-- BMF zum Investmentsteuergesetz
-   - [Vorabpauschale 2020](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-01-29-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=4)
-   - [Vorabpauschale 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-06-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=3)
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-11-08-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018-dringliche-fragen-der-DK-sowie-des-BVI.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-12-21-Anwendungsfragen-Investmentsteuergesetz-Dringliche-Fragen-BVI-DK.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-04-09-Fristverlaengerung-Veroeffentlichung-Besteuerungsgrundlagen-Investmentfonds.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-05-15-Anwendungsfragen-InvStG-2018.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-08-29-Anwendungsfragen-InvStG-2018-Auslegungsfragen-Par-35-u-48.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2019-05-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2019-08-07-Muster-Investmentanteil-Bestandsnachweis.pdf?__blob=publicationFile&v=4>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-07-28-anwendungsfragen-zum-InvStG-in-der-ab-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=2>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-10-29-anwendungsschreibens-zum-investmentsteuergesetz.pdf?__blob=publicationFile&v=1>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-20-anwendungsschreibens-zum-investmentsteuergesetz.pdf?__blob=publicationFile&v=2>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-04-29-anwendungsfragen-zum-InvStG-in-der-ab-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=3>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-01-anwendungsschreiben-zum-InvStG-in-der-ab-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1>
-   - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-18-anwendungsschreiben-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1>
+   - [BMF Einzelfragen zur Abgeltungsteuer 2016-01-18](https://www.bzst.de/SharedDocs/BMF/DE/Downloads/bmf_Schreiben_20160118_Einzelfragen_Abgeltungsteuer.html)
+   - [BMF Einzelfragen zur Abgeltungsteuer 2021-02-19](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-02-19-einzelfragen-zur-abgeltungsteuer.pdf?__blob=publicationFile&v=1)
+   - [BMF Einzelfragen zur Abgeltungsteuer 2021-06-03](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-06-03-einzelfragen-zur-abgeltungsteuer-ergaenzung-des-BMF-Schreibens-vom-18-Januar-2016.pdf?__blob=publicationFile&v=1)
+      - <https://www.youtube.com/watch?v=xZyWEzCsF9A>
+- BMF zum Investmentsteuergesetz 2018 (InvStG 2018)
+   - [Vorabpauschale 2020](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-01-29-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=4): Basiszins ist 0,07 %
+   - [Vorabpauschale 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-06-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=3): Basiszins ist -0,45 %, es wird keine Vorabpauschale erhoben
+   - [Anwendungsfragen vom 2017-09-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2017-11-08](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-11-08-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018-dringliche-fragen-der-DK-sowie-des-BVI.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2017-12-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-12-21-Anwendungsfragen-Investmentsteuergesetz-Dringliche-Fragen-BVI-DK.pdf?__blob=publicationFile&v=4)
+   - [Fristverlaengerung vom 2018-04-09](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-04-09-Fristverlaengerung-Veroeffentlichung-Besteuerungsgrundlagen-Investmentfonds.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2018-05-15](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-05-15-Anwendungsfragen-InvStG-2018.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2018-08-29](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2018-08-29-Anwendungsfragen-InvStG-2018-Auslegungsfragen-Par-35-u-48.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2019-05-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2019-05-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
+   - [Muster-Investmentanteil-Bestandsnachweis](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2019-08-07-Muster-Investmentanteil-Bestandsnachweis.pdf?__blob=publicationFile&v=4)
+   - [Anwendungsfragen vom 2020-07-28](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-07-28-anwendungsfragen-zum-InvStG-in-der-ab-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=2)
+   - [Anwendungsfragen vom 2020-10-29](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-10-29-anwendungsschreibens-zum-investmentsteuergesetz.pdf?__blob=publicationFile&v=1)
+   - [Anwendungsfragen vom 2021-01-20](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-20-anwendungsschreibens-zum-investmentsteuergesetz.pdf?__blob=publicationFile&v=2)
+   - [Anwendungsfragen vom 2021-04-29](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-04-29-anwendungsfragen-zum-InvStG-in-der-ab-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=3)
+   - [Anwendungsfragen vom 2021-06-01](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-01-anwendungsschreiben-zum-InvStG-in-der-ab-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1)
+   - [Anwendungsfragen vom 2021-06-18](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-18-anwendungsschreiben-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1)
 - [BMF: Stand DBA](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
 - [BMF-Schreiben zu virtuellen Währungen und Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2021-06-17-est-kryptowaehrungen.pdf?__blob=publicationFile&v=2)
-- <https://www.youtube.com/watch?v=xZyWEzCsF9A>
 
 
 Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
