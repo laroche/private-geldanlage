@@ -24,6 +24,7 @@ Optionen
 
 - [Optionen, Futures und andere Derivate von John C. Hull](https://www.amazon.de/Optionen-Futures-Derivate-Pearson-Studium/dp/3868943498/)
 - [Trade Options with an Edge von Russell Richards](https://www.amazon.de/Trade-Options-Edge-Russell-Richards/dp/1524538183)
+- [Options as a Strategic Investment von Lawrence G. McMillan](https://www.amazon.de/Options-as-Strategic-Investment-Fifth/dp/0735204659)
 - [Strategisch Investieren mit Aktienoptionen: Konservativer Vermögenszuwachs mit Stillhaltergeschäften von Dr. Peter Putz](https://www.amazon.de/Strategisch-Investieren-Aktienoptionen-Verm%C3%B6genszuwachs-Stillhaltergesch%C3%A4ften/dp/1491065850/)
 
 
