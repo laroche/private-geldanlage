@@ -5,6 +5,7 @@ Steuern
 Linksammlung zu Steuern
 -----------------------
 
+- [Allianz Global Investors: Steuern für Privat- und Firmenanleger](https://de.allianzgi.com/de-de/service/steuern)
 - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
 - <https://www.wertpapier-forum.de/forum/101-steuern-recht-und-unternehmensgr%C3%BCndung/>
 - <https://www.juhn.com/>
@@ -96,6 +97,8 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [BMF Einzelfragen zur Abgeltungsteuer 2021-06-03](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-06-03-einzelfragen-zur-abgeltungsteuer-ergaenzung-des-BMF-Schreibens-vom-18-Januar-2016.pdf?__blob=publicationFile&v=1)
       - <https://www.youtube.com/watch?v=xZyWEzCsF9A>
 - BMF zum Investmentsteuergesetz 2018 (InvStG 2018)
+   - Vorabpauschale 2018: Basiszins ist 0,87 %
+   - Vorabpauschale 2019: Basiszins ist 0,52 %
    - [Vorabpauschale 2020](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-01-29-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=4): Basiszins ist 0,07 %
    - [Vorabpauschale 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-06-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=3): Basiszins ist -0,45 %, es wird keine Vorabpauschale erhoben
    - [Anwendungsfragen vom 2017-09-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
