@@ -11,6 +11,7 @@ Linksammlung zu Steuern
 - <https://www.juhn.com/>
    - [YouTube Juhn](https://www.youtube.com/channel/UCRXSpcj8K_LKN4eVaXFJkmg)
 - Besteuerung von Kryptowährungen: <https://pekuna.de/>
+   - [YouTube Pekuna GmbH](https://www.youtube.com/channel/UCWSZXSjW59Tjnq7pjfMk69w)
 
 
 Steuern bei inländischen Banken/Brokern
