@@ -185,8 +185,9 @@ und dann nur dieser USD-Gewinn einmal am Schluss in Euro umgerechnet.
 Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
 Angaben wohl in der Steuererklärung komplett weg. (Eine Freigrenze gibt es dazu auch.)
 
-Wenn man sich im IB Account einloggt, kann man unter "Reports" und dann "Statements" so
-einen Jahresreport neu definieren. Folgende Einstellungen sollten ganz gut geeignet sein:
+Wenn man sich im IB Account einloggt, kann man unter "Berichte" und dann "Kontoauszüge" so
+einen Jahresreport neu definieren. (Bei englischer Sprache ist das unter "Reports" und dann
+"Statements" zu finden.) Folgende Einstellungen sollten ganz gut geeignet sein:
 
 ![Jahres-Steuer-Report](img/Steuer-Report.png)
 
