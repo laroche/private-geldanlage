@@ -176,7 +176,7 @@ Zusammenfassung Steuern im Privatvermögen bei Fremdwährungskonten:
 Steuern für Accounts bei Interactive Brokers
 --------------------------------------------
 
-Von einem Jahresreport lässt sich weitgehend die Steuer erledigen.
+Von einem Jahresreport lässt sich weitgehend (etwas pauschalisiert) die Steuer erledigen.
 
 Bei den Zahlen ist der Report etwas ungenau bei der Berechnung der Gewinne nach FIFO. Anstatt
 sowohl den Kauf wie den Verkauspreis in Euro umzurechnen wird hier der Gewinn in USD berechnet
@@ -184,6 +184,13 @@ und dann nur dieser USD-Gewinn einmal am Schluss in Euro umgerechnet.
 
 Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
 Angaben wohl in der Steuererklärung komplett weg. (Eine Freigrenze gibt es dazu auch.)
+
+Wenn man sich im IB Account einloggt, kann man unter "Reports" und dann "Statements" so
+einen Jahresreport neu definieren. Folgende Einstellungen sollten ganz gut geeignet sein:
+
+![Jahres-Steuer-Report](img/Steuer-Report.png)
+
+Für die eigenen Unterlagen kann man ja noch einen kompletten Report mit allen Daten erstellen.
 
 
 Software zum Einlesen der Interactive Broker Reports
