@@ -177,7 +177,7 @@ Steuern für Accounts bei Interactive Brokers
 --------------------------------------------
 
 Von einem Jahresreport lässt sich weitgehend (etwas pauschalisiert) die Steuer erledigen.
-Bei IB kann man aktuell die Daten der letzten 5 Jahre sich ausgeben lassen.
+Bei IB kann man sich aktuell die Daten der letzten 5 Jahre ausgeben lassen.
 
 Bei den Zahlen ist der Report etwas ungenau bei der Berechnung der Gewinne nach FIFO. Anstatt
 sowohl den Kauf wie den Verkauspreis in Euro umzurechnen wird hier der Gewinn in USD berechnet
