@@ -81,6 +81,7 @@ Auswertung, Trading Log und Backtest
 - <https://investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/>
 - <https://fyoumoney.de/diy-portfolio-uebersicht-in-google-sheets/>
 - <https://www.portfoliovisualizer.com/>
+- <https://visualtradingjournal.com/>
 
 
 Finanznachrichten
@@ -140,6 +141,7 @@ CoT
 - <https://www.livewithoscar.com/>
    - [YouTube Oscar Carboni](https://www.youtube.com/c/futuresanalysts/videos)
 - <https://futures.io/options-futures/>
+- <https://www.mrci.com/>
 
 
 Optionen
