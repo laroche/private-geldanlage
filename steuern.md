@@ -5,6 +5,7 @@ Steuern
 Linksammlung zu Steuern
 -----------------------
 
+- <https://www.finanztip.de/steuererklaerung-anlage-kap/>
 - [Allianz Global Investors: Steuern für Privat- und Firmenanleger](https://de.allianzgi.com/de-de/service/steuern)
 - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
 - <https://www.wertpapier-forum.de/forum/101-steuern-recht-und-unternehmensgr%C3%BCndung/>
@@ -12,6 +13,7 @@ Linksammlung zu Steuern
    - [YouTube Juhn](https://www.youtube.com/channel/UCRXSpcj8K_LKN4eVaXFJkmg)
 - Besteuerung von Kryptowährungen: <https://pekuna.de/>
    - [YouTube Pekuna GmbH](https://www.youtube.com/channel/UCWSZXSjW59Tjnq7pjfMk69w)
+- [Steuerberatergebührenverordnung](https://www.gesetze-im-internet.de/stbgebv/)
 
 
 Steuern bei inländischen Banken/Brokern
@@ -89,7 +91,6 @@ Regeln der Kapitalertragsteuer
 aktuelle Rechtsprechung, BMF und Zusatzinfos
 --------------------------------------------
 
-- [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
 - [alle BMF-Schreiben](https://www.bundesfinanzministerium.de/Web/DE/Service/Publikationen/BMF_Schreiben/bmf_schreiben.html)
 - <https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2020-11-11-KapitalertragSt-Ausstellung-Steuerbescheinigung-Kapitalertraege.pdf?__blob=publicationFile&v=2>
 - BMF zur Abgeltungssteuer
@@ -118,6 +119,20 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [Anwendungsfragen vom 2021-06-18](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-18-anwendungsschreiben-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1)
 - [BMF: Stand DBA](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
 - [BMF-Schreiben zu virtuellen Währungen und Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2021-06-17-est-kryptowaehrungen.pdf?__blob=publicationFile&v=2)
+
+
+Aktienverluste voll anrechnen
+-----------------------------
+
+- [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
+   - <https://blog.handelsblatt.com/steuerboard/2021/06/07/gute-nachrichten-fuer-private-anleger-bfh-haelt-beschraenkung-der-verlustverrechnung-fuer-aktien-fuer-verfassungswidrig/>
+
+
+Termingeschäftsverluste ab 2021
+-------------------------------
+
+- <https://epetitionen.bundestag.de/content/petitionen/_2021/_06/_06/Petition_124097.html>
+- <https://www.openpetition.de/petition/online/initiative-ruecknahme-der-steuerlichen-benachteiligungen-privater-anleger>
 
 
 Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
