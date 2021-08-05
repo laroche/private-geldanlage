@@ -142,6 +142,8 @@ CoT
    - [YouTube Oscar Carboni](https://www.youtube.com/c/futuresanalysts/videos)
 - <https://futures.io/options-futures/>
 - <https://www.mrci.com/>
+- <https://www.upperman.com/>
+   - [Commitments of Traders: Profitable Insider-Strategien: Floyd Uppermann](https://www.amazon.de/Commitments-Traders-Insider-Strategien-Floyd-Uppermann/dp/3898792080/ref=sr_1_1)
 
 
 Optionen
