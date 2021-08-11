@@ -133,6 +133,7 @@ Termingeschäftsverluste ab 2021
 
 - <https://epetitionen.bundestag.de/content/petitionen/_2021/_06/_06/Petition_124097.html>
 - <https://www.openpetition.de/petition/online/initiative-ruecknahme-der-steuerlichen-benachteiligungen-privater-anleger>
+- <https://www.youtube.com/c/MartinHlouschekOptionstrader/videos>
 
 
 Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
@@ -221,5 +222,8 @@ Steuererklärung weiter.
 - <https://github.com/titov-vv/jal>
 - <https://github.com/KonishchevDmitry/investments>
 - <https://github.com/gabbersepp/ib-flex-reader>
+- <https://github.com/airens/interactive_brokers_tax>
+- <https://github.com/wilsonfreitas/awesome-quant>
+- <https://github.com/shashankvemuri/Finance>
 
 

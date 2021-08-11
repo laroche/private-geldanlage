@@ -103,6 +103,7 @@ Morgenroutine
 - <https://markets.cboe.com/us/options/market_statistics/>
 - <https://www.cboe.com/us/options/market_statistics/daily/>
 - <https://www.cboe.com/us/options/market_statistics/#current-stats>
+- Up/Down Volumes der NYSE bzw NASDAQ: <https://www.barchart.com/stocks/momentum>
 - <https://options4winners.de/panikbericht>
 - <https://currentmarketvaluation.com/models/buffett-indicator.php>
 - <https://www.insiderkauf.de/barometer>
