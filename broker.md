@@ -82,6 +82,8 @@ Tastyworks
 
 - <https://tastyworks.com/> und offene Lernplattform <https://www.tastytrade.com/>
    - [Youtube: Tastytrade](https://www.youtube.com/c/tastytrade1/videos)
+   - [Youtube: The Small Exchange](https://www.youtube.com/c/TheSmallExchange/videos)
+   - [Youtube: Tastyworks](https://www.youtube.com/channel/UCk99MvmvHZutKIkh2u0ImrA/videos)
 - Zum Vorbereiten der Steuererklärung kann <https://github.com/laroche/tastyworks-pnl> hilfreich sein.
 - Für Dividenden von US-Aktien bekomme ich nur 15% Quellensteuer anstelle der vollen 30% abgezogen.
   Es gibt aber einige Rückmeldungen, dass Tastyworks dies nicht immer richtig einträgt. Falls dies
