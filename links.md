@@ -178,5 +178,8 @@ Optionen
    - [YouTube Patrick Boyle](https://www.youtube.com/c/PatrickBoyleOnFinance/videos)
 - <https://www.cboe.com/insights/>
    - [YouTube CBOE](https://www.youtube.com/user/CBOEtv/videos)
+- <https://spotgamma.com/>
+   - [YouTube SpotGamma](https://www.youtube.com/c/spotgamma/videos)
+   - <https://twitter.com/tarantinotradi1>
 
 
