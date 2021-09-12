@@ -14,6 +14,8 @@ Linksammlung zu Steuern
 - Besteuerung von Kryptowährungen: <https://pekuna.de/>
    - [YouTube Pekuna GmbH](https://www.youtube.com/channel/UCWSZXSjW59Tjnq7pjfMk69w)
 - [Steuerberatergebührenverordnung](https://www.gesetze-im-internet.de/stbgebv/)
+- <https://www.steuer-webinar.de/> von Daniel Denker
+   - [YouTube Steuer-Webinar von Daniel Denker](https://www.youtube.com/c/SteuerWebinar/videos)
 
 
 Steuern bei inländischen Banken/Brokern
@@ -126,6 +128,7 @@ Aktienverluste voll anrechnen
 
 - [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
    - <https://blog.handelsblatt.com/steuerboard/2021/06/07/gute-nachrichten-fuer-private-anleger-bfh-haelt-beschraenkung-der-verlustverrechnung-fuer-aktien-fuer-verfassungswidrig/>
+   - [Steuer-Webinar: BFH hält Regelung im Einkommensteuergesetz für verfassungswidrig](https://www.youtube.com/watch?v=Bhkqy7_hn80)
 
 
 Termingeschäftsverluste ab 2021

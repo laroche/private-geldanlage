@@ -74,14 +74,15 @@ Auswertung, Trading Log und Backtest
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
 - <https://www.tradingdiarypro.com/>
-- <https://tresor.one/>
+- <https://www.parqet.com/> <https://tresor.one/>
    - <https://github.com/tresorone/tresor-import/>
-- <https://app.getquin.com/>
+- <https://www.getquin.com/> <https://app.getquin.com/>
    - <https://app.getquin.com/learn/unterstuetze-broker-getquin/>
 - <https://investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/>
 - <https://fyoumoney.de/diy-portfolio-uebersicht-in-google-sheets/>
 - <https://www.portfoliovisualizer.com/>
 - <https://visualtradingjournal.com/>
+- [extraETF: FinanzManager](https://de.extraetf.com/user/portfolio)
 
 
 Finanznachrichten
