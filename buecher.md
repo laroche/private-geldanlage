@@ -7,6 +7,7 @@ Allgemein
 
 - [Souverän investieren mit Indexfonds und ETFs von Gerd Kommer](https://www.campus.de/buecher-campus-verlag/finanzen/geld-/-bank-/-boerse/souveraen_investieren_mit_indexfonds_und_etfs-14862.html)
 - [Einfach nicht arm sterben von Rene Isau](https://www.amazon.de/Einfach-nicht-sterben-Verm%C3%B6gensbildung-voranbringst-ebook/dp/B087699F1K)
+- [Aktien für Einsteiger von Michael Blumenthal](https://www.amazon.de/Aktien-f%C3%BCr-Einsteiger-Investment-Ratgeber-konservativem/dp/B098GJDC4C)
 - [Über die Gier, die Angst und den Herdentrieb der Anleger von Pirmin Hotz](https://www.buecher.de/shop/investment/ueber-die-gier-die-angst-und-den-herdentrieb-der-anleger/hotz-pirmin/products_products/detail/prod_id/60709732/)
 - [Inflation – die ersten zweitausend Jahre von Urban Bacher, Hanno Beck, Marco Herrmann](https://fazbuch.de/produkt/inflation-die-ersten-zweitausend-jahre/)
 - [Nach dem Kollaps: Die sieben Geheimnisse des Vermögenserhalts im kommenden Chaos von James Rickards ](https://www.amazon.de/Nach-dem-Kollaps-Geheimnisse-Verm%C3%B6genserhalts/dp/3959722494)
@@ -22,9 +23,12 @@ Allgemein
 Optionen
 --------
 
+- [Keine Angst vor Optionen: Profiwissen für Einsteiger von Sincere und Michael](https://www.amazon.de/Keine-Angst-vor-Optionen-Profiwissen/dp/3864707161/)
 - [Optionen, Futures und andere Derivate von John C. Hull](https://www.amazon.de/Optionen-Futures-Derivate-Pearson-Studium/dp/3868943498/)
 - [Trade Options with an Edge von Russell Richards](https://www.amazon.de/Trade-Options-Edge-Russell-Richards/dp/1524538183)
 - [Options as a Strategic Investment von Lawrence G. McMillan](https://www.amazon.de/Options-as-Strategic-Investment-Fifth/dp/0735204659)
 - [Strategisch Investieren mit Aktienoptionen: Konservativer Vermögenszuwachs mit Stillhaltergeschäften von Dr. Peter Putz](https://www.amazon.de/Strategisch-Investieren-Aktienoptionen-Verm%C3%B6genszuwachs-Stillhaltergesch%C3%A4ften/dp/1491065850/)
+- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques von Sheldon Natenberg](https://www.amazon.de/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774/)
+- [Options with a cherry on top von Vicki Lee Dillard](https://www.amazon.de/Options-cherry-top-eBook-English-ebook/dp/B0842ZLMRX)
 
 

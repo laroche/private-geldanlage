@@ -151,6 +151,7 @@ CoT
 Optionen
 --------
 
+- [Wikipedia: finance Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
 - <https://www.optionsuniversum.de/>
    - <https://www.optionsuniversum.de/newsletter-archiv/>
    - sehr empfehlenswerter Kurs: [Hedge Trades für Aktienmarkt-Portfolios inklusive Airbag Trade](https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/)
