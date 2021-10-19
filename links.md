@@ -74,6 +74,7 @@ Auswertung, Trading Log und Backtest
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
 - <https://www.tradingdiarypro.com/>
+- <https://www.tradinglogbook.de/>
 - <https://www.parqet.com/> <https://tresor.one/>
    - <https://github.com/tresorone/tresor-import/>
 - <https://www.getquin.com/> <https://app.getquin.com/>
