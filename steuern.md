@@ -16,6 +16,10 @@ Linksammlung zu Steuern
 - [Steuerberatergebührenverordnung](https://www.gesetze-im-internet.de/stbgebv/)
 - <https://www.steuer-webinar.de/> von Daniel Denker
    - [YouTube Steuer-Webinar von Daniel Denker](https://www.youtube.com/c/SteuerWebinar/videos)
+- Wenn man Unterlagen online anstelle von Ausdrucken dem Finanzamt übermitteln will,
+  kann man dies in Baden-Württemberg über folgenden Link machen:
+  <https://finanzamt-bw.fv-bwl.de/,Lde/Startseite/Service/Kontaktformular>
+  Über WISO/Elster gibt es wohl auch eine Möglichkeit zur Übermittlung von Unterlagen.
 
 
 Steuern bei inländischen Banken/Brokern
