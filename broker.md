@@ -107,10 +107,11 @@ Pro:
 Con:
 
 - Konto nur in USD, keine anderen Währungen.
+- Genaue Handelskosten siehe <https://tastyworks.com/commissions-and-fees/>.
 - Geringe Handelskosten, aber:
    - Hohe Kosten für Dividendenzahlungen ($ 5).
    - Hohe Kosten bei der Andienung von Optionen ($ 5).
-- Kreditzinsen ab ca. 6 bis 7 % (ist bei IB deutlich günstiger)
+- Kreditzinsen ab ca. 8 % (ist bei IB deutlich günstiger)
 - Ein- und Auszahlungen sind eventuell teurer, da keine SEPA-Zahlungen möglich sind.
   Wenn man ein Bankkonto in den USA hat oder auch bei Interactive Brokers Kunde ist, kann
   man eine ACH-Zahlung verwenden. Ansonsten kann <https://currencyfair.com/> günstig sein.
