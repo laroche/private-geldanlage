@@ -153,6 +153,7 @@ Optionen
 --------
 
 - [Wikipedia: finance Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
+- <https://www.trading-volatility.com/>
 - <https://www.optionsuniversum.de/>
    - <https://www.optionsuniversum.de/newsletter-archiv/>
    - sehr empfehlenswerter Kurs: [Hedge Trades für Aktienmarkt-Portfolios inklusive Airbag Trade](https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/)
@@ -167,6 +168,8 @@ Optionen
    - [YouTube Inside Markets](https://www.youtube.com/c/InsideMarkets/videos)
 - <https://finance.coach/>
    - [YouTube Finance.Coach](https://www.youtube.com/c/FinanceCoach/videos)
+   - [Facebook Die Stillhalter](https://www.facebook.com/groups/die.stillhalter)
+   - [Facebook Optionshandel lernen](https://www.facebook.com/groups/optionshandel.lernen)
 - <https://optionalpha.com/>
    - [YouTube OptionAlpha](https://www.youtube.com/c/OptionAlpha/videos)
 - <https://aeromir.com/>
@@ -184,6 +187,5 @@ Optionen
 - <https://spotgamma.com/>
    - [YouTube SpotGamma](https://www.youtube.com/c/spotgamma/videos)
    - <https://twitter.com/tarantinotradi1>
-- <https://www.trading-volatility.com/>
 
 
