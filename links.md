@@ -184,5 +184,6 @@ Optionen
 - <https://spotgamma.com/>
    - [YouTube SpotGamma](https://www.youtube.com/c/spotgamma/videos)
    - <https://twitter.com/tarantinotradi1>
+- <https://www.trading-volatility.com/>
 
 
