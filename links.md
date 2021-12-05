@@ -73,6 +73,8 @@ Auswertung, Trading Log und Backtest
 
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
+- <https://trademetria.com/>
+- <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
 - <https://www.tradinglogbook.de/>
 - <https://www.parqet.com/> <https://tresor.one/>
