@@ -77,6 +77,7 @@ Auswertung, Trading Log und Backtest
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
 - <https://www.tradinglogbook.de/>
+- <http://www.tradelogsoftware.com/>
 - <https://www.parqet.com/> <https://tresor.one/>
    - <https://github.com/tresorone/tresor-import/>
 - <https://www.getquin.com/> <https://app.getquin.com/>

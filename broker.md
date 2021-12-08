@@ -102,14 +102,15 @@ Pro:
 - FINRA/SIPC-Schutz
 - Manche mögen die Trading-App/Weboberfläche mehr als die TWS, aber die TWS kann
   deutlich mehr, wenn man sich dazu etwas Zeit zum Einlernen nimmt.
-- ETFs wie SPY, QQQ, IWM, DIA, GLD, SLV können direkt gehandelt werden.
+- ETFs wie SPY, QQQ, IWM, DIA, GLD, SLV können direkt gehandelt werden, müssen beim Kauf nicht
+  über Optionen angedient werden.
 
 Con:
 
 - Konto nur in USD, keine anderen Währungen.
 - Genaue Handelskosten siehe <https://tastyworks.com/commissions-and-fees/>.
 - Geringe Handelskosten, aber:
-   - Hohe Kosten für Dividendenzahlungen ($ 5).
+   - Hohe Kosten für Dividendenzahlungen ($ 5). (Das könnte inzwischen behoben sein. Tritt nicht mehr auf?)
    - Hohe Kosten bei der Andienung von Optionen ($ 5).
 - Kreditzinsen ab ca. 8 % (ist bei IB deutlich günstiger)
 - Ein- und Auszahlungen sind eventuell teurer, da keine SEPA-Zahlungen möglich sind.

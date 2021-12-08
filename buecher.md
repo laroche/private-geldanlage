@@ -31,5 +31,6 @@ Optionen
 - [Strategisch Investieren mit Aktienoptionen: Konservativer Vermögenszuwachs mit Stillhaltergeschäften von Dr. Peter Putz](https://www.amazon.de/Strategisch-Investieren-Aktienoptionen-Verm%C3%B6genszuwachs-Stillhaltergesch%C3%A4ften/dp/1491065850/)
 - [Option Volatility and Pricing: Advanced Trading Strategies and Techniques von Sheldon Natenberg](https://www.amazon.de/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774/)
 - [Options with a cherry on top von Vicki Lee Dillard](https://www.amazon.de/Options-cherry-top-eBook-English-ebook/dp/B0842ZLMRX)
+- [Option Strategy Risk / Return Ratios von Brian Johnson](https://www.amazon.de/Option-Strategy-Risk-Return-Ratios/dp/0692028293)
 
 
