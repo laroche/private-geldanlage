@@ -57,6 +57,7 @@ Link-Sammlung
 - <https://www.realvision.com/>
    - [YouTube RealVision](https://www.youtube.com/c/RealVisionFinance/videos)
 - <https://www.lynalden.com/>
+- <https://think-beyondtheobvious.com/> von Dr. Daniel Stelter
 - <https://de.wikipedia.org/wiki/72er-Regel>
    - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
