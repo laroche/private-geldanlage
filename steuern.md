@@ -43,6 +43,10 @@ Steuern bei ausländischen Banken/Brokern
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
 - <https://www.haufe.de/finance/haufe-finance-office-premium/einkuenfte-aus-kapitalvermoegen-1225-zeilen-1826_idesk_PI20354_HI9285903.html>
+- Mit dem Steuerbescheid kann das Finanzamt [Wikipedia: Steuervorauszahlungen](https://de.wikipedia.org/wiki/Steuervorauszahlung) festsetzen,
+  die Quartalsweise an das Finanzamt zu zahlen sind. Man kann gegen diese Festsetzung beim Finanzamt
+  Einspruch erheben (weil die Ergebnisse in Zukunft nicht zu erwarten sind) oder man kann später einen
+  Antrag auf Herabsetzung der Vorauszahlungen stellen, wenn die aktuellen Ergebnisse niedriger ausfallen.
 
 
 Regeln der Kapitalertragsteuer

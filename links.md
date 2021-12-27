@@ -74,6 +74,7 @@ Auswertung, Trading Log und Backtest
 
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
+   - [YouTube: Import von IB zu PP](https://www.youtube.com/watch?v=1qveIqa49hA)
 - <https://trademetria.com/>
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
@@ -163,6 +164,7 @@ Optionen
    - sehr empfehlenswerter Kurs: [Hedge Trades für Aktienmarkt-Portfolios inklusive Airbag Trade](https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/)
    - [YouTube Optionsuniversum](https://www.youtube.com/channel/UCxC8_fDHeRR75LJrjZKZTzg/videos)
    - <https://www.facebook.com/groups/934266489930445>
+   - <https://twitter.com/Optionsuniversu>
 - <https://der-optionstrader.com/>
    - [YouTube Martin Hlouschek](https://www.youtube.com/c/MartinHlouschekOptionstrader/videos)
 - <https://www.sheridanmentoring.com/>
