@@ -53,8 +53,9 @@ Pro:
 
 - Der günstige Standard-Broker im Ausland (USA).
 - Große Auswahl an Produkten und Börsen handelbar.
+- Konto kann viele verschiedene Währungen halten, Umtausch zu gringen Kosten.
 - Sehr gringe Kosten. (Transaktionskosten, Devisenhandel, Zinsen)
-   - Kreditzinsen sehr gering.
+   - Kreditzinsen sehr gering (oft zu ca. 1.5 %).
 - Einzahlung/Auszahlung erfolgt als SEPA-Überweisung mit geringen Kosten.
 
 Con:
@@ -104,6 +105,7 @@ Pro:
   deutlich mehr, wenn man sich dazu etwas Zeit zum Einlernen nimmt.
 - ETFs wie SPY, QQQ, IWM, DIA, GLD, SLV können direkt gehandelt werden, müssen beim Kauf nicht
   über Optionen angedient werden.
+- Crypto-Trading integriert
 
 Con:
 
@@ -111,8 +113,9 @@ Con:
 - Genaue Handelskosten siehe <https://tastyworks.com/commissions-and-fees/>.
 - Geringe Handelskosten, aber:
    - Hohe Kosten für Dividendenzahlungen ($ 5). (Das könnte inzwischen behoben sein. Tritt nicht mehr auf?)
-   - Hohe Kosten bei der Andienung von Optionen ($ 5).
-- Kreditzinsen ab ca. 8 % (ist bei IB deutlich günstiger)
+   - Hohe Kosten bei der Andienung von Optionen ($ 5). Dies sollte im Handel vermieden werden. Bei Andienung
+     entstehen oft auch größere Währungsgewinne.
+- Kreditzinsen ab ca. 8 % (ist bei IB deutlich günstiger, eher ca. 1.5 %)
 - Ein- und Auszahlungen sind eventuell teurer, da keine SEPA-Zahlungen möglich sind.
   Wenn man ein Bankkonto in den USA hat oder auch bei Interactive Brokers Kunde ist, kann
   man eine ACH-Zahlung verwenden. Ansonsten kann <https://currencyfair.com/> günstig sein.
