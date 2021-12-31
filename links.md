@@ -12,6 +12,7 @@ Link-Sammlung
       - [YouTube Aktienfinder](https://www.youtube.com/channel/UCp4NH9dmMSN2l8PPeVHfEsQ)
    - <https://www.fastgraphs.com/>
       - [YouTube FASTgraphs](https://www.youtube.com/c/FASTgraphs/videos)
+   - <https://www.tobigs.de/funviz/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
    - [YouTube-Suche Andreas Beck](https://www.youtube.com/results?search_query=Andreas+Beck)
