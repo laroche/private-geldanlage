@@ -125,6 +125,7 @@ Aktienanlage
 
 - <https://www.markuselsaesser.com/>
    - [YouTube Markus Elsässer](https://www.youtube.com/channel/UCrl3m6hXSCJUZIZd0cK6w4A)
+- <https://www.youtube.com/c/ChristianDelacour/videos>
 
 
 Elliott Wave Analysis

@@ -16,6 +16,7 @@ Neo-Broker:
 - <https://de.scalable.capital/>
 - <https://smartbroker.de/>
 - <https://traderepublic.com/>
+- <https://www.finanzen.net/zero/>
 
 traditionellere Online-Broker:
 
