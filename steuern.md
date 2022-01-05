@@ -42,6 +42,7 @@ Steuern bei ausländischen Banken/Brokern
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
+- <https://www.youtube.com/watch?v=QFgyPz5Y7VA&t=451s>
 - <https://www.haufe.de/finance/haufe-finance-office-premium/einkuenfte-aus-kapitalvermoegen-1225-zeilen-1826_idesk_PI20354_HI9285903.html>
 - Mit dem Steuerbescheid kann das Finanzamt [Wikipedia: Steuervorauszahlungen](https://de.wikipedia.org/wiki/Steuervorauszahlung) festsetzen,
   die Quartalsweise an das Finanzamt zu zahlen sind. Man kann gegen diese Festsetzung beim Finanzamt
@@ -236,9 +237,11 @@ Interactive Brokers zu tun hat. Vielleicht bekommt man damit für eine
 Steuererklärung weiter.
 
 - Steuerdaten für Interactive Brokers erstellen: <https://github.com/tobigs/IB_Tax>
+- <https://github.com/cdump/investments>
 - <https://github.com/titov-vv/jal>
 - <https://github.com/KonishchevDmitry/investments>
 - <https://github.com/gabbersepp/ib-flex-reader>
+- <https://github.com/csingley/ibflex>
 - <https://github.com/airens/interactive_brokers_tax>
 - <https://github.com/wilsonfreitas/awesome-quant>
 - <https://github.com/shashankvemuri/Finance>
