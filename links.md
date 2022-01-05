@@ -55,6 +55,7 @@ Link-Sammlung
    - <https://www.youtube.com/channel/UCcirfI2eb2MNKmn5K0gNAjg>
 - <https://www.youtube.com/results?search_query=Druckenmiller>
 - <https://www.youtube.com/results?search_query=Jim+Rogers>
+- <https://www.youtube.com/c/TheMaverickofWallStreet/videos>
 - <https://www.realvision.com/>
    - [YouTube RealVision](https://www.youtube.com/c/RealVisionFinance/videos)
 - <https://www.lynalden.com/>
@@ -76,6 +77,7 @@ Auswertung, Trading Log und Backtest
 - <https://www.portfolio-performance.info/>
    - <https://github.com/buchen/portfolio>
    - [YouTube: Import von IB zu PP](https://www.youtube.com/watch?v=1qveIqa49hA)
+   - <https://divvydiary.com/>
 - <https://trademetria.com/>
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
