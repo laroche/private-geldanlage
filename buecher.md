@@ -32,5 +32,6 @@ Optionen
 - [Option Volatility and Pricing: Advanced Trading Strategies and Techniques von Sheldon Natenberg](https://www.amazon.de/Option-Volatility-Pricing-Strategies-Techniques/dp/0071818774/)
 - [Options with a cherry on top von Vicki Lee Dillard](https://www.amazon.de/Options-cherry-top-eBook-English-ebook/dp/B0842ZLMRX)
 - [Option Strategy Risk / Return Ratios von Brian Johnson](https://www.amazon.de/Option-Strategy-Risk-Return-Ratios/dp/0692028293)
+- [Hedging mit Optionen: Crashsicher handeln von Eric Ludwig](https://www.amazon.de/gp/product/B09MQSHFLX/)
 
 
