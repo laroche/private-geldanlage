@@ -29,6 +29,10 @@ Link-Sammlung
    - <https://twitter.com/echtgeldtv>
 - <https://www.dividendenadel.de/>
    - <https://twitter.com/CWRoehl>
+- Beate und Uwe Sander
+   - <https://boersenpirat.de/>
+   - <https://www.youtube.com/channel/UCWUjHZFQeAj-aXfGTYmQfDw/videos>
+   - <https://www.youtube.com/c/BialloDeOnlineMagazinFuerIhrGeld/videos>
 - <http://www.intelligent-investieren.net/>
    - <https://www.facebook.com/Intelligent-Investieren-331872843507373/>
 - <https://www.gajowiy.com/>
