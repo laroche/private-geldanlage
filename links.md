@@ -40,6 +40,8 @@ Link-Sammlung
 - <https://www.pwlcapital.com/author/benjamin-felix/>
    - [YouTube Ben Felix CSI](https://www.youtube.com/c/BenFelixCSI/videos)
 - <https://rationalreminder.ca/podcast>
+- <https://www.flossbachvonstorch.de/>
+   - [YouTube Flossbach von Storch](https://www.youtube.com/channel/UCGXecnnvZtccgknZGtppNiw/videos)
 - <https://www.dje.de/>
    - [YouTube DJE Kapital](https://www.youtube.com/c/DJEKapitalAG/videos)
 - Auswahl von ETFs/Fonds:
