@@ -241,6 +241,7 @@ Steuererklärung weiter.
 - <https://github.com/titov-vv/jal>
 - <https://github.com/KonishchevDmitry/investments>
 - <https://github.com/gabbersepp/ib-flex-reader>
+   - aktiver Fork: <https://github.com/zdomokos/ib-flex-reader>
 - <https://github.com/csingley/ibflex>
 - <https://github.com/airens/interactive_brokers_tax>
 - <https://github.com/wilsonfreitas/awesome-quant>
