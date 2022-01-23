@@ -212,10 +212,16 @@ sowohl den Kauf wie den Verkauspreis in Euro umzurechnen wird hier der Gewinn in
 und dann nur dieser USD-Gewinn einmal am Schluss in Euro umgerechnet.
 
 Bei Stillhaltergeschäften wird beim Report von IB erst beim Schliessen der Position der Gewinn
-ermittelt. Nach offiziellen Regeln muss direkt beim Öffnen die Prämie versteuert werden und dann
+ermittelt. Bis dahin gilt die Position als offen und nicht realisiert.
+Nach offiziellen Regeln muss direkt beim Öffnen die Prämie versteuert werden und dann
 die Glattstellungsprämie als Verlust gebucht werden. Dies macht vor allem bei Trades über
 die Jahresgrenze einen Unterschied, da diese dann erst im Folgejahr bei den realisierten Gewinnen
 auftauchen.
+
+Es gibt Berichte, dass bei Andienung von Short Optionen die Prämien mit in die Aktienpreise
+eingerechnet werden. (Hab ich nicht verifiziert, sollte ja eigentlich nur für Long-Optionen
+gemacht werden.)
+Damit werden Einnahmen zwischen verschiedenen Einnahmetöpfe verschoben.
 
 Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
 Angaben wohl in der Steuererklärung komplett weg. (Eine Freigrenze gibt es dazu auch.)
