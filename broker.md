@@ -79,6 +79,7 @@ CapTrader
 
 - Reseller von IB in Deutschland
    - höhere Kosten als direkt bei IB
+      - Kosten beim Kauf von Aktien in Deutschland geringer als bei IB
 - <https://www.captrader.com/>
    - [YouTube CapTrader](https://www.youtube.com/c/Captrader/videos)
 
