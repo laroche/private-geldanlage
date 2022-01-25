@@ -140,6 +140,12 @@ Aktienverluste voll anrechnen
    - [Steuer-Webinar: BFH hält Regelung im Einkommensteuergesetz für verfassungswidrig](https://www.youtube.com/watch?v=Bhkqy7_hn80)
 
 
+Doppelbsteuerung der Renten
+---------------------------
+
+- <https://www.youtube.com/watch?v=OJpHKpwpZm8>
+
+
 Termingeschäftsverluste ab 2021
 -------------------------------
 
