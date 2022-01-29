@@ -4,6 +4,7 @@ Link-Sammlung
 - Chart-Software mit vielen Börsen/Daten: <https://de.tradingview.com/>
 - Chart-Software: <https://www.barchart.com/>
 - Überblick über die Märkte: <https://finviz.com/>
+- <https://optionsellerroi.com/>
 - Tickdaten einzelner Aktien an der Stuttgarter Börse: <https://www.finanzen.net/>
    - Beispiel SAP: <https://www.finanzen.net/realtimekurs/sap>
 - Zu einzelnen Aktien Kommentare lesen: <https://seekingalpha.com/>
