@@ -76,6 +76,7 @@ Regeln der Kapitalertragsteuer
 - Dividenden und Quellensteuer
 - [Investmentsteuergesetz](https://de.wikipedia.org/wiki/Investmentsteuergesetz_(Deutschland))
    - Die Anlage KAP-INV muss dazu ausgefüllt werden.
+   - <https://www.youtube.com/watch?v=mmQkGhfgD6w>
 - Zinsen
 - Optionen
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
@@ -114,6 +115,7 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - Vorabpauschale 2019: Basiszins ist 0,52 %
    - [Vorabpauschale 2020](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-01-29-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=4): Basiszins ist 0,07 %
    - [Vorabpauschale 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-06-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=3): Basiszins ist -0,45 %, es wird keine Vorabpauschale erhoben
+   - Vorabpauschale 2022: Basiszins ist -0,05 %, es wird keine Vorabpauschale erhoben
    - [Anwendungsfragen vom 2017-09-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-11-08](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-11-08-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018-dringliche-fragen-der-DK-sowie-des-BVI.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-12-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-12-21-Anwendungsfragen-Investmentsteuergesetz-Dringliche-Fragen-BVI-DK.pdf?__blob=publicationFile&v=4)

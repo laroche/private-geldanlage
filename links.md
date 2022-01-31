@@ -34,6 +34,8 @@ Link-Sammlung
    - <https://boersenpirat.de/>
    - <https://www.youtube.com/channel/UCWUjHZFQeAj-aXfGTYmQfDw/videos>
    - <https://www.youtube.com/c/BialloDeOnlineMagazinFuerIhrGeld/videos>
+- <https://finanzgeschichten.com>
+   - <https://www.youtube.com/c/Finanzgeschichten/videos>
 - <http://www.intelligent-investieren.net/>
    - <https://www.facebook.com/Intelligent-Investieren-331872843507373/>
 - <https://www.gajowiy.com/>
