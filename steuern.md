@@ -14,6 +14,7 @@ Linksammlung zu Steuern
 - Besteuerung von Kryptowährungen: <https://pekuna.de/>
    - [YouTube Pekuna GmbH](https://www.youtube.com/channel/UCWSZXSjW59Tjnq7pjfMk69w)
 - [Steuerberatergebührenverordnung](https://www.gesetze-im-internet.de/stbgebv/)
+- Thomas Breiden - Kapitalerträge und Verlustverrechnung 31.01.2022: <https://www.youtube.com/watch?v=EZ99Pbi1osQ>
 - <https://www.steuer-webinar.de/> von Daniel Denker
    - [YouTube Steuer-Webinar von Daniel Denker](https://www.youtube.com/c/SteuerWebinar/videos)
 - Wenn man Unterlagen online anstelle von Ausdrucken dem Finanzamt übermitteln will,
