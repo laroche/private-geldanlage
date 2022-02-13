@@ -14,6 +14,7 @@ Link-Sammlung
    - <https://www.fastgraphs.com/>
       - [YouTube FASTgraphs](https://www.youtube.com/c/FASTgraphs/videos)
    - <https://www.tobigs.de/funviz/>
+- <https://www.test.de/shop/geldanlage-banken/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
    - [YouTube-Suche Andreas Beck](https://www.youtube.com/results?search_query=Andreas+Beck)
@@ -56,6 +57,7 @@ Link-Sammlung
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
 - <https://www.gerd-kommer-invest.de/>
+   - <https://www.gerd-kommer.de/>
    - [YouTube Gerd Kommer](https://www.youtube.com/c/GerdKommer/videos)
    - <https://www.finanzfluss.de/blog/etf-weltportfolio-kommer/>
 - <https://www.youtube.com/c/WorldofValue/videos>
@@ -208,5 +210,6 @@ Optionen
 - <https://spotgamma.com/>
    - [YouTube SpotGamma](https://www.youtube.com/c/spotgamma/videos)
    - <https://twitter.com/tarantinotradi1>
+- <https://slashtraders.com/en/blog/vix-hedging-strategy/>
 
 
