@@ -73,6 +73,7 @@ Link-Sammlung
 - <https://think-beyondtheobvious.com/> von Dr. Daniel Stelter
 - <https://de.wikipedia.org/wiki/72er-Regel>
    - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
+- <https://www.armuts-und-reichtumsbericht.de/DE/Bericht/Der-sechste-Bericht/sechster-bericht.html>
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
 - <https://de.wikipedia.org/wiki/Einkommensverteilung_in_Deutschland>
 - <https://www.iwkoeln.de/fileadmin/user_upload/HTML/2019/einkommensverteilung/index.html>
