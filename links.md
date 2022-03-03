@@ -65,6 +65,7 @@ Link-Sammlung
 - <https://www.ifo.de/>
    - <https://www.youtube.com/channel/UCcirfI2eb2MNKmn5K0gNAjg>
 - <https://www.youtube.com/results?search_query=Druckenmiller>
+- <https://www.youtube.com/c/principlesbyraydalio/videos>
 - <https://www.youtube.com/results?search_query=Jim+Rogers>
 - <https://www.youtube.com/c/TheMaverickofWallStreet/videos>
 - <https://www.realvision.com/>
