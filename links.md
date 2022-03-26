@@ -96,6 +96,7 @@ Auswertung, Trading Log und Backtest
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
 - <https://www.tradinglogbook.de/>
+- <https://visualtradingjournal.com/>
 - <http://www.tradelogsoftware.com/>
 - <https://www.parqet.com/> <https://tresor.one/>
    - <https://github.com/tresorone/tresor-import/>
