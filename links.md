@@ -95,6 +95,10 @@ Auswertung, Trading Log und Backtest
 - <https://trademetria.com/>
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
+- Thumper's Options Tracker:
+   - <https://www.youtube.com/watch?v=GIPC5UaS-CE> and <https://www.youtube.com/watch?v=ANuetWZ1low>
+   - <https://docs.google.com/spreadsheets/d/1qGo6U5G9se-n5TksdOwmxcCv2a4O3eGsf3CT9Ol1pVE/edit>
+   - <https://www.youtube.com/c/FinancialOptionsWithThumper/videos>
 - <https://www.tradinglogbook.de/>
 - <http://www.tradelogsoftware.com/>
 - <https://www.parqet.com/> <https://tresor.one/>
