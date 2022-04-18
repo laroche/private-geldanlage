@@ -165,6 +165,7 @@ Links:
 - <https://www.steuernetz.de/lexikon/private-veraeusserungsgeschaefte>
 - <https://www.wertpapier-forum.de/topic/45232-steuerliche-behandlung-fremdw%C3%A4hrungskonto-ib-oder-andere-broker/>
 - <https://www.wertpapier-forum.de/topic/53676-versteuerung-bei-ausl-aktien-mit-w%C3%A4hrungstausch/>
+- <https://www.wertpapier-forum.de/topic/56107-interactive-brokers-steuererkl%C3%A4rung-fifo-berechnung-devisen/>
 - <https://www.youtube.com/watch?v=VRjp1yVvHcg>   ab Minute 39
 - <https://www.youtube.com/watch?v=Bm2r2yXCJ30>
    - <https://fintax-steuerberater.de/>

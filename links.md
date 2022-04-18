@@ -218,5 +218,8 @@ Optionen
    - <https://twitter.com/spotgamma>
    - <https://twitter.com/tarantinotradi1>
 - <https://slashtraders.com/en/blog/vix-hedging-strategy/>
+- <https://www.volatilitytradingstrategies.com/>
+   - <https://www.youtube.com/channel/UCwEh1xKQWSsue9BQwjRJzIg/videos>
+   - <https://twitter.com/VolatilityVIX>
 
 

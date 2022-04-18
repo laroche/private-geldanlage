@@ -15,6 +15,7 @@ Neo-Broker:
 
 - <https://de.scalable.capital/>
 - <https://smartbroker.de/>
+   - Hat auch Fremdwährungskonten.
 - <https://traderepublic.com/>
 - <https://www.finanzen.net/zero/>
 
