@@ -126,7 +126,7 @@ Eintragung Steuern 2021 {#KAP2021}
 | KAP 2021               | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41 |
 |------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
 | Aktiengewinne          | x   | x   |     |     |     |     |     |     |
-| Aktienverluste         | x   |     |     |     | x   |     |     |     |
+| Aktienverluste         | x   |     |     |     | x   |     | x   |     |
 | Stillhaltergewinne     | x   |     | x   |     |     |     |     |     |
 | Stillhalterverluste    | x   |     | x   | x   |     |     |     |     |
 | Long-Optionen-Gewinne  | x   |     | x   |     |     |     |     |     |
