@@ -122,22 +122,22 @@ Eintragung Steuern 2021 {#KAP2021}
    - Zeile 44: Veräußerungspreis oder an dessen Stelle tretender Wert
       - Währungsgewinne / Devisengewinne
 
-<p>
-KAP 2021               | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41
------------------------|-----|-----|-----|-----|-----|-----|-----|-----
-Aktiengewinne          | x   | x   |     |     |     |     |     |
-Aktienverluste         | x   |     |     |     | x   |     |     |
-Stillhaltergewinne     | x   |     | x   |     |     |     |     |
-Stillhalterverluste    | x   |     | x   | x   |     |     |     |
-Long-Optionen-Gewinne  | x   |     | x   |     |     |     |     |
-Long-Optionen-Verluste | x   |     |     | x   |     | x   | x   |
-Futuregewinne          | x   |     | x   |     |     |     |     |
-Futureverluste         | x   |     |     | x   |     | x   |     |
-CFD-Gewinne            | x   |     | x   |     |     |     |     |
-CFD-Verluste           | x   |     |     | x   |     | x   |     |
-Dividenden             | x   |     |     |     |     |     |     |
-Zinsen                 | x   |     |     |     |     |     |     |
-Quellensteuer          |     |     |     |     |     |     |     | x
+
+| KAP 2021               | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41 |
+|------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Aktiengewinne          | x   | x   |     |     |     |     |     |     |
+| Aktienverluste         | x   |     |     |     | x   |     |     |     |
+| Stillhaltergewinne     | x   |     | x   |     |     |     |     |     |
+| Stillhalterverluste    | x   |     | x   | x   |     |     |     |     |
+| Long-Optionen-Gewinne  | x   |     | x   |     |     |     |     |     |
+| Long-Optionen-Verluste | x   |     |     | x   |     | x   | x   |     |
+| Futuregewinne          | x   |     | x   |     |     |     |     |     |
+| Futureverluste         | x   |     |     | x   |     | x   |     |     |
+| CFD-Gewinne            | x   |     | x   |     |     |     |     |     |
+| CFD-Verluste           | x   |     |     | x   |     | x   |     |     |
+| Dividenden             | x   |     |     |     |     |     |     |     |
+| Zinsen                 | x   |     |     |     |     |     |     |     |
+| Quellensteuer          |     |     |     |     |     |     |     | x   |
 
 
 aktuelle Rechtsprechung, BMF und Zusatzinfos
