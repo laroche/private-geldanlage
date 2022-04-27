@@ -104,23 +104,22 @@ Regeln der Kapitalertragsteuer
 Eintragung Steuern 2021 {#KAP2021}
 -----------------------
 
-- KAP 2021
-   - Zeile 18: Inländische Kapitalerträge
-   - Zeile 19: Ausländische Kapitalerträge
-   - Zeile 20: In den Zeilen 18 und 19 enthaltene Gewinne aus Aktienveräußerungen
-   - Zeile 21: In den Zeilen 18 und 19 enthaltene Einkünfte aus Stillhalterprämien und Gewinne aus Termingeschäften
-   - Zeile 22: In den Zeilen 18 und 19 enthaltene Verluste ohne Verluste aus der Veräußerung von Aktien
-      - Verluste werden hier als positive Zahl eingetragen.
-   - Zeile 23: In den Zeilen 18 und 19 enthaltene Verluste aus der Veräußerung von Aktien
-      - Verluste werden hier als positive Zahl eingetragen.
-   - Zeile 24: Verluste aus Termingeschäften
-      - Verluste werden hier als positive Zahl eingetragen.
-   - Zeile 25: Verluste aus der ganzen oder teilweisen Uneinbringlichkeit einer Kapitalforderung,
-     Ausbuchung, Übertragung wertlos gewordener Wirtschaftsgüter oder aus einem sonstigen Ausfall von Wirtschaftsgütern
-   - Zeile 41: Anrechenbare noch nicht angerechnete ausländischen Steuern (gezahlte Quellensteuer)
-- SO 2021
-   - Zeile 44: Veräußerungspreis oder an dessen Stelle tretender Wert
-      - Währungsgewinne / Devisengewinne
+Z19 steht als Abkürzung für Zeile 19 im (durchnumerierten) Formular vom Finanzamt.
+
+In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei der KAP2021 in Z23, Z24 und Z25.)
+
+[KAP 2021](https://www.formulare-bfinv.de/ffw/catalog/makePDF.do?path=catalog://Steuerformulare/est/est21/034024_21):
+
+- Zeile 18: Inländische Kapitalerträge
+- Zeile 19: Ausländische Kapitalerträge
+- Zeile 20: In den Zeilen 18 und 19 enthaltene Gewinne aus Aktienveräußerungen
+- Zeile 21: In den Zeilen 18 und 19 enthaltene Einkünfte aus Stillhalterprämien und Gewinne aus Termingeschäften
+- Zeile 22: In den Zeilen 18 und 19 enthaltene Verluste ohne Verluste aus der Veräußerung von Aktien
+- Zeile 23: In den Zeilen 18 und 19 enthaltene Verluste aus der Veräußerung von Aktien
+- Zeile 24: Verluste aus Termingeschäften
+- Zeile 25: Verluste aus der ganzen oder teilweisen Uneinbringlichkeit einer Kapitalforderung,
+  Ausbuchung, Übertragung wertlos gewordener Wirtschaftsgüter oder aus einem sonstigen Ausfall von Wirtschaftsgütern
+- Zeile 41: Anrechenbare noch nicht angerechnete ausländischen Steuern (gezahlte Quellensteuer)
 
 
 | KAP 2021               | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41 |
@@ -138,6 +137,13 @@ Eintragung Steuern 2021 {#KAP2021}
 | Dividenden             | x   |     |     |     |     |     |     |     |
 | Zinsen                 | x   |     |     |     |     |     |     |     |
 | Quellensteuer          |     |     |     |     |     |     |     | x   |
+
+KAP-INV 2021:
+
+SO 2021:
+
+- Zeile 44: Veräußerungspreis oder an dessen Stelle tretender Wert
+   - Währungsgewinne / Devisengewinne
 
 
 aktuelle Rechtsprechung, BMF und Zusatzinfos
