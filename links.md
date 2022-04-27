@@ -18,7 +18,7 @@ Link-Sammlung
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
    - [YouTube-Suche Andreas Beck](https://www.youtube.com/results?search_query=Andreas+Beck)
-   - [YouTube Wissenschaftlich investieren](https://www.youtube.com/channel/UCoSKQ9e_DsYpFVsuUKaus9A/videos)
+   - [YouTube mehrWert](https://www.youtube.com/channel/UCoSKQ9e_DsYpFVsuUKaus9A/videos)
 - <https://www.finanztip.de/>
    - <https://community.finanztip.de/>
    - [YouTube Finanztip](https://www.youtube.com/c/FinanztipDe/videos)
