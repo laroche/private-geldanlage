@@ -14,6 +14,7 @@ Link-Sammlung
    - <https://www.fastgraphs.com/>
       - [YouTube FASTgraphs](https://www.youtube.com/c/FASTgraphs/videos)
    - <https://www.tobigs.de/funviz/>
+   - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
 - <https://www.test.de/shop/geldanlage-banken/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>

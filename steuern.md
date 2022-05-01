@@ -44,6 +44,7 @@ Steuern bei ausländischen Banken/Brokern
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
 - <https://www.youtube.com/watch?v=QFgyPz5Y7VA&t=451s>
+- <https://www.youtube.com/watch?app=desktop&v=um7PTNidkpE>
 - <https://www.haufe.de/finance/haufe-finance-office-premium/einkuenfte-aus-kapitalvermoegen-1225-zeilen-1826_idesk_PI20354_HI9285903.html>
 - Mit dem Steuerbescheid kann das Finanzamt [Wikipedia: Steuervorauszahlungen](https://de.wikipedia.org/wiki/Steuervorauszahlung) festsetzen,
   die Quartalsweise an das Finanzamt zu zahlen sind. Man kann gegen diese Festsetzung beim Finanzamt
@@ -75,6 +76,7 @@ Regeln der Kapitalertragsteuer
      als Ersatzbemessungsgrundlage besteuert (§ 43a Absatz 2 Satz 7 EStG) und erst mit der Eindeckung ausgeglichen.
    - Altbestände vor 2009.
 - Dividenden und Quellensteuer
+   - steuerfreie Dividenden, diese reduzieren den Anschaffungspreis: Vonovia, Deutsche Telekom, Freenet
 - [Investmentsteuergesetz](https://de.wikipedia.org/wiki/Investmentsteuergesetz_(Deutschland))
    - Die Anlage KAP-INV muss dazu ausgefüllt werden.
    - <https://www.youtube.com/watch?v=mmQkGhfgD6w>
@@ -82,8 +84,8 @@ Regeln der Kapitalertragsteuer
 - Optionen
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
-      - Wird bei Stillhaltergeschäften am Ende ein Barausgleich ("cash settlement") gezahlt (meistens bei Indexoptionen),
-        so ist dieser Barausgleich ein Termingeschäft.
+      - Wird bei Stillhaltergeschäften am Ende ein [Barausgleich](https://de.wikipedia.org/wiki/Barausgleich) ("cash settlement")
+        gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft.
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
