@@ -192,11 +192,17 @@ Optionen
    - [YouTube Martin Hlouschek](https://www.youtube.com/c/MartinHlouschekOptionstrader/videos)
 - <https://www.sheridanmentoring.com/>
    - [YouTube Sheridan Mentoring](https://www.youtube.com/channel/UC9LbCrFQn4zezf9BX27837A)
+- <https://www.freakyfinance.net/>
+   - <https://www.freakyfinance.net/option-tradingpal-magazin/>
+   - [YouTube freaky finance](https://www.youtube.com/c/freakyfinance/videos)
+   - [Telegram: Steuern beim Optionshandel](https://t.me/joinchat/K1231Bi7Vm5NKXNwLA0L8Q)
+   - [Telegram: Optionshandel für Anfänger](https://t.me/joinchat/K1231Bao7PnBtEz2LMFE9A)
 - <https://eichhorn-coaching.de/>
    - [YouTube Eichhorn Coaching](https://www.youtube.com/c/EichhornCoaching/videos)
    - [YouTube Inside Markets](https://www.youtube.com/c/InsideMarkets/videos)
 - <https://finance.coach/>
    - [YouTube Finance.Coach](https://www.youtube.com/c/FinanceCoach/videos)
+   - [Telegram: Finance.Coach Talk](https://t.me/financecoach)
    - [Facebook Die Stillhalter](https://www.facebook.com/groups/die.stillhalter)
    - [Facebook Optionshandel lernen](https://www.facebook.com/groups/optionshandel.lernen)
 - <https://optionalpha.com/>
