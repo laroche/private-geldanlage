@@ -10,7 +10,7 @@ cp index.md index2.md
 sed -i -e '/^Übersicht$/,$d' index2.md
 
 # Alle Infos in eine Datei:
-cat index2.md links.md broker.md banken.md steuern.md buecher.md erbe.md > Private-Geldanlage.md
+cat index2.md links.md broker.md products.md banken.md steuern.md buecher.md erbe.md > Private-Geldanlage.md
 
 rm -f index2.md
 
