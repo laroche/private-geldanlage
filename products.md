@@ -4,7 +4,7 @@ Produkte
 Einige oft gehandelte Produkte:
 
 | Description                      | Symbol      |       Price | Multiplier | Kontraktwert | Settlement  |
-|----------------------------------|-------------|-------------|------------|--------------|-------------|
+|:---------------------------------|:------------|------------:|-----------:|-------------:|:------------|
 | S&P 500 Index                    | /SPX        |   4.600 USD |        100 |  460.000 USD | ???         |
 | E-Mini S&P 500                   | /ES         |   4.600 USD |         50 |  230.000 USD | Cash        |
 | Micro E-Mini S&P 500 Index       | /MES        |   4.600 USD |          5 |   23.000 USD | Cash        |
