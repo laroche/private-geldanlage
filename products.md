@@ -8,6 +8,7 @@ Einige oft gehandelte Produkte:
 | S&P 500 Index                    | /SPX        |   4.600 USD |        100 |  460.000 USD | ???         |
 | E-Mini S&P 500                   | /ES         |   4.600 USD |         50 |  230.000 USD | Cash        |
 | Micro E-Mini S&P 500 Index       | /MES        |   4.600 USD |          5 |   23.000 USD | Cash        |
+| Mini-SPX Index                   | /XSP        |     460 USD |        100 |   46.000 USD | Cash        |
 | SPDR S&P 500 ETF                 | SPY         |     460 USD |        100 |   46.000 USD |             |
 |----------------------------------|-------------|-------------|------------|--------------|-------------|
 | E-Mini Nasdaq 100 Future         | /NQ         |  16.000 USD |         20 |  320.000 USD | Cash        |

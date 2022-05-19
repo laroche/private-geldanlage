@@ -33,6 +33,7 @@ Optionen
 - [Options with a cherry on top von Vicki Lee Dillard](https://www.amazon.de/Options-cherry-top-eBook-English-ebook/dp/B0842ZLMRX)
 - [Option Strategy Risk / Return Ratios von Brian Johnson](https://www.amazon.de/Option-Strategy-Risk-Return-Ratios/dp/0692028293)
 - [Hedging mit Optionen: Crashsicher handeln von Eric Ludwig](https://www.amazon.de/gp/product/B09MQSHFLX/)
+   - [YouTube Channel Eric Ludwig](https://www.youtube.com/channel/UCwgdQVab9bjcW8PFPXzQqgQ/videos)
 - [Hari P. Krishnan: The Second Leg Down: Strategies for Profiting after a Market Sell-Off](https://www.amazon.de/Second-Leg-Down-Strategies-Profiting/dp/1119219086)
 
 
