@@ -77,6 +77,7 @@ Regeln der Kapitalertragsteuer
    - Altbestände vor 2009.
 - Dividenden und Quellensteuer
    - steuerfreie Dividenden, diese reduzieren den Anschaffungspreis: Vonovia, Deutsche Telekom, Freenet
+   - [BMF-Schreiben zur Quellensteuer auf chinesische Aktien](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/20220331-anrechnung-von-quellensteuer-die-auf-ausschuettungen-von-chinesischen-aktien-erhoben-wird-auf-die-deutsche-kapitalertragsteuer.pdf?__blob=publicationFile&v=3)
 - [Investmentsteuergesetz](https://de.wikipedia.org/wiki/Investmentsteuergesetz_(Deutschland))
    - Die Anlage KAP-INV muss dazu ausgefüllt werden.
    - <https://www.youtube.com/watch?v=mmQkGhfgD6w>
@@ -158,12 +159,13 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [BMF Einzelfragen zur Abgeltungsteuer 2021-02-19](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-02-19-einzelfragen-zur-abgeltungsteuer.pdf?__blob=publicationFile&v=1)
    - [BMF Einzelfragen zur Abgeltungsteuer 2021-06-03](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2021-06-03-einzelfragen-zur-abgeltungsteuer-ergaenzung-des-BMF-Schreibens-vom-18-Januar-2016.pdf?__blob=publicationFile&v=1)
       - <https://www.youtube.com/watch?v=xZyWEzCsF9A>
+   - [BMF Einzelfragen zur Abgeltungsteuer 2022-05-19](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2022-05-19-einzelfragen-zur-abgeltungsteuer.pdf?__blob=publicationFile&v=2)
 - BMF zum Investmentsteuergesetz 2018 (InvStG 2018)
    - Vorabpauschale 2018: Basiszins ist 0,87 %
    - Vorabpauschale 2019: Basiszins ist 0,52 %
    - [Vorabpauschale 2020](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2020-01-29-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=4): Basiszins ist 0,07 %
    - [Vorabpauschale 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-01-06-basiszins-zur-berechnung-der-vorabpauschale.pdf?__blob=publicationFile&v=3): Basiszins ist -0,45 %, es wird keine Vorabpauschale erhoben
-   - Vorabpauschale 2022: Basiszins ist -0,05 %, es wird keine Vorabpauschale erhoben
+   - [Vorabpauschale 2022](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2022-01-07-basiszins-zum-3-januar-2022-zur-berechnung-der-vorabpauschale-gemaess-paragraf-18-absatz-4-InvStG.pdf?__blob=publicationFile&v=2): Basiszins ist -0,05 %, es wird keine Vorabpauschale erhoben
    - [Anwendungsfragen vom 2017-09-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-11-08](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-11-08-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018-dringliche-fragen-der-DK-sowie-des-BVI.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-12-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-12-21-Anwendungsfragen-Investmentsteuergesetz-Dringliche-Fragen-BVI-DK.pdf?__blob=publicationFile&v=4)
@@ -178,7 +180,10 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [Anwendungsfragen vom 2021-04-29](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-04-29-anwendungsfragen-zum-InvStG-in-der-ab-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=3)
    - [Anwendungsfragen vom 2021-06-01](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-01-anwendungsschreiben-zum-InvStG-in-der-ab-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1)
    - [Anwendungsfragen vom 2021-06-18](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-06-18-anwendungsschreiben-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=1)
-- [BMF: Stand DBA](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
+   - [Anwendungsfragen vom 2021-08-18](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2021-08-18-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung.pdf?__blob=publicationFile&v=2)
+   - [Anwendungsfragen vom 2022-03-15](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2022-03-15-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=3)
+- [BMF: Stand DBA 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
+- [BMF: Stand DBA 2022](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2022-01-19-stand-DBA-1-januar-2022.pdf?__blob=publicationFile&v=3)
 - [BMF-Schreiben zu virtuellen Währungen und Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2021-06-17-est-kryptowaehrungen.pdf?__blob=publicationFile&v=2)
 
 
