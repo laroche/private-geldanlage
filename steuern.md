@@ -185,6 +185,7 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
 - [BMF: Stand DBA 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
 - [BMF: Stand DBA 2022](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2022-01-19-stand-DBA-1-januar-2022.pdf?__blob=publicationFile&v=3)
 - [BMF-Schreiben zu virtuellen Währungen und Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2021-06-17-est-kryptowaehrungen.pdf?__blob=publicationFile&v=2)
+- [Bundesfinanzhof: anhänige Verfahren](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/entscheidungsvorschau/)
 
 
 Aktienverluste voll anrechnen
@@ -199,6 +200,7 @@ Doppelbsteuerung der Renten
 ---------------------------
 
 - <https://www.youtube.com/watch?v=OJpHKpwpZm8>
+- <https://www.youtube.com/watch?v=pVpOfza6Sqs>
 
 
 Termingeschäftsverluste ab 2021
