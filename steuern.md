@@ -235,6 +235,11 @@ Zusammenfassung Steuern im Privatvermögen bei Fremdwährungskonten:
   Diese werden in der privaten Einkommensteuererklärung in der
   [Anlage SO](https://www.formulare-bfinv.de/ffw/catalog/openForm.do?path=catalog%3A%2F%2FBuerger%2Fsteuern%2Fest%2Fest20%2F034029_20)
   in Zeile 49 angegeben.
+- Laut [BMF-Schreiben zur Abgeltungssteuer vom 2022-05-19](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Abgeltungsteuer/2022-05-19-einzelfragen-zur-abgeltungsteuer.pdf?__blob=publicationFile&v=2#page=58) können laut R131 die Währungsgewinne auch in der KAP versteuert werden (Ist das richtig?):
+   Wird der Fremdwährungsbetrag innerhalb der Frist des § 23 Absatz 1 Satz 1 Nummer 2 EStG
+   in Euro oder eine dritte Währung getauscht, so sind Währungsgewinne/-verluste die bereits
+   bei den Einkünften aus Kapitalvermögen erfasst wurden, nicht zusätzlich bei den Einkünften
+   aus privaten Veräußerungsgeschäften zu erfassen, § 23 Absatz 2 EStG.
 - Da die Gewinne aus § 23 EStG nicht dem Steuerabzug unterliegen, ermitteln die inländischen
   Banken diese Gewinne in der Regel nicht. Die Einkünfte müssen daher eigenständig ermittelt
   werden und - sofern die Freigrenze des § 23 Abs. 3 Satz 5 EStG von 600 € überschritten ist - in der
