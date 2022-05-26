@@ -141,6 +141,13 @@ In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei de
 | Zinsen                 | x   |     |     |     |     |     |     |     |
 | Quellensteuer          |     |     |     |     |     |     |     | x   |
 
+Offene Fragen:
+
+- Nach Gesetzestexten könnte man Long-Optionen-Verluste auch in Z25 eingetragen und damit die
+  Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
+  nicht erwähnt.
+
+
 KAP-INV 2021:
 
 SO 2021:
