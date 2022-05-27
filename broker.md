@@ -65,6 +65,9 @@ Con:
 
 - Steuererklärung zu erstellen
 
+Tipps:
+- [TradingView mit Interactive Brokers verbinden](https://www.youtube.com/watch?v=HFHOdod8XlA)
+
 
 FxFlat
 ------
