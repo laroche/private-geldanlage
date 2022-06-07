@@ -146,6 +146,7 @@ Offene Fragen:
 - Nach Gesetzestexten könnte man Long-Optionen-Verluste auch in Z25 eingetragen und damit die
   Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
   nicht erwähnt.
+- Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive.
 
 
 KAP-INV 2021:
