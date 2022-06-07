@@ -14,10 +14,14 @@ inländische Broker
 Neo-Broker:
 
 - <https://de.scalable.capital/>
+   - Gettex, Xetra
 - <https://smartbroker.de/>
+   - viele deutsche Handelsplätze
    - Hat auch Fremdwährungskonten.
 - <https://traderepublic.com/>
+   - L&S Exchange
 - <https://www.finanzen.net/zero/>
+   - Gettex
 
 traditionellere Online-Broker:
 
