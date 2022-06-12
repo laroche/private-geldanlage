@@ -7,6 +7,7 @@ Linksammlung zu Steuern
 
 - <https://www.finanztip.de/steuererklaerung-anlage-kap/>
 - [Allianz Global Investors: Steuern für Privat- und Firmenanleger](https://de.allianzgi.com/de-de/service/steuern)
+- <https://www.smartsteuer.de/online/lexikon/e/einkuenfte-aus-kapitalvermoegen/>
 - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
 - <https://www.wertpapier-forum.de/forum/101-steuern-recht-und-unternehmensgr%C3%BCndung/>
 - <https://www.juhn.com/>
