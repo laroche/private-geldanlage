@@ -11,16 +11,28 @@ Nur ein Produkt für die komplette Aktienanlage.
 
 Bei der Ländergewichtung ist man damit zu 59 % in die USA investiert.
 
-Mögliche Produkte dazu sind:
+Eines der folgenden beiden Produkte auswählen:
 
 - Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25
-   - Ausschüttend, Replikationsart: pysisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25>
 - Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
-   - Thesaurierend, Replikationsart: pysisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
+
+
+MSCI World
+----------
+
+Hier ist der USA-Anteil bei der Ländergewichtung noch etwas höher wie beim FTSE All-World und liegt bei 67 %. Oft wird daher
+ein oder mehrere weitere ETFs zur Diversifizierung hinzugenommen.
+
+- iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
+   - Auflagedatum 2009-09-25
+   - <https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983>
 
 
 S&P500 und Technologiewerte Nasdaq100
@@ -30,11 +42,11 @@ S&P500 sind die 500 größten Unternehmen in den USA, der Nasdaq100 sind die 100
 in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber natürlich eine Wette auf die USA.
 
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09
-   - Ausschüttend, Replikationsart: pysisch vollständig, TER 0,07 %, Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00b3xxrp09>
 - iShares Core S&P 500, WKN:622391, ISIN:IE0031442068
-   - Ausschüttend, Replikationsart: pysisch optimiert, TER 0,07 %, Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2002-03-15
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
 
