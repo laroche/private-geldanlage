@@ -98,6 +98,7 @@ Auswertung, Trading Log und Backtest
 - <https://wingmantracker.com/>
 - <https://www.tradingdiarypro.com/>
 - <https://tradersync.com/>
+- <https://www.optionen-support.de/>
 - <https://edgewonk.com/>
 - Thumper's Options Tracker:
    - <https://www.youtube.com/watch?v=GIPC5UaS-CE> and <https://www.youtube.com/watch?v=ANuetWZ1low>
