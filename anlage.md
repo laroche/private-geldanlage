@@ -26,8 +26,11 @@ Eines der folgenden beiden Produkte auswählen:
 MSCI World
 ----------
 
+Gewichtung erfolgt nach der Marktkapitalisierung.
 Hier ist der USA-Anteil bei der Ländergewichtung noch etwas höher wie beim FTSE All-World und liegt bei 67 %. Oft wird daher
 ein oder mehrere weitere ETFs zur Diversifizierung hinzugenommen.
+Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
+Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
 - iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
