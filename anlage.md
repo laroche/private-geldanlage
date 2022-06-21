@@ -9,7 +9,9 @@ Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)gü
 und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
 Nur ein Produkt für die komplette Aktienanlage.
 
-Bei der Ländergewichtung ist man damit zu 59 % in die USA investiert.
+4.130 Unternehmen.
+Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
+Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
 Eines der folgenden beiden Produkte auswählen:
 
@@ -23,12 +25,32 @@ Eines der folgenden beiden Produkte auswählen:
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
 
 
+MSCI All-Country World-Index (ACWI)
+-----------------------------------
+
+<https://www.justetf.com/de/news/etf/die-msci-index-klassifikationen-und-wie-sie-die-welt-einteilen.html>
+
+<https://www.justetf.com/de/how-to/msci-acwi-etfs.html>
+
+2.937 Unternehmen weltweit.
+Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
+
+- iShares MSCI ACWI UCITS ETF, WKN:A1JMDF, ISIN:IE00B6R52259
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
+   - Auflagedatum 2011-10-21
+   - <https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259>
+
+
 MSCI World
 ----------
 
+<https://www.justetf.com/de/news/etf/die-msci-index-klassifikationen-und-wie-sie-die-welt-einteilen.html>
+
+<https://www.justetf.com/de/how-to/msci-world-etfs.html>
+
 Gewichtung erfolgt nach der Marktkapitalisierung.
-Hier ist der USA-Anteil bei der Ländergewichtung noch etwas höher wie beim FTSE All-World und liegt bei 67 %. Oft wird daher
-ein oder mehrere weitere ETFs zur Diversifizierung hinzugenommen.
+1.539 Unternehmen.
+Bei der Ländergewichtung ist man zu 67 % in die USA investiert.
 Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
@@ -36,6 +58,14 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
    - <https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983>
+- Lyxor Core MSCI World (DR) UCITS ETF, WKN:LYX0YD, ISIN:LU1781541179
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %, Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
+   - Auflagedatum 2018-02-28
+   - <https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179>
+- Lyxor MSCI World (LUX) UCITS ETF, WKN:ETF110, ISIN:LU0392494562
+   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %, Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
+   - Auflagedatum 2008-11-27
+   - <https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562>
 
 
 S&P500 und Technologiewerte Nasdaq100
@@ -43,6 +73,7 @@ S&P500 und Technologiewerte Nasdaq100
 
 S&P500 sind die 500 größten Unternehmen in den USA, der Nasdaq100 sind die 100 größten Technologieunternehmen
 in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber natürlich eine Wette auf die USA.
+Die 10 größten Firmen haben einen Anteil von 27,97 %.
 
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09
    - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
@@ -52,6 +83,14 @@ in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber nat�
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2002-03-15
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
+- iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
+   - Auflagedatum 2010-05-19
+   - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087>
+- Invesco S&P 500 UCITS ETF, WKN:A1CYW7, ISIN:IE00B3YCGJ38
+   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %, Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
+   - Auflagedatum 2010-05-20
+   - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
 
 
 Global Portfolio One
