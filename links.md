@@ -121,6 +121,7 @@ Finanznachrichten
 -----------------
 
 - <https://www.handelsblatt.com/finanzen/>
+   - <https://www.youtube.com/c/handelsblattvideo/videos>
 - <https://www.nzz.ch/finanzen>
 - <https://www.faz.net/aktuell/finanzen/>
 - <https://www.manager-magazin.de/finanzen/>
@@ -180,12 +181,15 @@ CoT
 - <https://www.mrci.com/>
 - <https://www.upperman.com/>
    - [Commitments of Traders: Profitable Insider-Strategien: Floyd Uppermann](https://www.amazon.de/Commitments-Traders-Insider-Strategien-Floyd-Uppermann/dp/3898792080/ref=sr_1_1)
+- <https://www.tradestation.com/>
+   - [YouTube Tradestation](https://www.youtube.com/c/TradeStation/videos)
 
 
 Optionen
 --------
 
 - [Wikipedia: finance Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
+- [Wikipedia: Black Scholes model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 - <https://www.trading-volatility.com/>
 - <https://www.optionsuniversum.de/>
    - <https://www.optionsuniversum.de/newsletter-archiv/>
@@ -214,6 +218,7 @@ Optionen
    - [YouTube OptionAlpha](https://www.youtube.com/c/OptionAlpha/videos)
 - <https://aeromir.com/>
    - [YouTube Aeromir](https://www.youtube.com/c/Aeromir/videos)
+   - <https://forums.aeromir.com/>
 - <https://jensrabe.de/>
    - [Facebook Jens Rabe](https://www.facebook.com/rabeacademy/)
    - [YouTube Jens Rabe](https://www.youtube.com/c/JensRabeKanal/videos)

@@ -148,6 +148,8 @@ Offene Fragen:
   Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
   nicht erwähnt.
 - Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive.
+- (Thomas Breiden) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert und nur in Zeile 24 eingetragen.
+  (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
 
 
 KAP-INV 2021:

@@ -1,6 +1,8 @@
 Geldanlage-Möglichkeiten
 ========================
 
+- <https://www.youtube.com/watch?v=2tsUdgjgtdo>
+
 
 FTSE All-World
 --------------
@@ -97,12 +99,14 @@ Global Portfolio One
 --------------------
 
 Ein recht neuer Aktienfonds von Dr. Andreas Beck mit einer Anlage in 8.800 Unternehmen weltweit und einem
-eingebauten Re-Balancing, das die Aktienquote bei einem Crash erhöht.
+eingebauten Re-Balancing, das die Aktienquote bei einem Crash von den normalen 80 % Aktien auf 90 % bzw. 100 %
+Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
 
 - Global Portfolio One, WKN:A2PT6U, ISIN:AT0000A2B4T3
    - Thesaurierend, TER 0,7 %, Fondsgröße 270 Millionen EUR (2022-05)
-   - Auflagedatum 2019-11-13
-   - <https://globalportfolio-one.com/gpo/>
+   - Auflagedatum 2019-11-13, ca. 8800 Unternehmen weltweit
+   - <https://globalportfolio-one.com/gpo/> (inklusive genauer Auflistung aller Produkte in diesem Fonds, vielleicht
+     will man ja nur Teile davon bei sich als Idee im Portfolio aufnehmen/nachhandeln.)
 
 
 Cash-Reserve
