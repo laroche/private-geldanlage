@@ -42,6 +42,8 @@ Link-Sammlung
    - <https://www.facebook.com/Intelligent-Investieren-331872843507373/>
 - <https://www.gajowiy.com/>
    - [YouTube Zahltagstrategie](https://www.youtube.com/c/Zahltagstrategie/videos)
+- <https://sdk.org/>
+   - [YouTube Schutzgemeinschaft der Kapitalanleger (SdK) e.V.](https://www.youtube.com/channel/UCdpjjouypP9dZFkgO7lPEHg/videos)
 - <https://www.pwlcapital.com/author/benjamin-felix/>
    - [YouTube Ben Felix CSI](https://www.youtube.com/c/BenFelixCSI/videos)
 - <https://rationalreminder.ca/podcast>
