@@ -46,6 +46,9 @@ ausländische Broker
 Für alle ausländischen Broker muss eine Steuererklärung KAP und KAP-Inv selber erstellt werden und am
 Ende vom Jahr dem Finanzamt eingereicht werden.
 
+Deutsche Aktien sollte man wegen Dividendenzahlungen und Quellensteuer nicht
+bei einem ausländischen Broker handeln.
+
 
 Interactive Brokers
 -------------------
