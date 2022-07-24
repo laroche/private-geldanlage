@@ -107,6 +107,7 @@ Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
    - Auflagedatum 2019-11-13, ca. 8800 Unternehmen weltweit
    - <https://globalportfolio-one.com/gpo/> (inklusive genauer Auflistung aller Produkte in diesem Fonds, vielleicht
      will man ja nur Teile davon bei sich als Idee im Portfolio aufnehmen/nachhandeln.)
+      - anstelle von Cash werden z.B. Schweizer Staatsanleihen gehalten
 
 
 Cash-Reserve

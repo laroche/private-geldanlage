@@ -13,6 +13,7 @@ Link-Sammlung
       - [YouTube Aktienfinder](https://www.youtube.com/channel/UCp4NH9dmMSN2l8PPeVHfEsQ)
    - <https://www.fastgraphs.com/>
       - [YouTube FASTgraphs](https://www.youtube.com/c/FASTgraphs/videos)
+   - <https://eulerpool.com/>
    - <https://www.tobigs.de/funviz/>
    - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
 - <https://www.test.de/shop/geldanlage-banken/>
