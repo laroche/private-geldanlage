@@ -191,6 +191,9 @@ CoT
 Optionen
 --------
 
+- <https://xn--brsenstrategen-vpb.com/>
+   - <https://xn--brsenstrategen-vpb.com/trading-buch/>
+   - [YouTube Börsenstrategen](https://www.youtube.com/channel/UC82fuCmfwo_kFW6FGT9q_aw/videos)
 - [Wikipedia: finance Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
 - [Wikipedia: Black Scholes model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 - <https://www.trading-volatility.com/>
