@@ -83,6 +83,7 @@ Regeln der Kapitalertragsteuer
    - Die Anlage KAP-INV muss dazu ausgefüllt werden.
    - <https://www.youtube.com/watch?v=mmQkGhfgD6w>
 - Zinsen
+   - Zinsen für Kredite sind nur abzugsfähig wenn damit höhere Gewinne erzielt werden.
 - Optionen
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
@@ -105,6 +106,19 @@ Regeln der Kapitalertragsteuer
   oder Vortrag in die Folgejahre.
 
 
+Wie wird die KAP berechnet?
+---------------------------
+
+- Aktiengewinne minus Aktienverluste minus Aktienverlustvortrag (mindestens Null, ein Verlust wird nur vorgetragen)
+- + Sonstige Gewinne
+- - Sonstige Verluste
+- - Sonstiger Verlustvortrag
+- = Kapitalerträge (mindestens Null, ein Verlust wird nur vorgetragen)
+- - Sparer-Pauschbetrag
+- = steuerpflichtige Kapitalerträge
+- Davon 25% (bzw. weniger bei erfolgreicher Günstigerprüfung) minus anrechenbare Quellensteuern ergibt die zu zahlenden Steuern, Soli und ggf. Kirche letztendlich darauf.
+
+
 Eintragung Steuern 2021 {#KAP2021}
 -----------------------
 
@@ -116,40 +130,49 @@ In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei de
 
 - Zeile 18: Inländische Kapitalerträge
 - Zeile 19: Ausländische Kapitalerträge
-- Zeile 20: In den Zeilen 18 und 19 enthaltene Gewinne aus Aktienveräußerungen
-- Zeile 21: In den Zeilen 18 und 19 enthaltene Einkünfte aus Stillhalterprämien und Gewinne aus Termingeschäften
-- Zeile 22: In den Zeilen 18 und 19 enthaltene Verluste ohne Verluste aus der Veräußerung von Aktien
-- Zeile 23: In den Zeilen 18 und 19 enthaltene Verluste aus der Veräußerung von Aktien
+   - Zeile 20: In den Zeilen 18 und 19 enthaltene Gewinne aus Aktienveräußerungen
+   - Zeile 21: In den Zeilen 18 und 19 enthaltene Einkünfte aus Stillhalterprämien und Gewinne aus Termingeschäften
+   - Zeile 22: In den Zeilen 18 und 19 enthaltene Verluste ohne Verluste aus der Veräußerung von Aktien
+   - Zeile 23: In den Zeilen 18 und 19 enthaltene Verluste aus der Veräußerung von Aktien
 - Zeile 24: Verluste aus Termingeschäften
 - Zeile 25: Verluste aus der ganzen oder teilweisen Uneinbringlichkeit einer Kapitalforderung,
   Ausbuchung, Übertragung wertlos gewordener Wirtschaftsgüter oder aus einem sonstigen Ausfall von Wirtschaftsgütern
 - Zeile 41: Anrechenbare noch nicht angerechnete ausländischen Steuern (gezahlte Quellensteuer)
 
 
-| KAP 2021               | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41 |
-|------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Aktiengewinne          | x   | x   |     |     |     |     |     |     |
-| Aktienverluste         | x   |     |     |     | x   |     | x   |     |
-| Stillhaltergewinne     | x   |     | x   |     |     |     |     |     |
-| Stillhalterverluste    | x   |     | x   | x   |     |     |     |     |
-| Long-Optionen-Gewinne  | x   |     | x   |     |     |     |     |     |
-| Long-Optionen-Verluste | x   |     |     | x   |     | x   | x   |     |
-| Futuregewinne          | x   |     | x   |     |     |     |     |     |
-| Futureverluste         | x   |     |     | x   |     | x   |     |     |
-| CFD-Gewinne            | x   |     | x   |     |     |     |     |     |
-| CFD-Verluste           | x   |     |     | x   |     | x   |     |     |
-| Dividenden             | x   |     |     |     |     |     |     |     |
-| Zinsen                 | x   |     |     |     |     |     |     |     |
-| Quellensteuer          |     |     |     |     |     |     |     | x   |
+| KAP 2021                    | Z19 | Z20 | Z21 | Z22 | Z23 | Z24 | Z25 | Z41 |
+|-----------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Aktiengewinne               | x   | x   |     |     |     |     |     |     |
+| Aktienverluste              | x   |     |     |     | x   |     |     |     |
+| Aktien Totalverlust         |     |     |     |     |     |     | x   |     |
+| Stillhaltergewinne          | x   |     | x   |     |     |     |     |     |
+| Stillhalterverluste         | x   |     | x   | x   |     |     |     |     |
+| Long-Optionen-Gewinne       | x   |     | x   |     |     |     |     |     |
+| Long-Optionen-Verluste      |     |     |     |     |     | x   |     |     |
+| Long-Optionen Totalverluste |     |     |     |     |     |     | x   |     |
+| Futuregewinne               | x   |     | x   |     |     |     |     |     |
+| Futureverluste              |     |     |     |     |     | x   |     |     |
+| CFD-Gewinne                 | x   |     | x   |     |     |     |     |     |
+| CFD-Verluste                |     |     |     |     |     | x   |     |     |
+| Dividenden                  | x   |     |     |     |     |     |     |     |
+| Zinsen                      | x   |     |     |     |     |     |     |     |
+| Quellensteuer               |     |     |     |     |     |     |     | x   |
 
 Offene Fragen:
 
 - Nach Gesetzestexten könnte man Long-Optionen-Verluste auch in Z25 eingetragen und damit die
   Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
   nicht erwähnt.
-- Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive.
+- Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive. Durch Stillhalterverluste kann
+  ein negativer Wert herauskommen.
 - (Thomas Breiden) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert und nur in Zeile 24 eingetragen.
   (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
+   - Auch Zeile 25 ist nicht in Zeile 18/19 enthalten.
+- (Manche Steuersoftware geht nicht korrekt damit um, wenn man Aktiengewinne und Aktienverluste eintragen will.)
+- Die deutschen Dividenden gehören in Zeile 7, die dazu gehörigen Steuern in Zeile 37 und 38.
+   - Die deutschen Dividenden gehören in Zeile 7 "Kapitalerträge, die dem inländischen Steuerabzug unterlegen haben".
+     Die Quellensteuer sollte ziemlich genau 26,375 % betragen und gehört aufgeteilt (25 % KapErSt und 1,375% Soli = 5,5 % aus 25 %)
+     in die Zeilen 37 und 38. Bei Land = DE sind das keine QSt im Sinne von Zeile 40 "anrechenbare QSt" der Anlage KAP.
 
 
 KAP-INV 2021:
