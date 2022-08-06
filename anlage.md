@@ -27,15 +27,33 @@ Eines der folgenden beiden Produkte auswählen:
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
 
 
-MSCI All-Country World-Index (ACWI)
------------------------------------
+MSCI
+----
 
 <https://www.justetf.com/de/news/etf/die-msci-index-klassifikationen-und-wie-sie-die-welt-einteilen.html>
 
 <https://www.justetf.com/de/how-to/msci-acwi-etfs.html>
 
+
+MSCI All-Country World-Index IMI (ACWI IMI)
+-------------------------------------------
+
+9.000 Aktien aus 47 Ländern.
+Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
+Die 10 größten Firmen haben einen Anteil von 13,80 %.
+
+- SPDR MSCI ACWI IMI UCITS ETF, WKN:A1JJTD, ISIN:IE00B3YLTY66
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %, Fondsgröße 458 Millionen (2022-08), Fondswährung USD
+   - Auflagedatum 2011-05-13
+   - <https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66>
+
+
+MSCI All-Country World-Index (ACWI)
+-----------------------------------
+
 2.937 Unternehmen weltweit.
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
+Die 10 größten Firmen haben einen Anteil von 17,19 %.
 
 - iShares MSCI ACWI UCITS ETF, WKN:A1JMDF, ISIN:IE00B6R52259
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
@@ -45,10 +63,6 @@ Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 
 MSCI World
 ----------
-
-<https://www.justetf.com/de/news/etf/die-msci-index-klassifikationen-und-wie-sie-die-welt-einteilen.html>
-
-<https://www.justetf.com/de/how-to/msci-world-etfs.html>
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen.

@@ -4,7 +4,7 @@ subject: Private Geldanlage
 subtitle: Sammlung an Informationen zur privaten Geldanlage in Deutschland
 keywords: [Geldanlage, Deutschland, Steuern]
 author: Florian La Roche
-date: 2022-07-30
+date: 2022-08-06
 titlepage: true
 toc: true
 toc-own-page: true
