@@ -40,6 +40,7 @@ Steuern bei ausländischen Banken/Brokern
 ----------------------------------------
 
 - Ausländische Broker behalten nur die Quellensteuer sofort ein.
+- Alle anderen Steuern müsse mit der jährlichen Steuererklärung angegeben werden.
 - <https://www.freakyfinance.net/>
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
@@ -59,7 +60,7 @@ Regeln der Kapitalertragsteuer
 - Siehe [Wikipedia: Einkünfte aus Kapitalvermögen](https://de.wikipedia.org/wiki/Eink%C3%BCnfte_aus_Kapitalverm%C3%B6gen_(Deutschland)),
 - [Wikipedia:Kapitalertragsteuer](https://de.wikipedia.org/wiki/Kapitalertragsteuer_(Deutschland)) und
   [Wikipedia:Abgeltungsteuer](https://de.wikipedia.org/wiki/Abgeltungsteuer).
-- Abgeltungssteuer ist 25 %. Darauf muss nochmal 5.5 % Solidaritätszuschlag (SolZ) und für
+- Abgeltungssteuer ist 25 %. Darauf muss nochmal 5.5 % Solidaritätszuschlag (SolZ) (insgesamt 26,375 %) und für
   evangelische 8 % (insgesamt 27,8186 %) bzw. für katholische 9 % (insgesamt 27,9951 %) Kirchensteuer
   bezahlt werden.
 - Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
@@ -70,7 +71,7 @@ Regeln der Kapitalertragsteuer
 - Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
   Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
 - Alle Kauf- und Verkaufspreise müssen in Euro umgerechnet werden.
-- Beim Berechnen der Gewinne und Verluste wird die FIFO-Methode angewendet.
+- Beim Berechnen der Gewinne und Verluste wird die FIFO-Methode angewendet. (Nicht bei Stillhaltergeschäften.)
 - Aktien
    - Aktienverluste dürfen nur mit Aktiengewinnen verrechnet werden. (Eigener Verlustverrechnungstopf.)
    - Bei Aktien-Leerverkäufen (über eine Jahresgrenze hinaus) wird 30 % vom Preis mit der KapESt
@@ -89,14 +90,14 @@ Regeln der Kapitalertragsteuer
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
       - Wird bei Stillhaltergeschäften am Ende ein [Barausgleich](https://de.wikipedia.org/wiki/Barausgleich) ("cash settlement")
         gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft.
-   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
+   - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust nach FIFO berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - hier nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/>
    - Besteuerung von Kryptowährungen: <https://pekuna.de/>
-- Alle Verluste mit Termingeschäften dürfen pro Jahr nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
+- Alle Verluste mit Termingeschäften dürfen pro Jahr und pro Person nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
   der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
   Long-Optionen, CFDs.)
    - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
@@ -116,7 +117,8 @@ Wie wird die KAP berechnet?
 - = Kapitalerträge (mindestens Null, ein Verlust wird nur vorgetragen)
 - - Sparer-Pauschbetrag
 - = steuerpflichtige Kapitalerträge
-- Davon 25% (bzw. weniger bei erfolgreicher Günstigerprüfung) minus anrechenbare Quellensteuern ergibt die zu zahlenden Steuern, Soli und ggf. Kirche letztendlich darauf.
+- Davon 25 % (bzw. weniger bei erfolgreicher Günstigerprüfung) minus anrechenbare Quellensteuern ergibt die zu zahlenden Steuern,
+  Soli und ggf. Kirche letztendlich darauf.
 
 
 Eintragung Steuern 2021 {#KAP2021}
@@ -165,8 +167,8 @@ Offene Fragen:
   nicht erwähnt.
 - Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive. Durch Stillhalterverluste kann
   ein negativer Wert herauskommen.
-- (Thomas Breiden) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert und nur in Zeile 24 eingetragen.
-  (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
+- (Bereits oben richtig eingetragen:) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert
+  und nur in Zeile 24 eingetragen.  (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
    - Auch Zeile 25 ist nicht in Zeile 18/19 enthalten.
 - (Manche Steuersoftware geht nicht korrekt damit um, wenn man Aktiengewinne und Aktienverluste eintragen will.)
 - Die deutschen Dividenden gehören in Zeile 7, die dazu gehörigen Steuern in Zeile 37 und 38.
