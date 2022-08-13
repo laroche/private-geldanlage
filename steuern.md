@@ -111,11 +111,11 @@ Wie wird die KAP berechnet?
 ---------------------------
 
 - Aktiengewinne minus Aktienverluste minus Aktienverlustvortrag (mindestens Null, ein Verlust wird nur vorgetragen)
-- + Sonstige Gewinne
-- - Sonstige Verluste
-- - Sonstiger Verlustvortrag
+- \+ Sonstige Gewinne
+- \- Sonstige Verluste
+- \- Sonstiger Verlustvortrag
 - = Kapitalerträge (mindestens Null, ein Verlust wird nur vorgetragen)
-- - Sparer-Pauschbetrag
+- \- Sparer-Pauschbetrag
 - = steuerpflichtige Kapitalerträge
 - Davon 25 % (bzw. weniger bei erfolgreicher Günstigerprüfung) minus anrechenbare Quellensteuern ergibt die zu zahlenden Steuern,
   Soli und ggf. Kirche letztendlich darauf.
