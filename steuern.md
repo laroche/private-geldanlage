@@ -124,7 +124,7 @@ Wie wird die KAP berechnet?
 Eintragung Steuern 2021 {#KAP2021}
 -----------------------
 
-Z19 steht als Abkürzung für Zeile 19 im (durchnumerierten) Formular vom Finanzamt.
+Z19 steht als Abkürzung für Zeile 19 im (durchnummerierten) Formular vom Finanzamt.
 
 In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei der KAP2021 in Z23, Z24 und Z25.)
 
@@ -179,7 +179,7 @@ Offene Fragen:
 
 KAP-INV 2021:
 
-SO 2021:
+Anlage SO 2021:
 
 - Zeile 44: Veräußerungspreis oder an dessen Stelle tretender Wert
    - Währungsgewinne / Devisengewinne
