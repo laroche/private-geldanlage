@@ -67,6 +67,7 @@ Regeln der Kapitalertragsteuer
   gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
 - Mit dem [Sparerpauschbetrag](https://de.wikipedia.org/wiki/Sparer-Pauschbetrag) (Freibetrag) kassieren
   Singles Kapitalerträge bis 801 Euro und gemeinsam Veranlagte bis zu 1.602 Euro steuerfrei.
+  Ab 2022 erhöht sich der Sparerpauschbetrag auf 1.200 Euro (2.400 Euro für Paare).
 - Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (und sind voll abzugsfähig).
 - Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
   Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
