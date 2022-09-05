@@ -164,3 +164,12 @@ Bei einem ausländischen Broker wie Interactive Brokers kann man nicht-UCITS-Pro
 erhalten. Ein Schlissen dieser Positionen ist immer möglich.
 
 
+Optionen bei tastyworks
+-----------------------
+
+Mit Optionen ein $100K+ Portfolio verwalten:
+- <https://www.youtube.com/watch?v=whDUysN2XYc&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq>
+- <https://www.youtube.com/watch?v=7m2P7kWJVc0&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=2>
+- <https://www.youtube.com/watch?v=yU0ep2l9BRw&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=3>
+- <https://www.youtube.com/watch?v=Pj9jOCJMtEk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=4>
+
