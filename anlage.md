@@ -2,6 +2,7 @@ Geldanlage-Möglichkeiten
 ========================
 
 - <https://www.youtube.com/watch?v=2tsUdgjgtdo>
+- <https://gerd-kommer.de/passiv-investieren-die-basics/>
 
 
 FTSE All-World
