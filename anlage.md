@@ -22,10 +22,12 @@ Eines der folgenden beiden Produkte auswählen:
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25>
+   - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing>
 - Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
+   - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating>
 
 
 MSCI
