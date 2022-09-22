@@ -16,6 +16,7 @@ Link-Sammlung
    - <https://eulerpool.com/>
    - <https://www.tobigs.de/funviz/>
    - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
+   - <https://roic.ai/>
 - <https://www.test.de/shop/geldanlage-banken/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
