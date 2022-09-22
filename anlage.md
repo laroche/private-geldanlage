@@ -4,13 +4,16 @@ Geldanlage-Möglichkeiten
 - <https://www.youtube.com/watch?v=2tsUdgjgtdo>
 - <https://gerd-kommer.de/passiv-investieren-die-basics/>
 
-
-FTSE All-World
---------------
+Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
+bietet auch einen Hinweis auf beliebte Produkte.
 
 Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)günstig
 und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
-Nur ein Produkt für die komplette Aktienanlage.
+Nur ein Produkt für die komplette Aktienanlage. (Nächste Alternative ist der ACWI.)
+
+
+FTSE All-World
+--------------
 
 4.130 Unternehmen.
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
