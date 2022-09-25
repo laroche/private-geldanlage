@@ -22,12 +22,14 @@ Die 10 größten Firmen haben einen Anteil von 14,92 %.
 Eines der folgenden beiden Produkte auswählen:
 
 - Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25
-   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
+   - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25>
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing>
 - Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %, Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %
+   - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
    - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating>
@@ -49,7 +51,8 @@ Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 13,80 %.
 
 - SPDR MSCI ACWI IMI UCITS ETF, WKN:A1JJTD, ISIN:IE00B3YLTY66
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %, Fondsgröße 458 Millionen (2022-08), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %
+   - Fondsgröße 458 Millionen (2022-08), Fondswährung USD
    - Auflagedatum 2011-05-13
    - <https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66>
 
@@ -62,7 +65,8 @@ Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 17,19 %.
 
 - iShares MSCI ACWI UCITS ETF, WKN:A1JMDF, ISIN:IE00B6R52259
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
+   - Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2011-10-21
    - <https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259>
 
@@ -77,15 +81,18 @@ Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, 
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
 - iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
+   - Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
    - <https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983>
 - Lyxor Core MSCI World (DR) UCITS ETF, WKN:LYX0YD, ISIN:LU1781541179
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %, Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %
+   - Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2018-02-28
    - <https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179>
 - Lyxor MSCI World (LUX) UCITS ETF, WKN:ETF110, ISIN:LU0392494562
-   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %, Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
+   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %
+   - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2008-11-27
    - <https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562>
 
@@ -98,19 +105,23 @@ in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber nat�
 Die 10 größten Firmen haben einen Anteil von 27,97 %.
 
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09
-   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00b3xxrp09>
 - iShares Core S&P 500, WKN:622391, ISIN:IE0031442068
-   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %
+   - Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2002-03-15
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
 - iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087
-   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-19
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087>
 - Invesco S&P 500 UCITS ETF, WKN:A1CYW7, ISIN:IE00B3YCGJ38
-   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %, Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
+   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %
+   - Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-20
    - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
 
