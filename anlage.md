@@ -1,8 +1,9 @@
 Geldanlage-Möglichkeiten
 ========================
 
-- <https://www.youtube.com/watch?v=2tsUdgjgtdo>
 - <https://gerd-kommer.de/passiv-investieren-die-basics/>
+- Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
+- Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich: <https://www.youtube.com/watch?v=2tsUdgjgtdo>
 
 Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
 bietet auch einen Hinweis auf beliebte Produkte.
@@ -21,7 +22,7 @@ Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
 Eines der folgenden beiden Produkte auswählen:
 
-- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25
+- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, VGWL
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
@@ -55,6 +56,7 @@ Die 10 größten Firmen haben einen Anteil von 13,80 %.
    - Fondsgröße 458 Millionen (2022-08), Fondswährung USD
    - Auflagedatum 2011-05-13
    - <https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66>
+   - Nur in eine Auswahl aller Aktien (ca. 1800) wird tatsächlich investiert.
 
 
 MSCI All-Country World-Index (ACWI)
@@ -69,6 +71,7 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
    - Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2011-10-21
    - <https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259>
+   - Nur in eine Auswahl aller Aktien (ca. 1645) wird tatsächlich investiert.
 
 
 MSCI World
@@ -95,6 +98,9 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
    - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2008-11-27
    - <https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562>
+- SPDR MSCI World, ISIN:IE00BFY0GT14
+- Xtrackers MSCI World, WKN:DBX1MW
+- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58
 
 
 S&P500 und Technologiewerte Nasdaq100
@@ -143,6 +149,13 @@ Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
    - <https://globalportfolio-one.com/gpo/> (inklusive genauer Auflistung aller Produkte in diesem Fonds, vielleicht
      will man ja nur Teile davon bei sich als Idee im Portfolio aufnehmen/nachhandeln.)
       - anstelle von Cash werden z.B. Schweizer Staatsanleihen gehalten
+
+
+Dividenden-Aktien
+-----------------
+
+- Vanguard FTSE All-World High Dividend Yield, ISIN:IE00B8GKDB10
+- iShares STOXX Global Select Dividend 100, ISIN:DE000A0F5UH1
 
 
 Cash-Reserve
