@@ -33,10 +33,10 @@ Beratung bitte den Steuerberater zu Rate ziehen.
 Übersicht
 ---------
 
+- [Anlage](anlage.md)
 - [Links](links.md)
 - [Broker](broker.md)
 - [Banken](banken.md)
-- [Anlage](anlage.md)
 - [Steuern](steuern.md)
 - [Bücher](buecher.md)
 - [Vorsorge und Erbe](erbe.md)
