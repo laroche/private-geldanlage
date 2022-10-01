@@ -15,8 +15,10 @@ Link-Sammlung
       - [YouTube FASTgraphs](https://www.youtube.com/c/FASTgraphs/videos)
    - <https://eulerpool.com/>
    - <https://www.tobigs.de/funviz/>
+   - <https://aktie.traderfox.com/>
    - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
    - <https://roic.ai/>
+- <https://marketchameleon.com/>
 - <https://www.test.de/shop/geldanlage-banken/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
@@ -221,6 +223,8 @@ Optionen
    - [Telegram: Finance.Coach Talk](https://t.me/financecoach)
    - [Facebook Die Stillhalter](https://www.facebook.com/groups/die.stillhalter)
    - [Facebook Optionshandel lernen](https://www.facebook.com/groups/optionshandel.lernen)
+- <https://optiontradingpal.com/>
+   - [YouTube OptionTradingPal](https://www.youtube.com/c/OptionTradingPal/videos)
 - <https://optionalpha.com/>
    - [YouTube OptionAlpha](https://www.youtube.com/c/OptionAlpha/videos)
 - <https://aeromir.com/>
