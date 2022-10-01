@@ -106,6 +106,7 @@ Regeln der Kapitalertragsteuer
   Long-Optionen, CFDs.)
    - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
      dürfen damit verrechnet werden.
+- Verbot von Futures ab 2023: <https://www.finanzen.net/nachricht/aktien/allgemeinverfuegung-bafin-einschraenkung-des-futures-handel-fuer-kleinanleger-ab-2023-11758139>
 - Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
