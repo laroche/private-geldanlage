@@ -91,6 +91,9 @@ Regeln der Kapitalertragsteuer
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
       - Wird bei Stillhaltergeschäften am Ende ein [Barausgleich](https://de.wikipedia.org/wiki/Barausgleich) ("cash settlement")
         gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft.
+      - Für die Einkünfte aus Stillhalterprämien müssen die Glattstellungskosten im Jahr des Zuflusses der Stillhalterprämien
+        berücksichtigt werden und nicht in dem Zeitpunkt, in dem sie aufgewendet wurden:
+        <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210176/>
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust nach FIFO berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
