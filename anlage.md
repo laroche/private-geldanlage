@@ -2,6 +2,8 @@ Geldanlage-Möglichkeiten
 ========================
 
 - <https://gerd-kommer.de/passiv-investieren-die-basics/>
+- <https://www.finanzfluss.de/geldanlage/>
+   - <https://www.finanzfluss.de/etf-handbuch/>
 - Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
 - Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich: <https://www.youtube.com/watch?v=2tsUdgjgtdo>
 
@@ -76,6 +78,8 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
 
 MSCI World
 ----------
+
+- <https://www.youtube.com/watch?v=ElkELpWP69c>
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen.
