@@ -244,6 +244,8 @@ Optionen
    - [YouTube SpotGamma](https://www.youtube.com/c/spotgamma/videos)
    - <https://twitter.com/spotgamma>
    - <https://twitter.com/tarantinotradi1>
+- <https://tier1alpha.com/>
+   - <https://twitter.com/t1alpha>
 - <https://slashtraders.com/en/blog/vix-hedging-strategy/>
 - <https://www.volatilitytradingstrategies.com/>
    - <https://www.youtube.com/channel/UCwEh1xKQWSsue9BQwjRJzIg/videos>
