@@ -2,6 +2,9 @@ Geldanlage-Möglichkeiten
 ========================
 
 - <https://gerd-kommer.de/passiv-investieren-die-basics/>
+- Rendite-Dreiecke vom Deutschen Aktieninstitut: <https://www.dai.de/rendite-dreiecke/>
+   - Renditedreieck vom MSCI-World (Christian W. Röhl): <https://www.dividendenadel.de/msci-world-renditedreieck/>
+   - <https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/>
 - <https://www.finanzfluss.de/geldanlage/>
    - <https://www.finanzfluss.de/etf-handbuch/>
 - Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
