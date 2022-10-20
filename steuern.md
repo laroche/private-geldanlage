@@ -332,7 +332,7 @@ auftauchen.
 Es gibt Berichte, dass bei Andienung von Short Optionen die Prämien mit in die Aktienpreise
 eingerechnet werden. (Hab ich nicht verifiziert, sollte ja eigentlich nur für Long-Optionen
 gemacht werden.)
-Damit werden Einnahmen zwischen verschiedenen Einnahmetöpfe verschoben.
+Damit werden Einnahmen zwischen verschiedenen Einnahmetöpfen verschoben.
 
 Die Berechnung von Fremdwährungsgewinnen entspricht nicht den Steuer-Regeln. Viele lassen diese
 Angaben wohl in der Steuererklärung komplett weg. (Eine Freigrenze gibt es dazu auch.)
@@ -344,6 +344,9 @@ einen Jahresreport neu definieren. (Bei englischer Sprache ist das unter "Report
 ![Jahres-Steuer-Report](img/Steuer-Report.png)
 
 Für die eigenen Unterlagen kann man ja noch einen kompletten Report mit allen Daten erstellen.
+
+Für Zinsen behält IB Irland 20% an Quellensteuer ein, wenn man nicht einen Freistellungsantrag
+über <https://ibkr.info/node/4687> erstellt.
 
 
 Software zum Einlesen der Interactive Broker Reports
