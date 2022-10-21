@@ -80,8 +80,6 @@ Link-Sammlung
 - <https://www.lynalden.com/>
 - <https://think-beyondtheobvious.com/> von Dr. Daniel Stelter
 - <https://www.weforum.org/events/world-economic-forum-annual-meeting-2022/>
-- <https://de.wikipedia.org/wiki/72er-Regel>
-   - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
 - <https://www.armuts-und-reichtumsbericht.de/DE/Bericht/Der-sechste-Bericht/sechster-bericht.html>
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
 - <https://de.wikipedia.org/wiki/Einkommensverteilung_in_Deutschland>

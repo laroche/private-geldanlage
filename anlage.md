@@ -7,6 +7,10 @@ Geldanlage-Möglichkeiten
    - <https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/>
 - <https://www.finanzfluss.de/geldanlage/>
    - <https://www.finanzfluss.de/etf-handbuch/>
+- 72er Regel zur Verdopplung des Vermögens
+   - <https://www.finanzfluss.de/geldanlage/72er-regel/>
+   - <https://de.wikipedia.org/wiki/72er-Regel>
+   - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
 - Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
 - Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich: <https://www.youtube.com/watch?v=2tsUdgjgtdo>
 
@@ -17,6 +21,13 @@ Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)gü
 und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
 Nur ein Produkt für die komplette Aktienanlage. (Nächste Alternative ist der ACWI.)
 
+Die USA haben den größten und stärksten Aktiemarkt. Hier dazu eine Übersicht seit 2007
+bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
+
+![S&P500 von 2007 bis 2022](img/sp500.png)
+
+![S&P500 und die Zinsen der Zentralbank der USA (FED)](img/sp500-fed.png)
+
 
 FTSE All-World
 --------------
@@ -25,7 +36,7 @@ FTSE All-World
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
-Eines der folgenden beiden Produkte auswählen:
+Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung das gleiche Produkt):
 
 - Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, VGWL
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
@@ -138,10 +149,6 @@ Die 10 größten Firmen haben einen Anteil von 27,97 %.
    - Auflagedatum 2010-05-20
    - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
 
-![S&P500 von 2007 bis 2022](img/sp500.png)
-
-![S&P500 und die Zinsen der Zentralbank der USA (FED)](img/sp500-fed.png)
-
 
 Global Portfolio One
 --------------------
@@ -156,6 +163,15 @@ Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
    - <https://globalportfolio-one.com/gpo/> (inklusive genauer Auflistung aller Produkte in diesem Fonds, vielleicht
      will man ja nur Teile davon bei sich als Idee im Portfolio aufnehmen/nachhandeln.)
       - anstelle von Cash werden z.B. Schweizer Staatsanleihen gehalten
+
+
+ARERO Weltfond
+--------------
+
+- <https://www.arero.de/>
+- <https://www.finanzen.net/fonds/arero-der-weltfonds-lu0360863863>
+- <https://www.finanzfluss.de/geldanlage/arero-weltfonds/>a
+- <https://www.youtube.com/watch?v=DFBKF7mS13E> und <https://www.youtube.com/watch?v=CQNOS5Jt_ZI>
 
 
 Dividenden-Aktien
