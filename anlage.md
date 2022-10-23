@@ -6,10 +6,12 @@ Geldanlage-Möglichkeiten
    - Renditedreieck vom MSCI-World (Christian W. Röhl): <https://www.dividendenadel.de/msci-world-renditedreieck/>
    - <https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/>
 - <https://www.finanzfluss.de/geldanlage/>
-   - <https://www.finanzfluss.de/etf-handbuch/>
+   - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
+   - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
+      - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
 - 72er Regel zur Verdopplung des Vermögens
-   - <https://www.finanzfluss.de/geldanlage/72er-regel/>
-   - <https://de.wikipedia.org/wiki/72er-Regel>
+   - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
+   - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
    - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
 - Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
 - Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich: <https://www.youtube.com/watch?v=2tsUdgjgtdo>
@@ -38,17 +40,18 @@ Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
 Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung das gleiche Produkt):
 
+- [Finanzfluss: FTSE-All-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=FTSE%20All-World)
 - Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, VGWL
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
-   - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25>
+   - [finanzen.net: FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing>
 - Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
-   - <https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80>
+   - [finanzen.net: FTSE-All-World thesaurierend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating>
 
 
@@ -67,11 +70,12 @@ MSCI All-Country World-Index IMI (ACWI IMI)
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 13,80 %.
 
+- [Finanzfluss: MSCI-All-Country-World-Investable-Market (ACWI IMI) ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20All%20Country%20World%20Investable%20Market%20%28ACWI%20IMI%29)
 - SPDR MSCI ACWI IMI UCITS ETF, WKN:A1JJTD, ISIN:IE00B3YLTY66
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %
    - Fondsgröße 458 Millionen (2022-08), Fondswährung USD
    - Auflagedatum 2011-05-13
-   - <https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66>
+   - [finanzen.net: MSCI ACWI IMI](https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66)
    - Nur in eine Auswahl aller Aktien (ca. 1800) wird tatsächlich investiert.
 
 
@@ -82,11 +86,12 @@ MSCI All-Country World-Index (ACWI)
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 17,19 %.
 
+- [Finanzfluss: MSCI-ACWI ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20ACWI)
 - iShares MSCI ACWI UCITS ETF, WKN:A1JMDF, ISIN:IE00B6R52259
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
    - Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2011-10-21
-   - <https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259>
+   - [finanzen.net: MSCI ACWI](https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259)
    - Nur in eine Auswahl aller Aktien (ca. 1645) wird tatsächlich investiert.
 
 
@@ -101,21 +106,22 @@ Bei der Ländergewichtung ist man zu 67 % in die USA investiert.
 Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
+- [Finanzfluss MSCI-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20World)
 - iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
    - Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
-   - <https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983>
+   - [finanzen.net: iShares Core MSCI World](https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983)
 - Lyxor Core MSCI World (DR) UCITS ETF, WKN:LYX0YD, ISIN:LU1781541179
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %
    - Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2018-02-28
-   - <https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179>
+   - [finanzen.net: Lyxor Core MSCI World (DR)](https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179)
 - Lyxor MSCI World (LUX) UCITS ETF, WKN:ETF110, ISIN:LU0392494562
    - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %
    - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2008-11-27
-   - <https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562>
+   - [finanzen.net: Lyxor MSCI World (LUX)](https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562)
 - SPDR MSCI World, ISIN:IE00BFY0GT14
 - Xtrackers MSCI World, WKN:DBX1MW
 - Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58
@@ -128,6 +134,7 @@ S&P500 sind die 500 größten Unternehmen in den USA, der Nasdaq100 sind die 100
 in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber natürlich eine Wette auf die USA.
 Die 10 größten Firmen haben einen Anteil von 27,97 %.
 
+- [Finanzfluss SP500 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=S%26P%20500)
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09
    - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %
    - Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
@@ -148,6 +155,8 @@ Die 10 größten Firmen haben einen Anteil von 27,97 %.
    - Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-20
    - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
+
+- [Finanzfluss Nasdaq-100 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=Nasdaq%20100)
 
 
 Global Portfolio One
