@@ -98,7 +98,7 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
 MSCI World
 ----------
 
-- <https://www.youtube.com/watch?v=ElkELpWP69c>
+[YouTube: Finanzfluss: MSCI World ETF im Vergleich](https://www.youtube.com/watch?v=ElkELpWP69c)
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen.
