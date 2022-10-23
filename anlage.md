@@ -1,11 +1,11 @@
 Geldanlage-Möglichkeiten
 ========================
 
-- <https://gerd-kommer.de/passiv-investieren-die-basics/>
-- Rendite-Dreiecke vom Deutschen Aktieninstitut: <https://www.dai.de/rendite-dreiecke/>
-   - Renditedreieck vom MSCI-World (Christian W. Röhl): <https://www.dividendenadel.de/msci-world-renditedreieck/>
-   - <https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/>
-- <https://www.finanzfluss.de/geldanlage/>
+- [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
+- [DAX Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
+   - [MSCI-World Renditedreieck von Christian W. Röhl](https://www.dividendenadel.de/msci-world-renditedreieck/)
+- [DAX Renditedreieck von Finanzfluss](https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/)
+- [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
    - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
@@ -13,8 +13,8 @@ Geldanlage-Möglichkeiten
    - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
    - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
    - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
-- Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs: <https://www.youtube.com/watch?v=wBIlfl8R4AI>
-- Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich: <https://www.youtube.com/watch?v=2tsUdgjgtdo>
+- [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
+- [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
 
 Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
 bietet auch einen Hinweis auf beliebte Produkte.
