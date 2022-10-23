@@ -23,6 +23,9 @@ Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)gü
 und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
 Nur ein Produkt für die komplette Aktienanlage. (Nächste Alternative ist der ACWI.)
 
+Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?t=geo&st=w52) bzw
+[SP500 Jahresperformance](https://finviz.com/map.ashx?t=sec&st=w52).
+
 Die USA haben den größten und stärksten Aktiemarkt. Hier dazu eine Übersicht seit 2007
 bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
 
