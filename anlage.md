@@ -9,10 +9,26 @@ Geldanlage-Möglichkeiten
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
    - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
+- [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
+   - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
 - 72er Regel zur Verdopplung des Vermögens
    - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
    - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
    - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
+- 4-Prozent-Regel für eine Entnahme im Rentenalter (4% Rule and Safe Withdrawal Rates (SWR))
+   - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
+   - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
+   - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
+   - <https://www.ranioli.ch/unsere-cape-basierte-entnahme-regel/>
+   - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
+- Auswahl von ETFs/Fonds:
+   - <https://www.justetf.com/>
+      - [YouTube justETF](https://www.youtube.com/c/justETF/videos)
+   - <https://etfdb.com/>
+   - <https://de.extraetf.com/>
+   - <https://www.trackingdifferences.com/>
+   - <https://www.fondsweb.com/>
+   - <https://www.etf.com>
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
 
