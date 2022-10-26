@@ -44,6 +44,7 @@ Steuern bei ausländischen Banken/Brokern
 - <https://www.freakyfinance.net/>
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
    - <https://www.youtube.com/watch?v=ZD9q78Jf3s8&t=497s>
+- [YouTube: Finance Coach: Playlist Steuerthemen](https://www.youtube.com/watch?v=KzeKMs5_jZU&list=PL9ljZT4UiJgCVCuHi-gAHI4u_9CMKRyed)
 - <https://www.youtube.com/watch?v=_crnNjefKOk>
 - <https://www.youtube.com/watch?v=QFgyPz5Y7VA&t=451s>
 - <https://www.youtube.com/watch?app=desktop&v=um7PTNidkpE>
@@ -101,13 +102,13 @@ Regeln der Kapitalertragsteuer
    - hier nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/>
    - Besteuerung von Kryptowährungen: <https://pekuna.de/>
-- Alle Verluste mit Termingeschäften dürfen pro Jahr und pro Person nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG),
+- Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden. (Z25 in der KAP)
+- Alle Verluste mit Termingeschäften dürfen pro Jahr und pro Person nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG ab 2021),
   der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
   Long-Optionen, CFDs.)
    - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
      dürfen damit verrechnet werden.
 - Verbot von Futures ab 2023: <https://www.finanzen.net/nachricht/aktien/allgemeinverfuegung-bafin-einschraenkung-des-futures-handel-fuer-kleinanleger-ab-2023-11758139>
-- Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden.
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
 
@@ -129,7 +130,7 @@ Wie wird die KAP berechnet?
 Eintragung Steuern 2021 {#KAP2021}
 -----------------------
 
-Z19 steht als Abkürzung für Zeile 19 im (durchnummerierten) Formular vom Finanzamt.
+Z19 steht als Abkürzung für "Zeile 19" im (durchnummerierten) Formular vom Finanzamt.
 
 In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei der KAP2021 in Z23, Z24 und Z25.)
 
@@ -144,6 +145,10 @@ In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei de
 - Zeile 24: Verluste aus Termingeschäften
 - Zeile 25: Verluste aus der ganzen oder teilweisen Uneinbringlichkeit einer Kapitalforderung,
   Ausbuchung, Übertragung wertlos gewordener Wirtschaftsgüter oder aus einem sonstigen Ausfall von Wirtschaftsgütern
+   - Sind auf 20.000 € pro Jahr und Person beschränkt, der Rest wandert in einen Verlustverrechnungstopf für die nächsten Jahre.
+   - Soll bei Aktien gelten, wenn die Ordergebühr größer als der Aktienwert ist.
+   - Verfallene Long-Optionen fallen gehören nicht in den Verlusttopf für Komplettverluste, da sie nicht Kapitaleinkünfte im Sinne des Abs. 1, sondern des Abs. 2 sind.
+   - §20 Abs 6 Satz 6 EStG ab 2020
 - Zeile 41: Anrechenbare noch nicht angerechnete ausländischen Steuern (gezahlte Quellensteuer)
 
 
@@ -169,7 +174,7 @@ Offene Fragen:
 
 - Nach Gesetzestexten könnte man Long-Optionen-Verluste auch in Z25 eintragen und damit die
   Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
-  nicht erwähnt.
+  nicht erwähnt. (Dies gilt wohl nicht, siehe oben.)
 - Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive. Durch Stillhalterverluste kann
   ein negativer Wert herauskommen.
 - (Bereits oben richtig eingetragen:) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert
