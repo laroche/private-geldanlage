@@ -7,6 +7,7 @@ Geldanlage-Möglichkeiten
 - [DAX Renditedreieck von Finanzfluss](https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/)
 - [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
+      - [YouTube: Finanzfluss: Alles über ETFs in nur 15 Minuten: Index, Sparplan, Steuern](https://www.youtube.com/watch?v=r80NOOdFIn8)
    - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
