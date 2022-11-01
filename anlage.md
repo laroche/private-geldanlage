@@ -61,7 +61,7 @@ Die 10 größten Firmen haben einen Anteil von 14,92 %.
 Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung das gleiche Produkt):
 
 - [Finanzfluss: FTSE-All-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=FTSE%20All-World)
-- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, VGWL
+- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol:VWRD VGWL
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
@@ -155,7 +155,7 @@ in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber nat�
 Die 10 größten Firmen haben einen Anteil von 27,97 %.
 
 - [Finanzfluss SP500 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=S%26P%20500)
-- Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09
+- Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09, Symbol:VUSD
    - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %
    - Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
@@ -165,7 +165,7 @@ Die 10 größten Firmen haben einen Anteil von 27,97 %.
    - Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2002-03-15
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
-- iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087
+- iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087, Symbol:CSSPX
    - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %
    - Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-19
@@ -206,7 +206,9 @@ ARERO Weltfond
 Dividenden-Aktien
 -----------------
 
-- Vanguard FTSE All-World High Dividend Yield, ISIN:IE00B8GKDB10
+- Vanguard FTSE All-World High Dividend Yield, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
+  TER 0,29 %, Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
+  Top 10 Positionen 13,50 %
 - iShares STOXX Global Select Dividend 100, ISIN:DE000A0F5UH1
 
 
