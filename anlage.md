@@ -152,7 +152,11 @@ S&P500 und Technologiewerte Nasdaq100
 
 S&P500 sind die 500 größten Unternehmen in den USA, der Nasdaq100 sind die 100 größten Technologieunternehmen
 in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber natürlich eine Wette auf die USA.
-Die 10 größten Firmen haben einen Anteil von 27,97 %.
+
+Die 10 größten Firmen haben im S&P500 einen Anteil von 27,97 %.
+
+Im Nasdaq100 haben die 6 größten Firmen (Apple, Microsoft, Amazon, Tesla, Alphabet C und A) einen
+Anteil von 42,5 %. Apple hat einen Anteil von 13 %.
 
 - [Finanzfluss SP500 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=S%26P%20500)
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09, Symbol:VUSD
