@@ -4,6 +4,7 @@ Link-Sammlung
 - Chart-Software mit vielen Börsen/Daten: <https://de.tradingview.com/>
 - Chart-Software: <https://www.barchart.com/>
 - Überblick über die Märkte: <https://finviz.com/>
+- <https://www.investing.com/>
 - <https://optionsellerroi.com/>
 - Tickdaten einzelner Aktien an der Stuttgarter Börse: <https://www.finanzen.net/>
    - Beispiel SAP: <https://www.finanzen.net/realtimekurs/sap>
@@ -110,6 +111,7 @@ Auswertung, Trading Log und Backtest
 - <https://www.portfoliovisualizer.com/>
 - <https://visualtradingjournal.com/>
 - [extraETF: FinanzManager](https://de.extraetf.com/user/portfolio)
+- <https://finary.com/>
 
 
 Finanznachrichten
