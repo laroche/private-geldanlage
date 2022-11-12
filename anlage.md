@@ -183,6 +183,26 @@ Anteil von 42,5 %. Apple hat einen Anteil von 13 %.
 - [Finanzfluss Nasdaq-100 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=Nasdaq%20100)
 
 
+Europa
+------
+
+STOXX Europe 600 Index: 600 Aktien zusammengesetzt aus Large-, Mid- und Small Caps 18 europäischer Länder.
+
+- Länder: 25 % United Kingdom, 17 % Frankreich, 16 % Schweiz, 11 % Deutschland, 7 % Niederlande, 5 % Schweden, ...
+- Aktien: Nestle, Roche, Shell, AstraZeneca, Novo Nordisk, Novartis, ASML, LVMH, Linde, TotalEnergies, ...
+
+- Lyxor Core STOXX Europe 600 (DR) - ETF, WKN:LYX0Q0, ISIN:LU0908500753
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Fondsgröße 4.616 Millionen (2022-11), Fondswährung EUR
+   - Auflagedatum 2013-04-03
+   - <https://www.finanzen.net/etf/lyxor-core-stoxx-europe-600-dr-etf-lu0908500753>
+- iShares STOXX Europe 600 ETF, WKN:263530, ISIN:DE0002635307
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,20 %
+   - Fondsgröße 5.050 Millionen (2022-11), Fondswährung EUR
+   - Auflagedatum 2004-02-13
+   - <https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307>
+
+
 Global Portfolio One
 --------------------
 
