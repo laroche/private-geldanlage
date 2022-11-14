@@ -1,5 +1,11 @@
 #!/bin/bash
-# apt install pandoc texlive-latex-extra texlive-xetex texlive-fonts-extra texlive-lang-german
+
+if test "X$1" = Xinstall ; then
+  sudo apt install pandoc texlive-latex-extra texlive-xetex texlive-fonts-extra texlive-lang-german
+  if ! test -f eisvogel.latex ; then
+    wget -O eisvogel.latex https://github.com/Wandmalfarbe/pandoc-latex-template/blob/master/eisvogel.tex
+  fi
+fi
 
 # Aktuelles Datum in index.md eintragen:
 sed -i -e "s/^date: .*/date: $(date +%Y-%m-%d)/g" index.md
