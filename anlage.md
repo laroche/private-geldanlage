@@ -12,11 +12,21 @@ Geldanlage-Möglichkeiten
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
    - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
-- 72er Regel zur Verdopplung des Vermögens
-   - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
-   - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
-   - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
+   - 72er Regel zur Verdopplung des Vermögens
+      - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
+      - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
+      - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
+      - Mit der 72er-Regel kann man auch die Auswirkungen der Inflation berechnen:
+        Bei 3 % Inflation hat man nach 24 Jahren nur noch die halbe Kaufkraft.
+- Prozentrechnen
+   - Wenn der Aktienpreis 50 % einbricht, dann muss er dann erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
+   - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
 - 4-Prozent-Regel für eine Entnahme im Rentenalter (4% Rule and Safe Withdrawal Rates (SWR))
+   - Ganz vereinfachte Darstellung: Wenn man langfristig eine Rendite von 7 % mit der Aktienanlage hat und mit einer
+     durchschnittlichen Inflationsrate von 3 % rechnet, dann kann man 4 % des Aktionvermögens jedes Jahr als Rente auszahlen.
+     Das Aktienvermögen und auch die zukünftigen Auszahlungen steigen beide um die Inflation mit an. Die Auszahlung muss
+     dann natürlich noch versteuert werden. Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem
+     schlechten Verlauf noch sicher ist.
    - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
    - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
@@ -28,6 +38,7 @@ Geldanlage-Möglichkeiten
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
    - <https://www.trackingdifferences.com/>
+      - <https://blog.trackingdifferences.com/meine-anlagestrategie-im-jahr-2021/>
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
@@ -38,7 +49,8 @@ bietet auch einen Hinweis auf beliebte Produkte.
 
 Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)günstig
 und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
-Nur ein Produkt für die komplette Aktienanlage. (Nächste Alternative ist der ACWI.)
+Nur ein Produkt für die komplette Aktienanlage.
+(Mit höherem US-Anteil ist auch der MSCI World sehr beliebt.)
 
 Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?t=geo&st=w52) bzw
 [SP500 Jahresperformance](https://finviz.com/map.ashx?t=sec&st=w52).
@@ -62,13 +74,13 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
 
 - [Finanzfluss: FTSE-All-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=FTSE%20All-World)
 - Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol:VWRD VGWL
-   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, [TD -0,02 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3RBWM25)
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - [finanzen.net: FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing>
 - Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %, [TD 0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BK5BQT80)
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
    - [finanzen.net: FTSE-All-World thesaurierend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80)
@@ -92,7 +104,7 @@ Die 10 größten Firmen haben einen Anteil von 13,80 %.
 
 - [Finanzfluss: MSCI-All-Country-World-Investable-Market (ACWI IMI) ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20All%20Country%20World%20Investable%20Market%20%28ACWI%20IMI%29)
 - SPDR MSCI ACWI IMI UCITS ETF, WKN:A1JJTD, ISIN:IE00B3YLTY66
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3YLTY66)
    - Fondsgröße 458 Millionen (2022-08), Fondswährung USD
    - Auflagedatum 2011-05-13
    - [finanzen.net: MSCI ACWI IMI](https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66)
@@ -108,7 +120,7 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
 
 - [Finanzfluss: MSCI-ACWI ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20ACWI)
 - iShares MSCI ACWI UCITS ETF, WKN:A1JMDF, ISIN:IE00B6R52259
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, [TD 0,24%](https://www.trackingdifferences.com/ETF/ISIN/IE00B6R52259)
    - Fondsgröße 4.996 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2011-10-21
    - [finanzen.net: MSCI ACWI](https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259)
@@ -128,23 +140,23 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
 - [Finanzfluss MSCI-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20World)
 - iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B4L5Y983)
    - Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
    - [finanzen.net: iShares Core MSCI World](https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983)
 - Lyxor Core MSCI World (DR) UCITS ETF, WKN:LYX0YD, ISIN:LU1781541179
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %, [TD 0,03 %](https://www.trackingdifferences.com/ETF/ISIN/LU1781541179)
    - Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2018-02-28
    - [finanzen.net: Lyxor Core MSCI World (DR)](https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179)
 - Lyxor MSCI World (LUX) UCITS ETF, WKN:ETF110, ISIN:LU0392494562
-   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %
+   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %, [TD 0,01 %](https://www.trackingdifferences.com/ETF/ISIN/LU0392494562)
    - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2008-11-27
    - [finanzen.net: Lyxor MSCI World (LUX)](https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562)
-- SPDR MSCI World, ISIN:IE00BFY0GT14
-- Xtrackers MSCI World, WKN:DBX1MW
-- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58
+- SPDR MSCI World, WKN:A2N6CW, ISIN:IE00BFY0GT14, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFY0GT14)
+- Xtrackers MSCI World, WKN:DBX1MW, ISIN:LU0274208692 [TD 0,10 %](https://www.trackingdifferences.com/ETF/ISIN/LU0274208692)
+- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
 
 
 S&P500 und Technologiewerte Nasdaq100
@@ -160,22 +172,22 @@ Anteil von 42,5 %. Apple hat einen Anteil von 13 %.
 
 - [Finanzfluss SP500 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=S%26P%20500)
 - Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09, Symbol:VUSD
-   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,27 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3XXRP09)
    - Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
    - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00b3xxrp09>
 - iShares Core S&P 500, WKN:622391, ISIN:IE0031442068
-   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE0031442068)
    - Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2002-03-15
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
 - iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087, Symbol:CSSPX
-   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,21 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B5BMR087)
    - Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-19
    - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087>
 - Invesco S&P 500 UCITS ETF, WKN:A1CYW7, ISIN:IE00B3YCGJ38
-   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %
+   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %, [TD -0,26 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3YCGJ38)
    - Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2010-05-20
    - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
@@ -192,12 +204,12 @@ STOXX Europe 600 Index: 600 Aktien zusammengesetzt aus Large-, Mid- und Small Ca
 - Aktien: Nestle, Roche, Shell, AstraZeneca, Novo Nordisk, Novartis, ASML, LVMH, Linde, TotalEnergies, ...
 
 - Lyxor Core STOXX Europe 600 (DR) - ETF, WKN:LYX0Q0, ISIN:LU0908500753
-   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,17 %](https://www.trackingdifferences.com/ETF/ISIN/LU0908500753)
    - Fondsgröße 4.616 Millionen (2022-11), Fondswährung EUR
    - Auflagedatum 2013-04-03
    - <https://www.finanzen.net/etf/lyxor-core-stoxx-europe-600-dr-etf-lu0908500753>
 - iShares STOXX Europe 600 ETF, WKN:263530, ISIN:DE0002635307
-   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,20 %
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,20 %, [TD -0,16 %](https://www.trackingdifferences.com/ETF/ISIN/DE0002635307)
    - Fondsgröße 5.050 Millionen (2022-11), Fondswährung EUR
    - Auflagedatum 2004-02-13
    - <https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307>
@@ -230,10 +242,13 @@ ARERO Weltfond
 Dividenden-Aktien
 -----------------
 
-- Vanguard FTSE All-World High Dividend Yield, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
-  TER 0,29 %, Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
+- Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
+  TER 0,29 %, [TD -0,04 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B8GKDB10), Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
   Top 10 Positionen 13,50 %
-- iShares STOXX Global Select Dividend 100, ISIN:DE000A0F5UH1
+- iShares STOXX Global Select Dividend 100, WKN:A0F5UH, ISIN:DE000A0F5UH1
+  TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
+- SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
+  TER 0,45 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B9CQXS71)
 
 
 Cash-Reserve

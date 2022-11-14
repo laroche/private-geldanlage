@@ -2,7 +2,7 @@ Broker
 ======
 
 Broker sind nicht so reguliert wie Banken und bei Ihnen gilt in Europa nicht die
-Einlagensicherung von 100.000 Euro, sondern nur 20.000 Euro.
+Einlagensicherung von 100.000 Euro, sondern von nur 20.000 Euro.
 
 - <https://www.depot-vergleichen.de/>
 - <https://www.aktien.net/broker-vergleich/>
