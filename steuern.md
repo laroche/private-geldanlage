@@ -109,6 +109,7 @@ Regeln der Kapitalertragsteuer
    - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
      dürfen damit verrechnet werden.
 - Verbot von Futures ab 2023: <https://www.finanzen.net/nachricht/aktien/allgemeinverfuegung-bafin-einschraenkung-des-futures-handel-fuer-kleinanleger-ab-2023-11758139>
+   - [YouTube: Suricate Trading: Nachschusspflicht einfach erklärt](https://www.youtube.com/watch?v=8zGYpGbUa8k)
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
 
