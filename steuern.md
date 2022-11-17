@@ -67,8 +67,8 @@ Regeln der Kapitalertragsteuer
 - Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
   gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
 - Mit dem [Sparerpauschbetrag](https://de.wikipedia.org/wiki/Sparer-Pauschbetrag) (Freibetrag) kassieren
-  Singles Kapitalerträge bis 801 Euro und gemeinsam Veranlagte bis zu 1.602 Euro steuerfrei.
-  Ab 2022 erhöht sich der Sparerpauschbetrag auf 1.200 Euro (2.400 Euro für Paare).
+  Singles Kapitalerträge bis 801 Euro und zusammenveranlagte Personen bis zu 1.602 Euro steuerfrei.
+  Ab 2023 erhöht sich der Sparerpauschbetrag auf 1.000 Euro (2.000 Euro für zusammenveranlagte Paare).
 - Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (und sind voll abzugsfähig).
 - Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
   Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
