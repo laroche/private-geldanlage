@@ -14,12 +14,13 @@ inländische Broker
 Neo-Broker:
 
 - <https://de.scalable.capital/>
+   - [YouTube: Erik Podzuweit bei Aktien mit Kopf](https://www.youtube.com/watch?v=BjQZk403Itw)
    - Gettex, Xetra
+- <https://traderepublic.com/>
+   - L&S Exchange
 - <https://smartbroker.de/>
    - viele deutsche Handelsplätze
    - Hat auch Fremdwährungskonten.
-- <https://traderepublic.com/>
-   - L&S Exchange
 - <https://www.finanzen.net/zero/>
    - Gettex
 

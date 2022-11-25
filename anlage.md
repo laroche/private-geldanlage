@@ -159,6 +159,16 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
 - Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
 
 
+Welt AG mit 3 ETFs
+------------------
+
+Schwellenländer und Small Caps hinzufügen: <https://www.youtube.com/watch?v=ldRGmU2jgCE>
+
+   - 70 % in Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
+   - 20 % in iShares Core MSCI EM IMI, WKN:A2JDYF, ISIN:IE00BD45KH83, [TD 0,07 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BD45KH83)
+   - 10 % in iShares MSCI World Small Cap, WKN:A2DWBY, ISIN:IE00BF4RFH31, [TD 0,23 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BF4RFH31)
+
+
 S&P500 und Technologiewerte Nasdaq100
 -------------------------------------
 
