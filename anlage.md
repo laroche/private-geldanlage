@@ -18,6 +18,9 @@ Geldanlage-Möglichkeiten
       - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
       - Mit der 72er-Regel kann man auch die Auswirkungen der Inflation berechnen:
         Bei 3 % Inflation hat man nach 24 Jahren nur noch die halbe Kaufkraft.
+      - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
+        eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
+        Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
 - Prozentrechnen
    - Wenn der Aktienpreis 50 % einbricht, dann muss er dann erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
    - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
@@ -54,6 +57,9 @@ Nur ein Produkt für die komplette Aktienanlage.
 
 Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?t=geo&st=w52) bzw
 [SP500 Jahresperformance](https://finviz.com/map.ashx?t=sec&st=w52).
+Dazu noch [Wikipedia: Liste der Wertpapierbörsen nach Marktkapitalisierung](https://de.wikipedia.org/wiki/Liste_der_Wertpapierb%C3%B6rsen_nach_Marktkapitalisierung)
+und [Wikipedia: Liste der Länder nach Bruttoinlandsprodukt (BIP)](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt).
+(Eventuell auch [Wikipedia: Liste der Länder nach BIP pro Kopf](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt_pro_Kopf).)
 
 Die USA haben den größten und stärksten Aktiemarkt. Hier dazu eine Übersicht seit 2007
 bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
@@ -311,4 +317,14 @@ Mit Optionen ein $100K+ Portfolio verwalten:
 - [Cost Basis Reduction Strategies](https://www.youtube.com/watch?v=yU0ep2l9BRw&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=3)
 - [Managing Positions](https://www.youtube.com/watch?v=Pj9jOCJMtEk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=4)
 - [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
+
+
+Heding mit Optionen von "Income Options Trading"
+------------------------------------------------
+
+- [YouTube: Expected Annualized Return Using tastytrade Mechanics](https://www.youtube.com/watch?v=pFXPSZwUaCk)
+- [Hedge 4-4-1](https://www.youtube.com/watch?v=mC75UlO-4pY)
+- [Hedge 4-4-2](https://www.youtube.com/watch?v=esmTTx3yKJ8)
+- [Hedge 4-4-4](https://www.youtube.com/watch?v=1-fzF0Ec4oc)
+
 
