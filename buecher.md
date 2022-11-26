@@ -18,6 +18,7 @@ Allgemein
 - [Higher Probability Commodity Trading von Carley Garner](https://www.amazon.de/HIGHER-PROBABILITY-COMMODITY-TRADING-Comprehensive/dp/1942545525)
 - [Amazon Bestseller in Börse und Aktien](https://www.amazon.de/gp/bestsellers/books/188794/ref=zg_bs_nav_b_2_120) und
   [Amazon Bestseller in Geldanlage & Vermögensaufbau](https://www.amazon.de/gp/bestsellers/books/189094/ref=zg_bs_nav_b_2_120)
+- [The New Trading for a Living von Alexander Elder](https://www.amazon.de/-/en/Alexander-Elder/dp/1118443926/ref=sr_1_1)
 
 
 Optionen
