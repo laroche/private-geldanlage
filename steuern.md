@@ -21,7 +21,7 @@ Linksammlung zu Steuern
 - Wenn man Unterlagen online anstelle von Ausdrucken dem Finanzamt übermitteln will,
   kann man dies in Baden-Württemberg über folgenden Link machen:
   <https://finanzamt-bw.fv-bwl.de/,Lde/Startseite/Service/Kontaktformular>
-  Über WISO/Elster gibt es wohl auch eine Möglichkeit zur Übermittlung von Unterlagen.
+  Über WISO/Elster gibt es auch eine Möglichkeit zur Übermittlung von Unterlagen.
 
 
 Steuern bei inländischen Banken/Brokern
@@ -65,7 +65,7 @@ Regeln der Kapitalertragsteuer
   evangelische 8 % (insgesamt 27,8186 %) bzw. für katholische 9 % (insgesamt 27,9951 %) Kirchensteuer
   bezahlt werden.
 - Eine [Günstigerprüfung](https://de.wikipedia.org/wiki/G%C3%BCnstigerpr%C3%BCfung) kann bei der Steuerabgabe
-  gestellt werden, wenn der persönliche Steuersatz unter der Kapitalertragsteuer liegt.
+  gestellt werden, wenn der persönliche Steuersatz bei der Einkommensteuer unter der Kapitalertragsteuer liegt.
 - Mit dem [Sparerpauschbetrag](https://de.wikipedia.org/wiki/Sparer-Pauschbetrag) (Freibetrag) kassieren
   Singles Kapitalerträge bis 801 Euro und zusammenveranlagte Personen bis zu 1.602 Euro steuerfrei.
   Ab 2023 erhöht sich der Sparerpauschbetrag auf 1.000 Euro (2.000 Euro für zusammenveranlagte Paare).
@@ -91,21 +91,22 @@ Regeln der Kapitalertragsteuer
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
       - Wird bei Stillhaltergeschäften am Ende ein [Barausgleich](https://de.wikipedia.org/wiki/Barausgleich) ("cash settlement")
-        gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft.
+        gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft und fällt damit auch unter
+        die Verlustverrechnungsgrenze von Termingeschäften.
       - Für die Einkünfte aus Stillhalterprämien müssen die Glattstellungskosten im Jahr des Zuflusses der Stillhalterprämien
         berücksichtigt werden und nicht in dem Zeitpunkt, in dem sie aufgewendet wurden:
         <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210176/>
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust nach FIFO berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
-   - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying hinzugerechnet.
+   - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying/Basiswert hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - hier nicht weiter betrachtet
-   - <https://www.gold.de/steuern-edelmetalle/>
+   - <https://www.gold.de/steuern-edelmetalle/> und <https://eichhorn-coaching.de/steuerfrei-in-xetra-gold-investieren/>
    - Besteuerung von Kryptowährungen: <https://pekuna.de/>
 - Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden. (Z25 in der KAP)
 - Alle Verluste mit Termingeschäften dürfen pro Jahr und pro Person nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG ab 2021),
   der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
-  Long-Optionen, CFDs.)
+  Long-Optionen, CFDs und ein Barausgleich bei Stillhaltergeschäften.)
    - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
      dürfen damit verrechnet werden.
 - Verbot von Futures ab 2023: <https://www.finanzen.net/nachricht/aktien/allgemeinverfuegung-bafin-einschraenkung-des-futures-handel-fuer-kleinanleger-ab-2023-11758139>
@@ -241,6 +242,21 @@ Aktienverluste voll anrechnen
 - [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
    - <https://blog.handelsblatt.com/steuerboard/2021/06/07/gute-nachrichten-fuer-private-anleger-bfh-haelt-beschraenkung-der-verlustverrechnung-fuer-aktien-fuer-verfassungswidrig/>
    - [Steuer-Webinar: BFH hält Regelung im Einkommensteuergesetz für verfassungswidrig](https://www.youtube.com/watch?v=Bhkqy7_hn80)
+   - Bundesverfassungsgericht Aktenzeichen 2 BvL 3/21
+
+
+Verfassungsmäßigkeit des Soli
+-----------------------------
+
+- Verfassungsmäßigkeit des Solidaritätszuschlags ab 2020: BFH Aktenzeichen IX R 9/22
+   - Ist die trotz des in 2019 ausgelaufenen Solidarpakts II und der Neuordnung der
+     Bund-Länder-Finanzbeziehungen ab 2020 fortgeltende Erhebung des
+     Solidaritätszuschlags für Veranlagungszeiträume beginnend ab 1.1.2020 verfassungswidrig?
+   - FG Baden-Württemberg, Urteil v. 16.5.2022, 10 K 1693/21
+   - Der IX. Senat des BFH wird am 17.1.2023 im Revisionsverfahren IX R 15/20 mündlich verhandeln. In dem Verfahren
+     geht es um die Verfassungsmäßigkeit des Solidaritätszuschlags ab dem Jahr 2020.
+   - <https://www.ey.com/de_de/steuernachrichten/weiteres-verfahren-zum-solidaritaetszuschlag-beim-bfh-anhaengig>
+   - <https://www.datev-magazin.de/nachrichten-steuern-recht/steuern/ist-die-festsetzung-eines-solidaritaetszuschlags-ab-dem-veranlagungszeitraum-2020-weiterhin-verfassungsgemaess-80968>
 
 
 Doppelbsteuerung der Renten

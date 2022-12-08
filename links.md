@@ -112,6 +112,7 @@ Auswertung, Trading Log und Backtest
 - <https://visualtradingjournal.com/>
 - [extraETF: FinanzManager](https://de.extraetf.com/user/portfolio)
 - <https://finary.com/>
+- <https://www.physicianonfire.com/net-worth-tracker/>
 
 
 Finanznachrichten
