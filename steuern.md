@@ -94,7 +94,7 @@ Regeln der Kapitalertragsteuer
         gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft und fällt damit auch unter
         die Verlustverrechnungsgrenze von Termingeschäften.
       - Für die Einkünfte aus Stillhalterprämien müssen die Glattstellungskosten im Jahr des Zuflusses der Stillhalterprämien
-        berücksichtigt werden und nicht in dem Zeitpunkt, in dem sie aufgewendet wurden:
+        berücksichtigt werden und nicht in dem Zeitpunkt, in dem sie aufgewendet wurden (BFH-Urteil vom 02. August 2022, VIII R 27/21):
         <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210176/>
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust nach FIFO berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
      Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
@@ -243,6 +243,8 @@ Aktienverluste voll anrechnen
    - <https://blog.handelsblatt.com/steuerboard/2021/06/07/gute-nachrichten-fuer-private-anleger-bfh-haelt-beschraenkung-der-verlustverrechnung-fuer-aktien-fuer-verfassungswidrig/>
    - [Steuer-Webinar: BFH hält Regelung im Einkommensteuergesetz für verfassungswidrig](https://www.youtube.com/watch?v=Bhkqy7_hn80)
    - Bundesverfassungsgericht Aktenzeichen 2 BvL 3/21
+   - <https://www.bundesfinanzhof.de/de/presse/pressemeldungen/detail/vorlage-an-das-bundesverfassungsgericht-der-bfh-haelt-die-verlustverrechnungsbeschraenkung-fuer-aktienveraeusserungsverluste-fuer-verfassungswidrig/>
+   - <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202110103/>
 
 
 Verfassungsmäßigkeit des Soli

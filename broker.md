@@ -51,8 +51,8 @@ Deutsche Aktien sollte man wegen Dividendenzahlungen und Quellensteuer nicht
 bei einem ausländischen Broker handeln.
 
 
-Interactive Brokers
--------------------
+Interactive Brokers (IB)
+------------------------
 
 - <https://www.interactivebrokers.eu/>
 - <https://www.facebook.com/groups/interactivebrokersgroup/>
@@ -75,6 +75,9 @@ Con:
 
 Tipps:
 - [TradingView mit Interactive Brokers verbinden](https://www.youtube.com/watch?v=HFHOdod8XlA)
+- Kontensicherheit bei IB:
+   - [YouTube Zahltagstrategie: Kontensicherheit bei IB](https://www.youtube.com/watch?v=rBdyDkwoEW0)
+   - [YouTube Nur Bares ist Wahres: Brokersicherheit und Wertpapierverwahrung](https://www.youtube.com/watch?v=FO_WVz7FedU)
 
 
 FxFlat
@@ -99,7 +102,7 @@ CapTrader
 Tastyworks
 ----------
 
-- <https://tastyworks.com/> und offene Lernplattform <https://www.tastytrade.com/>
+- <https://tastyworks.com/> und offene Lernplattform <https://www.tastytrade.com/> and <https://tastylive.com>
    - [Youtube: Tastytrade](https://www.youtube.com/c/tastytrade1/videos)
    - [Youtube: The Small Exchange](https://www.youtube.com/c/TheSmallExchange/videos)
    - [Youtube: Tastyworks](https://www.youtube.com/channel/UCk99MvmvHZutKIkh2u0ImrA/videos)

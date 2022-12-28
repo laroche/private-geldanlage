@@ -45,7 +45,10 @@ Geldanlage-Möglichkeiten
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
+- [Christian Delacour: Die besten ETFs 2023. Aktien-ETF Auswahl & Aufteilung, Welt-AG](https://www.youtube.com/watch?v=yPyLi6vtA08)
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
+- [Vanguard](https://investor.vanguard.com/)
+   - [YouTube Bogleheads](https://www.youtube.com/@bogleheads3687/videos)
 
 Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
 bietet auch einen Hinweis auf beliebte Produkte.
@@ -85,7 +88,7 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
    - Auflagedatum 2012-05-22
    - [finanzen.net: FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00b3rbwm25)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9505/ftse-all-world-ucits-etf-usd-distributing>
-- Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80
+- Vanguard FTSE All-World, WKN:A2PKXG, ISIN:IE00BK5BQT80, Symbol:VWCE
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,22 %, [TD 0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BK5BQT80)
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2019-07-23
@@ -230,6 +233,8 @@ STOXX Europe 600 Index: 600 Aktien zusammengesetzt aus Large-, Mid- und Small Ca
    - Auflagedatum 2004-02-13
    - <https://www.finanzen.net/etf/ishares-stoxx-europe-600-etf-de0002635307>
 
+FTSE Developed Europe UCITS ETF - VGEU, WKN:A1T8FS, ISIN:IE00B945VV12
+
 
 Global Portfolio One
 --------------------
@@ -265,6 +270,13 @@ Dividenden-Aktien
   TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
 - SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
   TER 0,45 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B9CQXS71)
+
+
+Themen ETFs
+-----------
+
+- iShares Global Water UCITS ETF, WKN:AOMMOS, ISIN:IE00BITXK627, Symbol:IQQQ
+- VanEck Semiconductor UCITS ETF, WKN:A2QC5J, ISIN:IE00BMC38736, Symbol:VVSM
 
 
 Cash-Reserve
