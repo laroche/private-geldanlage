@@ -47,6 +47,7 @@ Geldanlage-Möglichkeiten
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
 - [Christian Delacour: Die besten ETFs 2023. Aktien-ETF Auswahl & Aufteilung, Welt-AG](https://www.youtube.com/watch?v=yPyLi6vtA08)
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
+- [YouTube Rob Berger: How to Create a 3 Fund Portfolio, A Beginner's Guide](https://www.youtube.com/watch?v=kmw8OpGp2rM)
 - [Vanguard](https://investor.vanguard.com/)
    - [YouTube Bogleheads](https://www.youtube.com/@bogleheads3687/videos)
 
@@ -266,10 +267,12 @@ Dividenden-Aktien
 - Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
   TER 0,29 %, [TD -0,04 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B8GKDB10), Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
   Top 10 Positionen 13,50 %
+- Vanguard Dividend Appreciation ETF, VIG
 - iShares STOXX Global Select Dividend 100, WKN:A0F5UH, ISIN:DE000A0F5UH1
   TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
 - SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
   TER 0,45 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B9CQXS71)
+- Schwab US Dividend Equity ETF, SCHD
 
 
 Themen ETFs
