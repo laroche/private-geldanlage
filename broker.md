@@ -78,6 +78,7 @@ Tipps:
 - Kontensicherheit bei IB:
    - [YouTube Zahltagstrategie: Kontensicherheit bei IB](https://www.youtube.com/watch?v=rBdyDkwoEW0)
    - [YouTube Nur Bares ist Wahres: Brokersicherheit und Wertpapierverwahrung](https://www.youtube.com/watch?v=FO_WVz7FedU)
+   - <https://www.captrader.com/zahlungsverkehr/einlagensicherung/einlagensicherung-eu-ibie/>
 
 
 FxFlat
