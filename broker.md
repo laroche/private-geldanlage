@@ -16,13 +16,16 @@ Neo-Broker:
 - <https://de.scalable.capital/>
    - [YouTube: Erik Podzuweit bei Aktien mit Kopf](https://www.youtube.com/watch?v=BjQZk403Itw)
    - Gettex, Xetra
+   - Backend von der Baader Bank
 - <https://traderepublic.com/>
    - L&S Exchange
 - <https://smartbroker.de/>
    - viele deutsche Handelsplätze
    - Hat auch Fremdwährungskonten.
+   - Bakend soll ab Mitte 2023 von der Baader Bank sein
 - <https://www.finanzen.net/zero/>
    - Gettex
+   - Backend von der Baader Bank
 
 traditionellere Online-Broker:
 
