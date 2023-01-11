@@ -147,6 +147,12 @@ Con:
 - Nur für den privaten Handel, Geschäftskonten für Deutschland können nicht eröffnet werden.
 
 
+Charles Schwab
+--------------
+
+- <https://www.schwab.com/pricing>
+
+
 FirstTrade
 ----------
 
