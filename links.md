@@ -20,7 +20,6 @@ Link-Sammlung
    - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
    - <https://roic.ai/>
 - <https://marketchameleon.com/>
-- <https://www.test.de/shop/geldanlage-banken/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
    - [YouTube-Suche Andreas Beck](https://www.youtube.com/results?search_query=Andreas+Beck)
@@ -247,5 +246,6 @@ Optionen
 - <https://www.volatilitytradingstrategies.com/>
    - <https://www.youtube.com/channel/UCwEh1xKQWSsue9BQwjRJzIg/videos>
    - <https://twitter.com/VolatilityVIX>
+- <https://volafy.net/>
 
 

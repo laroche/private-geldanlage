@@ -10,6 +10,8 @@ Geldanlage-Möglichkeiten
       - [YouTube: Finanzfluss: Alles über ETFs in nur 15 Minuten: Index, Sparplan, Steuern](https://www.youtube.com/watch?v=r80NOOdFIn8)
    - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
+- [Stiftung Warentest Finanztest](https://www.test.de/abo/finanztest/)
+   - [Stiftung Warentest Spezialhefte](https://www.test.de/shop/geldanlage-banken/?sort0=Bestseller)
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
    - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
    - 72er Regel zur Verdopplung des Vermögens
