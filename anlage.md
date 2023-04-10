@@ -1,6 +1,30 @@
 Geldanlage-Möglichkeiten
 ========================
 
+
+Schnelleinstieg
+---------------
+
+Wenn man sich nicht viel mit Geldanlage beschäftigen will, sollte man mit den folgenden
+Informationen eine solide Grundlage schaffen bzw bei noch mehr Wissen immer wieder zu prüfen,
+ob die einfachen Regeln nicht viel besser sind:
+
+- Spare mindestens 10 % des verfügbaren Einkommens von jungen Jahren an für die Rente.
+- Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
+- Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muß neu gekauft werden" zurück.
+- Schaue nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
+- Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen, wie z.B. der
+  [Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25).
+   - Als Alternative kommt ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html) wie z.B.
+     der [SPDR MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BFY0GT14) oder der
+     [iShares MSCI ACWI UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B6R52259) in Frage.
+- Als günstigen Broker in Deutschland würde ich [Scalable Capital](https://de.scalable.capital/) empfehlen.
+- Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
+
+
+Noch mehr Informationen
+-----------------------
+
 - [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
 - [DAX Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
    - [MSCI-World Renditedreieck von Christian W. Röhl](https://www.dividendenadel.de/msci-world-renditedreieck/)
@@ -31,7 +55,7 @@ Geldanlage-Möglichkeiten
      durchschnittlichen Inflationsrate von 3 % rechnet, dann kann man 4 % des Aktionvermögens jedes Jahr als Rente auszahlen.
      Das Aktienvermögen und auch die zukünftigen Auszahlungen steigen beide um die Inflation mit an. Die Auszahlung muss
      dann natürlich noch versteuert werden. Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem
-     schlechten Verlauf noch sicher ist.
+     schlechten Verlauf vom Aktienmarkt noch sicher ist und das Aktiendepot nicht "aufbraucht".
    - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
    - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
@@ -40,6 +64,7 @@ Geldanlage-Möglichkeiten
 - Auswahl von ETFs/Fonds:
    - <https://www.justetf.com/>
       - [YouTube justETF](https://www.youtube.com/c/justETF/videos)
+      - [YouTube ETF-Weltportfolio zum Selbstbauen von Jan Altmann](https://www.youtube.com/watch?v=I6CHV_duWkc)
    - <https://etfdb.com/>
    - <https://de.extraetf.com/>
    - <https://www.trackingdifferences.com/>
@@ -51,6 +76,7 @@ Geldanlage-Möglichkeiten
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
 - [YouTube Rob Berger: How to Create a 3 Fund Portfolio, A Beginner's Guide](https://www.youtube.com/watch?v=kmw8OpGp2rM)
 - [Vanguard](https://investor.vanguard.com/)
+   - <https://www.bogleheads.org/>
    - [YouTube Bogleheads](https://www.youtube.com/@bogleheads3687/videos)
 
 Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
@@ -79,13 +105,14 @@ FTSE All-World
 --------------
 
 4.130 Unternehmen.
-Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
+Bei der Ländergewichtung ist man zu 59 % in die USA investiert, 10% in Schwellenländer.
 Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
 Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung das gleiche Produkt):
 
 - [Finanzfluss: FTSE-All-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=FTSE%20All-World)
-- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol:VWRD VGWL
+- Nur in eine Auswahl aller Aktien (ca. 3720) wird tatsächlich investiert.
+- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol: VWRD (VGWL?)
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, [TD -0,02 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3RBWM25)
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
@@ -110,7 +137,7 @@ MSCI
 MSCI All-Country World-Index IMI (ACWI IMI)
 -------------------------------------------
 
-9.000 Aktien aus 47 Ländern.
+Ca. 9.270 Aktien aus 47 Ländern.
 Bei der Ländergewichtung ist man zu 59 % in die USA investiert.
 Die 10 größten Firmen haben einen Anteil von 13,80 %.
 
@@ -146,7 +173,7 @@ MSCI World
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen.
-Bei der Ländergewichtung ist man zu 67 % in die USA investiert.
+Bei der Ländergewichtung ist man zu 67 % in die USA investiert. Nur Industrieländer, keine Schwellenländer.
 Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
@@ -168,7 +195,7 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
    - [finanzen.net: Lyxor MSCI World (LUX)](https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562)
 - SPDR MSCI World, WKN:A2N6CW, ISIN:IE00BFY0GT14, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFY0GT14)
 - Xtrackers MSCI World, WKN:DBX1MW, ISIN:LU0274208692 [TD 0,10 %](https://www.trackingdifferences.com/ETF/ISIN/LU0274208692)
-- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
+- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, Symbol:VEA, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
 
 
 Welt AG mit 3 ETFs
@@ -176,9 +203,9 @@ Welt AG mit 3 ETFs
 
 Schwellenländer und Small Caps hinzufügen: <https://www.youtube.com/watch?v=ldRGmU2jgCE>
 
-   - 70 % in Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
-   - 20 % in iShares Core MSCI EM IMI, WKN:A2JDYF, ISIN:IE00BD45KH83, [TD 0,07 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BD45KH83)
-   - 10 % in iShares MSCI World Small Cap, WKN:A2DWBY, ISIN:IE00BF4RFH31, [TD 0,23 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BF4RFH31)
+- 70 % in Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
+- 20 % in iShares Core MSCI EM IMI, WKN:A2JDYF, ISIN:IE00BD45KH83, [TD 0,07 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BD45KH83)
+- 10 % in iShares MSCI World Small Cap, WKN:A2DWBY, ISIN:IE00BF4RFH31, [TD 0,23 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BF4RFH31)
 
 
 S&P500 und Technologiewerte Nasdaq100
@@ -269,12 +296,18 @@ Dividenden-Aktien
 - Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
   TER 0,29 %, [TD -0,04 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B8GKDB10), Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
   Top 10 Positionen 13,50 %
-- Vanguard Dividend Appreciation ETF, VIG
+- Vanguard Dividend Appreciation ETF, Symbol:VIG
+- WKN: A1T8FV Vanguard FTSE All-World High Dividend Yield
+- iShares MSCI World Quality Dividend
 - iShares STOXX Global Select Dividend 100, WKN:A0F5UH, ISIN:DE000A0F5UH1
   TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
 - SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
   TER 0,45 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B9CQXS71)
+- SPDR S&P US Dividend Aristocrats: A1JKS0
 - Schwab US Dividend Equity ETF, SCHD
+- Fidelity US Quality Income: A2DL7C
+- WKN: A2DL7E Fidelity Global Quality Income
+- WKN: A2JAHJ VanEck Morningstar Developed Markets Dividend Leaders
 
 
 Themen ETFs
@@ -287,14 +320,14 @@ Themen ETFs
 Cash-Reserve
 ------------
 
-Eine Aktienanlage sollte nur langfristig erfolgen, damit man nicht mit Verlust verkaufen muss.
+Eine Aktienanlage sollte nur langfristig (für die Rente) erfolgen, damit man nicht mit Verlust verkaufen muss.
 Eine Planung sollte von mindestens 10 Jahren ausgehen.
 
 Für eine Cash-Reserve sollte man unvorhergesehene Ausgaben einplanen wie: Auto ist Schrott und muss
 ersetzt werden, Arbeitslosigkeit für ein paar Monate, steht ein Wohnungskauf an, größere Anschaffungen?
 
 Bankkonten sollten nie mehr wie die Einlagensicherung an Geld einbezahlt haben. Ansonsten sollte man
-das Geld über mehrere Banken verteilen.
+das Geld über mehrere Banken verteilen oder in Anleihen investieren.
 
 
 Cash-Reserve Anlagevermögen
