@@ -105,7 +105,7 @@ FTSE All-World
 --------------
 
 4.130 Unternehmen.
-Bei der Ländergewichtung ist man zu 59 % in die USA investiert, 10% in Schwellenländer.
+Bei der Ländergewichtung ist man zu 59 % in die USA investiert, 10 % in Schwellenländer.
 Die 10 größten Firmen haben einen Anteil von 14,92 %.
 
 Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung das gleiche Produkt):
@@ -357,6 +357,26 @@ Bei einem ausländischen Broker wie Interactive Brokers kann man nicht-UCITS-Pro
 erhalten. Ein Schlissen dieser Positionen ist immer möglich.
 
 
+Anleihen
+--------
+
+Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
+
+Zur Info/Nachlesen:
+- <https://www.finanztip.de/anleihen/staatsanleihen/>
+- <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
+
+Zum Parken von Geld mit minimalen Schwankungen und trotzdem etwas Zinsen eignen sich auch folgende ETFs:
+- [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
+- [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
+- [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
+- [Lyxor Smart Overnight Return UCITS ETF D-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU2082999306)
+- [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
+   - Dieser ETF bildet den Solactive Euro Overnight Return Index nach. Der Index repliziert den €STR + 0,085%
+- LYXOR ETF EURO Cash Euromts EONIA Investable ETF
+- [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
+
+
 Optionen bei tastyworks
 -----------------------
 
@@ -369,8 +389,8 @@ Mit Optionen ein $100K+ Portfolio verwalten:
 - [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
 
 
-Heding mit Optionen von "Income Options Trading"
-------------------------------------------------
+Hedging mit Optionen von "Income Options Trading"
+-------------------------------------------------
 
 - [YouTube: Expected Annualized Return Using tastytrade Mechanics](https://www.youtube.com/watch?v=pFXPSZwUaCk)
 - [Hedge 4-4-1](https://www.youtube.com/watch?v=mC75UlO-4pY)
