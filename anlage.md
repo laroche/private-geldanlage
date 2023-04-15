@@ -364,17 +364,26 @@ Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollt
 
 Zur Info/Nachlesen:
 - <https://www.finanztip.de/anleihen/staatsanleihen/>
-- <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
-
-Zum Parken von Geld mit minimalen Schwankungen und trotzdem etwas Zinsen eignen sich auch folgende ETFs:
-- [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
-- [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
-- [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
-- [Lyxor Smart Overnight Return UCITS ETF D-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU2082999306)
-- [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
-   - Dieser ETF bildet den Solactive Euro Overnight Return Index nach. Der Index repliziert den €STR + 0,085%
-- LYXOR ETF EURO Cash Euromts EONIA Investable ETF
-- [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
+- deutsche Staatsanleihen
+   - <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
+   - [iShares eb.rexx Government Germany 0-1yr UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE000A0Q4RZ9)
+   - [iShares eb.rexx Government Germany 1.5-2.5yr UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE0006289473)
+   - [Deka Deutsche Boerse EUROGOV Germany 1-3 UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE000ETFL185)
+   - [Xtrackers II Germany Government Bond 1-3 UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0468897110)
+- europäische Staatsanleihen mit etwas mehr Rendite als die deutschen, allerdings auch höherem Risiko
+   - [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
+- US Staatsanleihen (mit Währungsrisiko, also nur als Verbesserung von USD Cash)
+- Overnight Return
+   - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
+   - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
+   - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
+   - [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
+   - [Lyxor Smart Overnight Return UCITS ETF D-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU2082999306)
+   - [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
+      - Dieser ETF bildet den Solactive Euro Overnight Return Index nach. Der Index repliziert den €STR + 0,085%
+   - LYXOR ETF EURO Cash EuroMTS EONIA Investable ETF
+- Unternehmensanleihen:
+   - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
 
 
 Optionen bei tastyworks
