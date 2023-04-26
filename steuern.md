@@ -295,6 +295,8 @@ Links:
 
 Zusammenfassung Steuern im Privatvermögen bei Fremdwährungskonten:
 
+- Neue Entwicklung beim BMF die Währungsgewinne der Kapitalertragsteuer zuzuordnen:
+   - <https://www.private-banking-magazin.de/unbewusst-in-die-steuerverkuerzung-oder-steuerhinterziehung-wegen/>
 - Private Veräußerungsgeschäfte werden in [§ 23 EStG](https://www.gesetze-im-internet.de/estg/__23.html) behandelt. (EStG = Einkommensteuergesetz)
 - Bei der Anschaffung und Veräußerung von Fremdwährungsbeträgen kann es sich um ein
   privates Veräußerungsgeschäft i.S. des [§ 23 Abs. 1 Nr. 2 EStG](https://www.gesetze-im-internet.de/estg/__23.html) handeln.
