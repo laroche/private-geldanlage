@@ -363,6 +363,7 @@ Anleihen
 Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
 
 Zur Info/Nachlesen:
+- Finanzfluss Geldmarkt ETFS: <https://www.finanzfluss.de/informer/etf/suche/?asset_class=money_market>
 - <https://www.finanztip.de/anleihen/staatsanleihen/>
 - deutsche Staatsanleihen
    - <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
