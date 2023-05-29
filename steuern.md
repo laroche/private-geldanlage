@@ -49,6 +49,7 @@ Steuern bei ausländischen Banken/Brokern
 - <https://www.youtube.com/watch?v=QFgyPz5Y7VA&t=451s>
 - <https://www.youtube.com/watch?app=desktop&v=um7PTNidkpE>
 - <https://www.haufe.de/finance/haufe-finance-office-premium/einkuenfte-aus-kapitalvermoegen-1225-zeilen-1826_idesk_PI20354_HI9285903.html>
+- <https://www.youtube.com/watch?v=g9WX6uezEBo> und <https://www.youtube.com/watch?v=5PbwcZj8CFg>
 - Mit dem Steuerbescheid kann das Finanzamt [Wikipedia: Steuervorauszahlungen](https://de.wikipedia.org/wiki/Steuervorauszahlung) festsetzen,
   die Quartalsweise an das Finanzamt zu zahlen sind. Man kann gegen diese Festsetzung beim Finanzamt
   Einspruch erheben (weil die Ergebnisse in Zukunft nicht zu erwarten sind) oder man kann später einen
