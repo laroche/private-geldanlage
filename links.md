@@ -97,6 +97,7 @@ Auswertung, Trading Log und Backtest
 - <https://tradersync.com/>
 - <https://www.optionen-support.de/>
 - <https://edgewonk.com/>
+- <https://www.tools4people.de/options/index.html>
 - Thumper's Options Tracker:
    - <https://www.youtube.com/watch?v=GIPC5UaS-CE> and <https://www.youtube.com/watch?v=ANuetWZ1low>
    - <https://docs.google.com/spreadsheets/d/1qGo6U5G9se-n5TksdOwmxcCv2a4O3eGsf3CT9Ol1pVE/edit>
