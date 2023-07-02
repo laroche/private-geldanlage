@@ -41,12 +41,18 @@ Noch mehr Informationen
    - 72er Regel zur Verdopplung des Vermögens
       - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
       - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
-      - [Cashflow Coach: Zinseszins im Kopf berechnen. Wie lange dauert es zur Kapitalverdopplung?](https://www.youtube.com/watch?v=YZIFeU5H9PQ)
-      - Mit der 72er-Regel kann man auch die Auswirkungen der Inflation berechnen:
-        Bei 3 % Inflation hat man nach 24 Jahren nur noch die halbe Kaufkraft.
-      - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
-        eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
-        Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
+      - [Youtube: Finanztip: Die wahre Natur des Zinseszinses](https://www.youtube.com/watch?v=ZMlQN7ZPY8s)
+      - Bei 10 % Jahresgewinn: Mit Zahlung der (jährlichen) Kapitalertragsteuern von 26,375 % auf den Gewinn und
+        jährlicher Inflation von 3,325 % auf das Kapital:
+         - nach Steuern und ohne Inflation: Verdopplung in unter 10 Jahren
+         - nach Steuern und nach/mit Inflation (4 % reale Rendite): (Kaufkraft-)Verdopplung nach 18 Jahren
+      - Bei 15 % Jahresgewinn entsteht eine reale Rendite von 7,7 % und eine (Kaufkraft-)Verdopplung in unter 10 Jahren.
+      - Bei 5 % Jahresgewinn entsteht eine reale Rendite von 0,35 % und damit ein Kapitalerhalt
+        bzw. (Kaufkraft-)Verdopplung in 200 Jahren (???).
+      - Geld unverzinst auf dem Konto mit 3,325 % Inflation: Halbierung der Kaufkraft nach 22 Jahren.
+   - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
+     eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
+     Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
 - Prozentrechnen
    - Wenn der Aktienpreis 50 % einbricht, dann muss er dann erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
    - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
