@@ -130,6 +130,16 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
    - Auflagedatum 2019-07-23
    - [finanzen.net: FTSE-All-World thesaurierend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating>
+- Invesco FTSE All-World UCITS ETF Dist, WKN:A3D7QY, ISIN:IE0000QLH0G6
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,15 %, [TD x %](https://www.trackingdifferences.com/ETF/ISIN/IE0000QLH0G6)
+   - Fondsgröße 4 Millionen (2023-07), Fondswährung USD
+   - Auflagedatum 2023-06-26
+   - [finanzen.net: Invesco FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie0000qlh0g6)
+- Invesco FTSE All-World UCITS ETF Acc, WKN:A3D7QX, ISIN:IE000716YHJ7
+   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,15 %, [TD x %](https://www.trackingdifferences.com/ETF/ISIN/IE000716YHJ7)
+   - Fondsgröße 4 Millionen (2023-07), Fondswährung USD
+   - Auflagedatum 2023-06-26
+   - [finanzen.net: Invesco FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie000716yhj7)
 
 
 MSCI
