@@ -238,6 +238,13 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
 - [Bundesfinanzhof: anhänige Verfahren](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/entscheidungsvorschau/)
 
 
+Verlustverrechnungsbeschränkung von Optionen
+--------------------------------------------
+
+- Finanzgericht Baden-Württemberg (Aktenzeichen: 10 K 1091/23)
+   - <https://www.cfdverband.de/aktuelles/musterklage>
+
+
 Aktienverluste voll anrechnen
 -----------------------------
 
