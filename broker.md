@@ -141,6 +141,8 @@ Con:
    - Hohe Kosten bei der Andienung von Optionen ($ 5). Dies sollte im Handel vermieden werden. Bei Andienung
      entstehen oft auch größere Währungsgewinne.
 - Kreditzinsen ab ca. 8 % (ist bei IB deutlich günstiger, eher ca. 1.5 %)
+- Kaum Zinsen für Barguthaben. Die Clearingstelle Apex bezahlt nur 0.01 % Guthaben-Zinsen. (Stand 2023-08.)
+  Hier muss man mit T-Bills arbeiten, wenn man mehr Zinsen haben will.
 - Ein- und Auszahlungen sind eventuell teurer, da keine SEPA-Zahlungen möglich sind.
   Wenn man ein Bankkonto in den USA hat oder auch bei Interactive Brokers Kunde ist, kann
   man eine ACH-Zahlung verwenden. Ansonsten kann <https://currencyfair.com/> günstig sein.
