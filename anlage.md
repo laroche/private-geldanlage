@@ -38,12 +38,14 @@ Noch mehr Informationen
    - [Stiftung Warentest Spezialhefte](https://www.test.de/shop/geldanlage-banken/?sort0=Bestseller)
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
    - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
+   - [Finanzfluss: Kann man als „normaler“ Angestellter wirklich Millionär werden?](https://www.youtube.com/watch?v=r_kT1NlVamY)
    - 72er Regel zur Verdopplung des Vermögens
       - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
       - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
       - [Youtube: Finanztip: Die wahre Natur des Zinseszinses](https://www.youtube.com/watch?v=ZMlQN7ZPY8s)
-      - Bei 10 % Jahresgewinn: Mit Zahlung der (jährlichen) Kapitalertragsteuern von 26,375 % auf den Gewinn und
+      - Bei 10 % jährlichem Gewinn: Mit Zahlung der (jährlichen) Kapitalertragsteuern von 26,375 % auf den Gewinn und
         jährlicher Inflation von 3,325 % auf das Kapital:
+         - ohne Steuern und ohne Inflation: (Preis-)Verdopplung nach 7 Jahren
          - nach Steuern und ohne Inflation: Verdopplung in unter 10 Jahren
          - nach Steuern und nach/mit Inflation (4 % reale Rendite): (Kaufkraft-)Verdopplung nach 18 Jahren
       - Bei 15 % Jahresgewinn entsteht eine reale Rendite von 7,7 % und eine (Kaufkraft-)Verdopplung in unter 10 Jahren.
@@ -54,11 +56,11 @@ Noch mehr Informationen
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
 - Prozentrechnen
-   - Wenn der Aktienpreis 50 % einbricht, dann muss er dann erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
+   - Wenn der Aktienpreis 50 % einbricht, dann muss er erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
    - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
-- 4-Prozent-Regel für eine Entnahme im Rentenalter (4% Rule and Safe Withdrawal Rates (SWR))
+- 4-Prozent-Regel für eine Entnahme im Rentenalter (4 % Rule and Safe Withdrawal Rates (SWR))
    - Ganz vereinfachte Darstellung: Wenn man langfristig eine Rendite von 7 % mit der Aktienanlage hat und mit einer
-     durchschnittlichen Inflationsrate von 3 % rechnet, dann kann man 4 % des Aktionvermögens jedes Jahr als Rente auszahlen.
+     durchschnittlichen Inflationsrate von 3 % rechnet, dann kann man 4 % des Aktienvermögens jedes Jahr als Rente auszahlen.
      Das Aktienvermögen und auch die zukünftigen Auszahlungen steigen beide um die Inflation mit an. Die Auszahlung muss
      dann natürlich noch versteuert werden. Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem
      schlechten Verlauf vom Aktienmarkt noch sicher ist und das Aktiendepot nicht "aufbraucht".
@@ -99,8 +101,9 @@ Dazu noch [Wikipedia: Liste der Wertpapierbörsen nach Marktkapitalisierung](htt
 und [Wikipedia: Liste der Länder nach Bruttoinlandsprodukt (BIP)](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt).
 (Eventuell auch [Wikipedia: Liste der Länder nach BIP pro Kopf](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt_pro_Kopf).)
 
-Die USA haben den größten und stärksten Aktiemarkt. Hier dazu eine Übersicht seit 2007
-bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
+Die USA haben den größten und stärksten Aktiemarkt.
+Speziell Technologie-Firmen sind in der Vergangenheit sehr stark gewesen.
+Zu den US-Aktien eine Übersicht von 2007 bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
 
 ![S&P500 von 2007 bis 2022](img/sp500.png)
 
@@ -384,6 +387,7 @@ Zur Info/Nachlesen:
 - deutsche Staatsanleihen
    - <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
    - [iShares eb.rexx Government Germany 0-1yr UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE000A0Q4RZ9)
+      - Symbol bei Interactive Brokers: EXVM
    - [iShares eb.rexx Government Germany 1.5-2.5yr UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE0006289473)
    - [Deka Deutsche Boerse EUROGOV Germany 1-3 UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE000ETFL185)
    - [Xtrackers II Germany Government Bond 1-3 UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0468897110)
@@ -393,7 +397,9 @@ Zur Info/Nachlesen:
 - Overnight Return
    - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
+      - Symbol: XEON with Interactive Brokers
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
+      - Symbol: XEOD with Interactive Brokers
    - [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
    - [Lyxor Smart Overnight Return UCITS ETF D-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU2082999306)
    - [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
