@@ -285,6 +285,12 @@ Termingeschäftsverluste ab 2021
 - <https://www.youtube.com/c/MartinHlouschekOptionstrader/videos>
 
 
+Einspruch beim Finanzamt
+------------------------
+
+- <https://www.youtube.com/watch?v=B-2mdPyKUYM>
+
+
 Steuern bei Fremdwährungskonten {#fremdwaehrungskonten}
 -------------------------------
 
