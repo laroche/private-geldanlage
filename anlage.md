@@ -327,6 +327,10 @@ Dividenden-Aktien
 - Fidelity US Quality Income: A2DL7C
 - WKN: A2DL7E Fidelity Global Quality Income
 - WKN: A2JAHJ VanEck Morningstar Developed Markets Dividend Leaders
+- Wisdom Tree Global Quality Dividend Growth ETF
+   - ISIN:IE00BZ56SW52 (thesaurierend), ISIN:IE00BZ56RN96 (ausschüttend)
+   - TER: 0,38%
+   - <https://www.youtube.com/watch?v=yDBt9B7auYk>
 
 
 Themen ETFs
