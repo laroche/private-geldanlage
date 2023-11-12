@@ -336,6 +336,13 @@ Themen ETFs
 - VanEck Semiconductor UCITS ETF, WKN:A2QC5J, ISIN:IE00BMC38736, Symbol:VVSM
 
 
+Wie breit gestreut sollte man Anlegen versus der Big-7 Hauptgewinner am Aktienmarkt?
+------------------------------------------------------------------------------------
+
+- <https://awealthofcommonsense.com/2023/11/this-is-a-wonderful-market-for-dollar-cost-averaging/>
+- <https://week.hieron-y-mus.de/week/443/>
+
+
 Cash-Reserve
 ------------
 
