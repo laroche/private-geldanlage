@@ -69,6 +69,7 @@ Noch mehr Informationen
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
    - <https://www.ranioli.ch/unsere-cape-basierte-entnahme-regel/>
    - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
+   - <https://portfoliocharts.com/charts/withdrawal-rates/> Perpetual Withdrawal Rate (PWR)
 - Auswahl von ETFs/Fonds:
    - <https://www.justetf.com/>
       - [YouTube justETF](https://www.youtube.com/c/justETF/videos)
