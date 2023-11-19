@@ -80,6 +80,8 @@ Noch mehr Informationen
       - <https://blog.trackingdifferences.com/meine-anlagestrategie-im-jahr-2021/>
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
+- [Dr. Armin Pszola: Reicht ein Welt-ETF?](https://www.youtube.com/watch?v=PC9TC9to7kc)
+- [Finanzfluss: Wenn ich nur EINEN ETF für immer halten müsste – welcher wäre es?](https://www.youtube.com/watch?v=_pYG2XxtHFY)
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
 - [Christian Delacour: Die besten ETFs 2023. Aktien-ETF Auswahl & Aufteilung, Welt-AG](https://www.youtube.com/watch?v=yPyLi6vtA08)
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
@@ -164,6 +166,7 @@ Die 10 größten Firmen haben einen Anteil von 13,80 %.
 - [Finanzfluss: MSCI-All-Country-World-Investable-Market (ACWI IMI) ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20All%20Country%20World%20Investable%20Market%20%28ACWI%20IMI%29)
 - SPDR MSCI ACWI IMI UCITS ETF, WKN:A1JJTD, ISIN:IE00B3YLTY66
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,40 %, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3YLTY66)
+      - TER 0,17 % (ist neuerdings gesenkt worden)
    - Fondsgröße 458 Millionen (2022-08), Fondswährung USD
    - Auflagedatum 2011-05-13
    - [finanzen.net: MSCI ACWI IMI](https://www.finanzen.net/etf/spdr-msci-acwi-imi-etf-ie00b3ylty66)
@@ -310,6 +313,13 @@ ARERO Weltfond
 - <https://www.youtube.com/watch?v=DFBKF7mS13E> und <https://www.youtube.com/watch?v=CQNOS5Jt_ZI>
 
 
+Gerd Kommer Multifactor Equity
+------------------------------
+
+- L&G Gerd Kommer Multifactor Equity, ISIN:IE0001UQQ933
+   - TER: 0,50%, Fondsgröße > 100 Millionen EUR
+
+
 Dividenden-Aktien
 -----------------
 
@@ -433,6 +443,15 @@ Mit Optionen ein $100K+ Portfolio verwalten:
 - [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
 
 
+Black Swan Hedge (BSH), also caled Airbag Trade
+-----------------------------------------------
+
+- Sehr ausführliche Erklärungen zu möglichen Hedges und dem Aufsetzen des Airbag Trades von Optionsuniversum:
+   - <https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/>
+- Der BSH wird sehr ausführlich im Buch
+  ["Optionen handeln mit Köpfchen" von Benjamin Friedenheim](https://www.hugendubel.de/de/buch_gebunden/benjamin_friedenheim-optionen_handeln_mit_koepfchen_profitable_tips_aus_der_praxis_fuer_fortgeschrittene_optionstrader-42038956-produkt-details.html) erläutert (Kapitel 10 Hedging).
+
+
 Hedging mit Optionen von "Income Options Trading"
 -------------------------------------------------
 
@@ -440,5 +459,59 @@ Hedging mit Optionen von "Income Options Trading"
 - [Hedge 4-4-1](https://www.youtube.com/watch?v=mC75UlO-4pY)
 - [Hedge 4-4-2](https://www.youtube.com/watch?v=esmTTx3yKJ8)
 - [Hedge 4-4-4](https://www.youtube.com/watch?v=1-fzF0Ec4oc)
+
+
+1-1-2 - Trade/Strategie von Sweet Bobby
+---------------------------------------
+
+- <https://www.youtube.com/watch?v=-yzoJNUJMBE>
+- <https://www.youtube.com/watch?v=NWRQeb2hg7U>
+- A 1-1-2 trade is an out-of-the-money put debit spread and two out-of-the-money naked puts.
+  Ideally a 1 to 1 ratio of naked positions to put debit spreads is preferred.
+- 2 naked puts:
+   - 120 DTE, Strike: Delta 5
+   - Close at 95% profit or at expiration
+   - It is permissible to close the naked puts at a loss equal to two times the initial credit received.
+   - If the short strike becomes a delta 30 or higher, permission is granted to either close the trade and
+     accept the loss or to place the put into "problem child" status where the debits and credits of the trade
+     are monitored to ensure that the trade is ultimately profitable:
+      - Puts are closed for a loss.
+      - The position can be rolled down further away from the underlying price in the same expiration and
+        repositioned by selling twice the number of naked puts so that the credit received is equal to or
+        greater than the debit required to close the initial puts. Thus the position becomes a 1-1-4.
+      - Alternatively the position can be rolled out further in time and possible further away from the curent price
+        of the underlying and repositioned so that the credit received is equal to or greater than the debit required
+        to close the initial position.
+- put debit spread:
+   - DTE same as naked puts or at least 1/2 of the DTE of the naked puts
+   - Width: 50 points wide (or 300 points)
+   - Cost: $10 debit (actual cost $50 for /MES and $500 for /ES). Look at the long put to be at about 25 delta for 50-wide PDS
+     and 9 delta for 300-wide PDS.
+   - Management: expire worthless
+      - close earlier if
+         - spread is reaching full profit
+         - underlying is under the "profit tent" of the PDS and is at risk of exiting the "profit tent" if not closed at a profit.
+         - any leg of the spread that is in the money must be closed before expiration to avoid exercise and assignment fees.
+
+
+Strangles von Seet Bobby
+------------------------
+
+- DTE 90 days
+- Short Put Strike at Delta 7
+- Short Call Strike at Delta 6
+- Closed at 50% profit
+- Close at loss of two times initial credit received.
+- Delta 30 breach, execute one of:
+   - Close for a loss.
+   - Roll down at same expiration for puts, roll up for calls. Take same credit as debit paid to close the initial position.
+   - Roll out in time and further away from current price. Credit recieved is same as debit paid to close initial position.
+
+
+Slingshot Hedge (SH) von Luc van Hof
+------------------------------------
+
+- <https://info.aeromir.com/alerts/slingshot/>
+- <https://www.youtube.com/watch?v=VjMdvZ7THbw>
 
 
