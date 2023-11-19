@@ -113,6 +113,13 @@ Zu den US-Aktien eine Übersicht von 2007 bis 2022 und einen Vergleich von Zentr
 ![S&P500 und die Zinsen der Zentralbank der USA (FED)](img/sp500-fed.png)
 
 
+Aktien sind [Eigenkapital](https://de.wikipedia.org/wiki/Eigenkapital) der Firmen, Anleihen sind
+[Fremdkapital](https://de.wikipedia.org/wiki/Fremdkapital).
+Im Unterschied zu Aktien werden Inhaber von Anleihen nicht am Unternehmen beteiligt, bekommen aber für
+eine vorher festgelegte Laufzeit Zinsen ausbezahlt.
+Der Anleihenmarkt ist größer als der Aktienmarkt.
+
+
 FTSE All-World
 --------------
 
@@ -443,8 +450,11 @@ Mit Optionen ein $100K+ Portfolio verwalten:
 - [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
 
 
-Black Swan Hedge (BSH), also caled Airbag Trade
------------------------------------------------
+Black Swan Hedge (BSH) und der Airbag Trade von Optionsuniversum
+----------------------------------------------------------------
+
+Der Black Swan Hedge ist eine Absicherung gegen sehr starke Rücksetzer. Möglichst auch mit ansteigender
+Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
 
 - Sehr ausführliche Erklärungen zu möglichen Hedges und dem Aufsetzen des Airbag Trades von Optionsuniversum:
    - <https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/>
