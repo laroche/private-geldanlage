@@ -532,8 +532,9 @@ Portfolio Metrics von Sweet Bobby
 - <https://www.youtube.com/watch?v=8jx4QezyHz8>
 - NLV = Net Liquidation Value = NetLiq
 
-| SPY beta-weighted delta | < 0,15 % of NLV             |
+| metric                  | value                       |
 |:------------------------|:----------------------------|
+| SPY beta-weighted delta | < 0,15 % of NLV             |
 | Min Theta               | \> 0,10 % of NLV            |
 | Max Theta               | < 0,10 % of NLV if VIX < 15 |
 |                         | < 0,20 % of NLV if VIX < 20 |
@@ -547,5 +548,7 @@ Portfolio Metrics von Sweet Bobby
 |                         | < 50 % if VIX > 40          |
 
 This means for 100K USD you should have < 150 delta and > 100 theta.
+In a very volatile market with VIX more than 40, you should have a
+maximum of 500 theta and a max buying power of 50 %.
 
 

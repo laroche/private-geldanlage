@@ -19,6 +19,7 @@ Neo-Broker:
    - Backend von der Baader Bank
 - <https://traderepublic.com/>
    - L&S Exchange
+   - Solaris Bank (?)
 - <https://smartbroker.de/>
    - viele deutsche Handelsplätze
    - Hat auch Fremdwährungskonten.
