@@ -411,6 +411,7 @@ Anleihen
 Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
 
 Zur Info/Nachlesen:
+
 - Finanzfluss Geldmarkt ETFS: <https://www.finanzfluss.de/informer/etf/suche/?asset_class=money_market>
 - <https://www.finanztip.de/anleihen/staatsanleihen/>
 - deutsche Staatsanleihen
@@ -523,5 +524,40 @@ Slingshot Hedge (SH) von Luc van Hof
 
 - <https://info.aeromir.com/alerts/slingshot/>
 - <https://www.youtube.com/watch?v=VjMdvZ7THbw>
+
+
+Portfolio Metrics von Sweet Bobby
+---------------------------------
+
+- <https://www.youtube.com/watch?v=8jx4QezyHz8>
+- NLV = Net Liquidation Value = NetLiq
+
++-------------------------+-----------------------------+
+| SPY beta-weighted delta | < 0,15 % of NLV             |
++-------------------------+-----------------------------+
+| Min Theta               | \> 0,10 % of NLV            |
++-------------------------+-----------------------------+
+| Max Theta               | < 0,10 % of NLV if VIX < 15 |
++-------------------------+-----------------------------+
+|                         | < 0,20 % of NLV if VIX < 20 |
++-------------------------+-----------------------------+
+|                         | < 0,30 % of NLV if VIX < 30 |
++-------------------------+-----------------------------+
+|                         | < 0,40 % of NLV if VIX < 40 |
++-------------------------+-----------------------------+
+|                         | < 0,50 % of NLV if VIX > 40 |
++-------------------------+-----------------------------+
+| Max Buying Power        | < 25 % if VIX < 15          |
++-------------------------+-----------------------------+
+|                         | < 30 % if VIX < 20          |
++-------------------------+-----------------------------+
+|                         | < 35 % if VIX < 30          |
++-------------------------+-----------------------------+
+|                         | < 40 % if VIX < 40          |
++-------------------------+-----------------------------+
+|                         | < 50 % if VIX > 40          |
++-------------------------+-----------------------------+
+
+This means for 100K USD you should have < 150 delta and > 100 theta.
 
 
