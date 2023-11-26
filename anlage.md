@@ -476,6 +476,7 @@ Options-Schulungen
    - <https://docs.google.com/spreadsheets/d/1IevLq9tkwZHxxdX2jWizaS4VC_NtaGUFlridHcNAjPI/edit#gid=1743608033>
    - <https://open.spotify.com/show/3g966BSYdPvLPNkiQzZsJa>
    - <https://www.youtube.com/channel/UCa36k1NVoqhXyOoEqfEFMdw/about>
+- <https://deltaray.io/>
 
 
 Ron Bertino
@@ -483,7 +484,7 @@ Ron Bertino
 
 - <https://www.tradingdominion.com/> Ron Bertino
    - <https://www.youtube.com/@TradingDominion/videos>
-   - Black Swan Hedge (BSH) oder Space Trip Trade (STT) von Ron Bertino
+   - Black Swan Hedge (BSH) oder [Space Trip Trade (STT)](https://www.youtube.com/watch?v=LsUyvdS8J9w) von Ron Bertino
    - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
 - <https://www.elitetrader.com/et/>
 - <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
@@ -608,9 +609,14 @@ Automatischer Handel und Backtests mit Optionen
 - <https://maximum-pain.com/options/SPY>
 - option backtesting and option courses at <https://optionomega.com/>
 - 0DTE SPX Trading and Build Your Own Backtest (BYOB): <https://tradeautomationtoolbox.com/> (TAT)
+- <https://deltaray.io/>
+- <https://www.backtrader.com/>
+   - <https://github.com/mementum/backtrader>
 - option backtests von Tastyworks: <https://www.tastylive.com/backtest>
 - automated trading and backtesting at <https://optionalpha.com/bots>
 - <https://github.com/brndnmtthws/thetagang>
+- <https://github.com/shlomiku/zipline-trader>
+- <https://github.com/alpacahq/pylivetrader>
 - <https://hieron-y-mus.de/systeme/>
    - <https://github.com/ib-ruby>
 - option trading tools and backtest data: <https://orats.com/>
@@ -619,5 +625,13 @@ Automatischer Handel und Backtests mit Optionen
 - <https://historicaloptiondata.com/>
 - <https://www.tickdata.com/>
 - <https://datashop.cboe.com/>
+
+
+python projects
+---------------
+
+- <https://github.com/wilsonfreitas/awesome-quant>
+- <https://github.com/quantopian/pyfolio>
+- <https://github.com/deltaray-io/flexfolio>
 
 
