@@ -344,7 +344,7 @@ Dividenden-Aktien
 - Schwab US Dividend Equity ETF, SCHD
 - Fidelity US Quality Income: A2DL7C
 - WKN: A2DL7E Fidelity Global Quality Income
-- WKN: A2JAHJ VanEck Morningstar Developed Markets Dividend Leaders
+- WKN: A2JAHJ VanEck Morningstar Developed Markets Dividend Leaders, TER 0,38 %
 - Wisdom Tree Global Quality Dividend Growth ETF
    - ISIN:IE00BZ56SW52 (thesaurierend), ISIN:IE00BZ56RN96 (ausschüttend)
    - TER: 0,38%
@@ -437,6 +437,56 @@ Zur Info/Nachlesen:
    - LYXOR ETF EURO Cash EuroMTS EONIA Investable ETF
 - Unternehmensanleihen:
    - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
+
+
+Optionen
+========
+
+
+Options-Schulungen
+------------------
+
+- [OptionsUniversum](https://www.optionsuniversum.de/)
+- <https://www.tastylive.com/>
+   - <https://www.youtube.com/@tastytrade_/videos>
+- <https://aeromir.com/>
+   - <https://www.youtube.com/@Aeromir/videos>
+- <https://www.sheridanmentoring.com/>
+   - <https://www.youtube.com/@sheridanmentoring/videos>
+   - <https://www.youtube.com/@SheridanmentoringTV/videos>
+- <https://spotgamma.com/>
+   - <https://www.youtube.com/@spotgamma/videos>
+- <https://xn--brsenstrategen-vpb.com/>
+   - <https://www.youtube.com/@boersenstrategen/videos>
+- <https://www.einfachoptionen.de/>
+   - <https://www.youtube.com/@einfachoptionen/videos>
+- <https://optionswelten.com/>
+   - <https://www.youtube.com/@optionswelten/videos>
+- <https://www.youtube.com/@SweetBobby/videos>
+- <https://daytradingcoach.de/>
+   - <https://www.youtube.com/@DaytradingCoachMartinGoersch/videos>
+- <https://optiontradingpal.com/>
+   - <https://www.youtube.com/@OptionTradingPal/videos>
+- <https://eichhorn-coaching.de/>
+   - <https://www.youtube.com/@EichhornCoaching/videos>
+- <https://optionalpha.com/>
+   - <https://www.youtube.com/@OptionAlpha/videos>
+- [https://tradersfly.com/](https://tradersfly.com/)
+- <https://twitter.com/TheTradeBuster> - David Sun
+   - <https://docs.google.com/spreadsheets/d/1IevLq9tkwZHxxdX2jWizaS4VC_NtaGUFlridHcNAjPI/edit#gid=1743608033>
+   - <https://open.spotify.com/show/3g966BSYdPvLPNkiQzZsJa>
+   - <https://www.youtube.com/channel/UCa36k1NVoqhXyOoEqfEFMdw/about>
+
+
+Ron Bertino
+-----------
+
+- <https://www.tradingdominion.com/> Ron Bertino
+   - <https://www.youtube.com/@TradingDominion/videos>
+   - Black Swan Hedge (BSH) oder Space Trip Trade (STT) von Ron Bertino
+   - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
+- <https://www.elitetrader.com/et/>
+- <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
 
 
 Optionen bei tastyworks
@@ -550,5 +600,24 @@ Portfolio Metrics von Sweet Bobby
 This means for 100K USD you should have < 150 delta and > 100 theta.
 In a very volatile market with VIX more than 40, you should have a
 maximum of 500 theta and a max buying power of 50 %.
+
+
+Automatischer Handel und Backtests mit Optionen
+-----------------------------------------------
+
+- <https://maximum-pain.com/options/SPY>
+- option backtesting and option courses at <https://optionomega.com/>
+- 0DTE SPX Trading and Build Your Own Backtest (BYOB): <https://tradeautomationtoolbox.com/> (TAT)
+- option backtests von Tastyworks: <https://www.tastylive.com/backtest>
+- automated trading and backtesting at <https://optionalpha.com/bots>
+- <https://github.com/brndnmtthws/thetagang>
+- <https://hieron-y-mus.de/systeme/>
+   - <https://github.com/ib-ruby>
+- option trading tools and backtest data: <https://orats.com/>
+- <https://spintwig.com/>
+- <https://www.optionslam.com/>
+- <https://historicaloptiondata.com/>
+- <https://www.tickdata.com/>
+- <https://datashop.cboe.com/>
 
 
