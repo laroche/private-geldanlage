@@ -477,6 +477,8 @@ Options-Schulungen
    - <https://open.spotify.com/show/3g966BSYdPvLPNkiQzZsJa>
    - <https://www.youtube.com/channel/UCa36k1NVoqhXyOoEqfEFMdw/about>
 - <https://deltaray.io/>
+   - <https://blog.deltaray.io/tags/strategies/>
+   - <https://gitlab.com/brentp/mesosim-stuff>
 
 
 Ron Bertino
