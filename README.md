@@ -34,6 +34,7 @@ Beratung bitte den Steuerberater zu Rate ziehen.
 ---------
 
 - [Anlage](anlage.md)
+- [Optionen](optionen.md)
 - [Links](links.md)
 - [Broker](broker.md)
 - [Banken](banken.md)
