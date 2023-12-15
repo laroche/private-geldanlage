@@ -10,6 +10,7 @@ Options-Schulungen
    - <https://www.youtube.com/@tastytrade_/videos>
 - <https://aeromir.com/>
    - <https://www.youtube.com/@Aeromir/videos>
+- <https://svog.org/>
 - <https://www.sheridanmentoring.com/>
    - <https://www.youtube.com/@sheridanmentoring/videos>
    - <https://www.youtube.com/@SheridanmentoringTV/videos>

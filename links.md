@@ -170,6 +170,7 @@ CoT
    - [YouTube Tickmill Deutsch](https://www.youtube.com/channel/UCv8DaPYIQMKZGptwRjcDx4w/videos)
 - <https://www.suricate-trading.de/>
    - [YouTube Suricate Trading](https://www.youtube.com/channel/UCl0nSqiiixKmnfbztLLsZvg/videos)
+- <https://insider-week.com/de/cot/>
 - <https://options4winners.de/>
    - [YouTube options4winners](https://www.youtube.com/c/options4winners/videos)
 - <https://www.ireallytrade.com/>
