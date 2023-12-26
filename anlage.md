@@ -30,6 +30,7 @@ Noch mehr Informationen
 - [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
 - [DAX Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
    - [MSCI-World Renditedreieck von Christian W. Röhl](https://www.dividendenadel.de/msci-world-renditedreieck/)
+   - [MSCI-World über viele Jahre angelegt](https://blog.trackingdifferences.com/wie-schlimm-kann-es-werden/)
 - [DAX Renditedreieck von Finanzfluss](https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/)
 - [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
