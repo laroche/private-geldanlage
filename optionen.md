@@ -55,6 +55,16 @@ Ron Bertino
 Optionen bei tastyworks
 -----------------------
 
+- [How to Build a $20k - $100k Option Portfolio](https://www.youtube.com/watch?v=8KN6pazdUlg)
+   - With a daily theta decay of 0.1 % of your portfolio, you can earn 360 days * 0.1 % per day = 36 % of your portfolio.
+     If you can keep around 25 % of your theta, this means 9 % returns per year.
+      - With 0.2 % theta decay of your portfolio, this might result in 18 % returns in a full year.
+   - Bearish Delta: Aim for Delta/Theta = 1/2: With 100 theta you should have a delta of -50.
+   - Bullish Deltas: SPY at $450 -> 100 SPY = $45.000:
+      - Delta 100 means leverage of 1:1 with $45.000 portfolio.
+      - Delta 200 means leverage of 2:1 with $45.000 portfolio.
+   - Neutral Deltas: max +- 0.1 % of portfolio: With $100.000 portfolio this is max +- 100 delta.
+
 Mit Optionen ein $100K+ Portfolio verwalten:
 
 - [Core Portfolio & Product Indifference](https://www.youtube.com/watch?v=whDUysN2XYc&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq)
