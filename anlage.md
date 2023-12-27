@@ -13,13 +13,13 @@ ob die einfachen Regeln nicht viel besser sind:
 - Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
 - Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muß neu gekauft werden" zurück.
 - Schaue nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
-- Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen, wie z.B. der
-  [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25).
-   - Als Alternative kommt ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html) wie z.B.
-     der [SPDR MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BFY0GT14) oder der
-     [iShares MSCI ACWI UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B6R52259) in Frage.
-   - Ein guter Kostenvergleich ist unter [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
-     bzw. [trackingdifferences:MSCI-ACWI](https://www.trackingdifferences.com/ETF/Index/MSCI%20All%20Country%20World%20Index) zu finden.
+- Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen wie z.B.
+  [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25) oder
+  ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
+  (wie z.B. der [SPDR MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BFY0GT14))
+  Ein guter Kostenvergleich ist unter
+  [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
+  zu finden.
 - Als günstigen Broker in Deutschland würde ich [Scalable Capital](https://de.scalable.capital/) empfehlen.
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
 
