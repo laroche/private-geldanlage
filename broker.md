@@ -4,6 +4,10 @@ Broker
 Broker sind nicht so reguliert wie Banken und bei Ihnen gilt in Europa nicht die
 Einlagensicherung von 100.000 Euro, sondern von nur 20.000 Euro.
 
+Einige Broker haben selber eine Banklizenz, andere arbeiten mit einer Bank für
+die Verrechnungskonten zusammen und weitere haben als Verrechnungskonten gar
+keine "richtigen" bzw. eigenständige Bankkonten.
+
 - <https://www.depot-vergleichen.de/>
 - <https://www.aktien.net/broker-vergleich/>
 
@@ -15,17 +19,17 @@ Neo-Broker:
 
 - <https://de.scalable.capital/>
    - [YouTube: Erik Podzuweit bei Aktien mit Kopf](https://www.youtube.com/watch?v=BjQZk403Itw)
-   - Gettex, Xetra
+   - handelbare Börsenplätze: Gettex (an der Börse München), Xetra
    - Backend von der Baader Bank
 - <https://traderepublic.com/>
-   - L&S Exchange
+   - handelbare Börsenplätze: L&S Exchange (Lang und Schwarz an der Börse Hamburg)
    - Solaris Bank (?)
 - <https://smartbroker.de/>
    - viele deutsche Handelsplätze
    - Hat auch Fremdwährungskonten.
-   - Bakend soll ab Mitte 2023 von der Baader Bank sein
+   - Backend soll ab Mitte 2023 von der Baader Bank sein
 - <https://www.finanzen.net/zero/>
-   - Gettex
+   - handelbare Börsenplätze: Gettex (an der Börse München)
    - Backend von der Baader Bank
 
 traditionellere Online-Broker:
@@ -37,7 +41,7 @@ traditionellere Online-Broker:
 - <https://www.onvista.de/>
 - <https://www.flatex.de/> (Degiro gehört auch dazu)
    - [YouTube Flatex](https://www.youtube.com/c/flatexOnlinebroker/videos)
-   - negativ Zinsen auf Guthaben
+   - negativ Zinsen auf Guthaben (aktuell nicht mehr)
 - <https://www.consorsbank.de/>
 - <https://www.ing.de/wertpapiere/>
 - <https://www.commerzbank.de/>
