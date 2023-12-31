@@ -71,7 +71,7 @@ Regeln der Kapitalertragsteuer
   Singles Kapitalerträge bis 801 Euro und zusammenveranlagte Personen bis zu 1.602 Euro steuerfrei.
   Ab 2023 erhöht sich der Sparerpauschbetrag auf 1.000 Euro (2.000 Euro für zusammenveranlagte Paare).
 - Transaktionskosten werden direkt beim Kauf/Verkauf eingerechnet (und sind voll abzugsfähig).
-- Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale abgegolten.
+- Sonstige Bank- und Depotverwaltungsgebühren sind bereits mit der Werbungskostenpauschale von 1230 Euro abgegolten.
   Auch alle Weiterbildungen, Seminare, Bücher, Computer- und Internetausgaben.
 - Alle Kauf- und Verkaufspreise müssen in Euro umgerechnet werden.
 - Beim Berechnen der Gewinne und Verluste wird die FIFO-Methode angewendet. (Nicht bei Stillhaltergeschäften.)

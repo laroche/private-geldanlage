@@ -11,6 +11,7 @@ Options-Schulungen
 - <https://aeromir.com/>
    - <https://www.youtube.com/@Aeromir/videos>
 - <https://svog.org/>
+   - <https://justcoveredcallsplus.groups.io/g/main/files/Wheel%20of%20Income.pdf>
 - <https://www.sheridanmentoring.com/>
    - <https://www.youtube.com/@sheridanmentoring/videos>
    - <https://www.youtube.com/@SheridanmentoringTV/videos>
@@ -84,6 +85,21 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
    - <https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/>
 - Der BSH wird sehr ausführlich im Buch
   ["Optionen handeln mit Köpfchen" von Benjamin Friedenheim](https://www.hugendubel.de/de/buch_gebunden/benjamin_friedenheim-optionen_handeln_mit_koepfchen_profitable_tips_aus_der_praxis_fuer_fortgeschrittene_optionstrader-42038956-produkt-details.html) erläutert (Kapitel 10 Hedging).
+- Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
+   - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
+   - Days To Expiration (DTE) - begin the entire campaign by purchasing 4 BSH tranches outright at
+     approximately 120 DTE, ideally on a day when the market is up.
+     Subsequent tranches must be equal or greater than 60 DTE.
+   - Factory Campaign - once the initial camaign has begun, sell additional short puts on a day when
+     the market is down 0.4 % or more or after two consecutive down days (especially after two days of
+     increasing volatility).
+     Use the BSH calculator to buy the puts when the entire trade can be put on at a breakeven or a slight credit.
+   - It is permissible to sell new puts as soon as the long puts are filled.
+   - If 24 days have passed and no additional BSH tranches have begun, it may be necessary to purchase
+     outright BSH tranches to keep the campaign going. It is permissible to diagonalize the outright
+     BSH tranches so that the shorts are in a longer expiration than the longs so that the entire trade
+     can be placed for breakeven or a small credit.
+   - Short Put Harvest - harvest the short puts at 20 cents or when the reach 14 DTE, whichever comes first.
 
 
 Hedging mit Optionen von "Income Options Trading"
@@ -140,6 +156,18 @@ Strangles von Seet Bobby
    - Close for a loss.
    - Roll down at same expiration for puts, roll up for calls. Take same credit as debit paid to close the initial position.
    - Roll out in time and further away from current price. Credit recieved is same as debit paid to close initial position.
+
+
+Tom King Trades
+---------------
+
+- <https://mrtoptick.com/income-navigator/>
+- <https://www.youtube.com/@TommKing13/videos>
+- [1-1-2 Strategy](https://www.youtube.com/watch?v=hfjMoW0RyC0)
+- [Long Term 1-1-2 Strategy](https://www.youtube.com/watch?v=kt5A4NNjwNg)
+- [1-1-2 and Strangles Strategy](https://www.youtube.com/watch?v=9l2lUtfZBtk)
+- [1-1-1 Strategy](https://www.youtube.com/watch?v=ilfZPRHwl_k)
+- [Strangles Strategy](https://www.youtube.com/watch?v=no9cgimyBFM)
 
 
 Slingshot Hedge (SH) von Luc van Hof
