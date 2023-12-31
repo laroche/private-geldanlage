@@ -74,6 +74,11 @@ Mit Optionen ein $100K+ Portfolio verwalten:
 - [Managing Positions](https://www.youtube.com/watch?v=Pj9jOCJMtEk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=4)
 - [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
 
+Wenn man anstelle von Spreads direkt Naked Puts als Stillhalter schreibt, dann kann man auch mit 75 % einbehaltener
+Prämie rechnen. Damit bekommt man 360 days * 0.04 % per day * 75 % = 10.8 % Jahresgewinn mit Stillhaltergeschäften.
+Bei einem SPY von 450 und damit einem eingesetzten Kapital von 45.000 USD braucht man für ein Theta von 0.04 %
+einen Tages-Decay von 45.000 USD * 0.04 % = 18 USD im Account.
+
 
 Black Swan Hedge (BSH) und der Airbag Trade von Optionsuniversum
 ----------------------------------------------------------------
@@ -131,7 +136,7 @@ Hedging mit Optionen von "Income Options Trading"
         greater than the debit required to close the initial puts. Thus the position becomes a 1-1-4.
       - Alternatively the position can be rolled out further in time and possible further away from the curent price
         of the underlying and repositioned so that the credit received is equal to or greater than the debit required
-        to close the initial position.
+        to close the initial puts.
 - put debit spread:
    - DTE same as naked puts or at least 1/2 of the DTE of the naked puts
    - Width: 50 points wide (or 300 points)
@@ -139,13 +144,13 @@ Hedging mit Optionen von "Income Options Trading"
      and 9 delta for 300-wide PDS.
    - Management: expire worthless
       - close earlier if
-         - spread is reaching full profit
+         - spread is reaching 100 % profit
          - underlying is under the "profit tent" of the PDS and is at risk of exiting the "profit tent" if not closed at a profit.
          - any leg of the spread that is in the money must be closed before expiration to avoid exercise and assignment fees.
 
 
-Strangles von Seet Bobby
-------------------------
+Strangles von Sweet Bobby
+-------------------------
 
 - DTE 90 days
 - Short Put Strike at Delta 7
