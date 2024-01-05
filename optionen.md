@@ -5,6 +5,7 @@ Optionen
 Options-Schulungen
 ------------------
 
+- <https://de.wikipedia.org/wiki/Optionsstrategie>
 - [OptionsUniversum](https://www.optionsuniversum.de/)
 - <https://www.tastylive.com/>
    - <https://www.youtube.com/@tastytrade_/videos>
@@ -169,10 +170,17 @@ Tom King Trades
 - <https://mrtoptick.com/income-navigator/>
 - <https://www.youtube.com/@TommKing13/videos>
 - [1-1-2 Strategy](https://www.youtube.com/watch?v=hfjMoW0RyC0)
+   - [1-1-2 Bear Trap using /ES options](https://www.youtube.com/watch?v=SLs6yGXoFx4)
 - [Long Term 1-1-2 Strategy](https://www.youtube.com/watch?v=kt5A4NNjwNg)
 - [1-1-2 and Strangles Strategy](https://www.youtube.com/watch?v=9l2lUtfZBtk)
 - [1-1-1 Strategy](https://www.youtube.com/watch?v=ilfZPRHwl_k)
 - [Strangles Strategy](https://www.youtube.com/watch?v=no9cgimyBFM)
+
+Other 1-1-2 resources:
+
+- [1-1-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-put-ratio/)
+- [1-1-2-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-2-put-ratio-trade/)
+- [reddit: 1-1-2 strategy](https://www.reddit.com/r/thetagang/comments/16iapjv/112_strategy/)
 
 
 Slingshot Hedge (SH) von Luc van Hof
