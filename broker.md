@@ -162,6 +162,9 @@ Charles Schwab
 --------------
 
 - <https://www.schwab.com/pricing>
+- Die Handelsplattform "Thinkorswim (TOS)" ist bei Optionshändlern in USA sehr beliebt und wurde
+  von den Tastyworks Leuten in einer früheren Firma aufgebaut und verkauft.
+- TOS soll angeblich jetzt auch Kunden aus Deutschland zur Verfügung stehen.
 
 
 FirstTrade
