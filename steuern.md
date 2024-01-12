@@ -243,6 +243,7 @@ Verlustverrechnungsbeschränkung von Optionen
 
 - Finanzgericht Baden-Württemberg (Aktenzeichen: 10 K 1091/23)
    - <https://www.cfdverband.de/aktuelles/musterklage>
+- [Finanzgericht Rheinland-Pfalz, 1-V-1674/23](https://www.datev.de/dnlexom/client/app/index.html#/document/5025793)
 
 
 Aktienverluste voll anrechnen
