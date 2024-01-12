@@ -415,6 +415,7 @@ Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollt
 
 Zur Info/Nachlesen:
 
+- [Gerd Kommer: Anleihen](https://gerd-kommer.de/anleihen/)
 - Finanzfluss Geldmarkt ETFS: <https://www.finanzfluss.de/informer/etf/suche/?asset_class=money_market>
 - <https://www.finanztip.de/anleihen/staatsanleihen/>
 - deutsche Staatsanleihen
