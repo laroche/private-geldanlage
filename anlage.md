@@ -6,17 +6,18 @@ Schnelleinstieg
 ---------------
 
 Wenn man sich nicht viel mit Geldanlage beschäftigen will, sollte man mit den folgenden
-Informationen eine solide Grundlage schaffen bzw bei noch mehr Wissen immer wieder zu prüfen,
-ob die einfachen Regeln nicht viel besser sind:
+Informationen eine solide Grundlage schaffen. Auch wenn man sich mit der Zeit noch mehr Wissen
+aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel besser sind:
 
 - Spare mindestens 10 % des verfügbaren Einkommens von jungen Jahren an für die Rente.
+  Wenn man mehr Gehalt bekommt, sollte man einen noch größeren Anteil sparen.
 - Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
 - Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muß neu gekauft werden" zurück.
-- Schaue nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
+- Schau nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
 - Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen wie z.B.
   [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25) oder
   ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
-  (wie z.B. der [SPDR MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BFY0GT14))
+  (wie z.B. den ausschüttenden [HSBC MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B4X9L533))
   Ein guter Kostenvergleich ist unter
   [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
   zu finden.

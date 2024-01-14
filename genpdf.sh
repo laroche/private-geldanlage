@@ -23,7 +23,8 @@ rm -f index2.md
 # Festes Leerzeichen einfügen, an dem kein Zeilenumbruch erfolgt:
 sed -i -e 's/ %/\\ %/g' -e 's/ €/\\ €/g' -e 's/§ /§\\ /g' Private-Geldanlage.md
 
-# Download eisvogel from https://github.com/Wandmalfarbe/pandoc-latex-template:
+# Download eisvogel from https://github.com/Wandmalfarbe/pandoc-latex-template
+# and store in /usr/share/pandoc/data/templates/eisvogel.latex.
 pandoc -o Private-Geldanlage.pdf -f markdown -t latex --template eisvogel \
     --top-level-division=chapter --pdf-engine=xelatex Private-Geldanlage.md
 

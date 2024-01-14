@@ -176,6 +176,30 @@ Tom King Trades
 - [1-1-1 Strategy](https://www.youtube.com/watch?v=ilfZPRHwl_k)
 - [Strangles Strategy](https://www.youtube.com/watch?v=no9cgimyBFM)
 
+Tom King portfolio management greeks for 2024:
+
+The goal of the portfolio is to be as close to Delta neutral as possible depending
+on the current market environment and to have as much Theta as we can to drive
+the income generation of the account WITHOUT exceeding our BP (buying-power) limitations.
+
+We monitor these 2 greeks as follows:
+
+- Delta: beta-weighted to SPY: never more than 0.2% of NLV
+- Theta: 0.4% of NLV is the targeted minimum
+
+Risk management:
+
+- Buying power is a measure of portfolio risk and the goal is to be at or below
+  50% of available Buying Power in normal environments.
+   - 50% is the goal since trading mostly futures and accounting for Span Margin increases.
+   - In higher volatility times, you can exceed the 50% BP rule.
+   - Never have more than 80% of my total portfolio invested at any given time overnight.
+- Never risk more than 2% of my total portfolio on any one trade and size accordingly.
+- Never invest more than 60% of my max allowed BP on any one strategy.
+   - If I want to buy a new position, then weed out one of my existing positions.
+     (Sell the loser or the non-performer first.)
+- Never go into a trade looking at profits first. Look at max loss and size accordingly.
+
 Other 1-1-2 resources:
 
 - [1-1-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-put-ratio/)
