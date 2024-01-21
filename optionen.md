@@ -96,19 +96,21 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
    - /ES has a multiplier of 50. So if we speak about 3x$3.00=$9.00 short puts, we receive about
      50x$9.00=$450 credit. And pay around the same for later on buying the 5 long puts.
      You can then optimize to be paid also for trading fees and commissions and trying to also be paid the $-0.20 buyback.
-   - Step 1: If the market is trading down at least -0.5%: Sell 3x puts (per Tranche) 90 - 120 DTE for credit: $3.00 each.
+   - Step 1: If the market is trading down at least -0.5%: Sell 3 puts (per Tranche) 90 - 120 DTE for credit: $3.00 each.
       - So with -3 Puts 90-120 DTE, we collect around 50x3x$3.00=$450 credit.
-   - Step 2: Immediately 2x place GTC (Good Till Cancel) orders:
-      - GTC to buy 5x puts at the strike 50 points below the short puts, same expiration, using the debit shown in column N.
+   - Step 2: Immediately place 2 GTC (Good Till Cancel) orders:
+      - First GTC to buy 5 puts at the strike 50 points below the short puts, same expiration, using the debit shown in column N.
          - You received 3x$3.00=$9.00 credit from first trade. Now you can spend a bit less than $9.00/5=$1.80 for the long puts.
            You need to subtract commissions and fees from this price. So one long put can cost around $1.60.
       - Second GTC order to buy to close the initial short puts for a debit of $-0.20.
-   - Step 3: If at 21 DTE the short puts are still open, buy to close to to remove Gamma risk.
-     This may cost more than the intended $-0.20 debit which could result in small cost of this hedge to be in play.
+   - Step 3: If at 21 DTE the short puts are still open, buy to close to remove Gamma risk.
+     This may cost more than the intended $-0.20 debit which could result in a small cost of this hedge to be in play.
      The small cost will be well worth the potential return in a massive selloff.
-   - Setting up the first tranche of the BSH, you are exposed to a very high risk in case of a market selloff. Once the
-     hedge is in place, setting up further tranches of the BSH involves less risk. If several tranches are setup, you
-     only reduce your downside hedge while setting up new tranches.
+   - If you have completed steps 1 to 3 above, this is called one tranche of a BSH. Once a tranche is complete, you
+     should immediately start setting up your next tranche to increase your hedge.
+   - Setting up the first tranche of the BSH, you are exposed to a very high risk in case of a market selloff.
+     Once the hedge is in place, setting up further tranches of the BSH involves less risk.
+     If several tranches are setup, you only reduce your downside hedge while setting up new tranches.
 - Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
    - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
    - Days To Expiration (DTE) - begin the entire campaign by purchasing 4 BSH tranches outright at
