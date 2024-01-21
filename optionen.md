@@ -91,6 +91,17 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
    - <https://www.optionsuniversum.de/produkt/airbag-trade-hedge-trades-schutz-vor-marktcrashes/>
 - Der BSH wird sehr ausführlich im Buch
   ["Optionen handeln mit Köpfchen" von Benjamin Friedenheim](https://www.hugendubel.de/de/buch_gebunden/benjamin_friedenheim-optionen_handeln_mit_koepfchen_profitable_tips_aus_der_praxis_fuer_fortgeschrittene_optionstrader-42038956-produkt-details.html) erläutert (Kapitel 10 Hedging).
+- [Drawbridge Finance: Black Swan Hedge](https://www.youtube.com/watch?v=Ghl_GfNs99c)
+   - Hedge trade in /ES.
+   - Step 1: If the market is trading down at least -0.5%: Sell 3x puts (per Tranche) 90 - 120 DTE for credit: $3.00 each.
+   - Step 2: Immediately 2x place GTC (Good Till Cancel) orders:
+      - GTC to buy 5x puts at the strike 50 points below the short puts, same expiration, using the debit shown in columne N.
+        (You received 3x$3.00=$9.00 credit from first trade. Now you can spend a bit less than $9.00/5=$1.80 for the long puts.
+        You need to subtract commissions and fees from this price. So one long put can cost around $1.60.)
+      - Second GTC order to buy to close the initial short puts for a debit of $-0.20.
+   - Step 3: If at 21 DTE the short puts are still open, buy to close to to remove Gamma risk.
+     This may cost more than the intended $-0.20 debit which could result in small cost of this hedge to be in play.
+     The small cost will be well worth the potential return in a massive selloff.
 - Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
    - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
    - Days To Expiration (DTE) - begin the entire campaign by purchasing 4 BSH tranches outright at
