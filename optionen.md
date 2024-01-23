@@ -108,11 +108,11 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
      Once the hedge is in place, setting up further tranches of the BSH involves less risk.
      If several tranches are setup, you only reduce your downside hedge while setting up new tranches.
    - Example in /ES which has a multiplier of 50: Selling 3 puts at about $3.00, you will receive a
-     credit of 3x50x$3.00=$450. The GTC order buys 5 long puts for 5x50x$1.80=$450.
+     credit of 3x50x$3.00=$450. The GTC order buys 5 long puts for 5x50x$1.80=$450 or a bit less.
    - Example with SPX options with a multiplier of 100: Selling 3 puts at about $3.00, you will receive a
-     credit of 3x100x$3.00=$900. The GTC order buys 5 long puts for 5x100x$3.60=$900.
+     credit of 3x100x$3.00=$900. The GTC order buys 5 long puts for 5x100x$1.80=$900.
    - To adjust to current SP500 market prices, you should double all the prices: Sell 3 puts at about $6.00
-     to receive a credit of 3x$6.00=$18.00 and buy 5 puts for 5x$3.60=$18.00.
+     to receive a credit of 3x$6.00=$18.00 and buy 5 puts for less than $18.00/5=$3.60.
      This is now $900 in /ES and $1800 with SPX options.
 - Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
    - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
