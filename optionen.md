@@ -11,6 +11,8 @@ Options-Schulungen
    - <https://www.youtube.com/@tastytrade_/videos>
 - <https://aeromir.com/>
    - <https://www.youtube.com/@Aeromir/videos>
+- <https://www.meetup.com/rdutraders/>
+   - <https://www.youtube.com/@rdutraders/videos>
 - <https://svog.org/>
    - <https://justcoveredcallsplus.groups.io/g/main/files/Wheel%20of%20Income.pdf>
 - <https://www.sheridanmentoring.com/>
@@ -35,6 +37,7 @@ Options-Schulungen
    - <https://www.youtube.com/@OptionAlpha/videos>
 - [https://tradersfly.com/](https://tradersfly.com/)
 - <https://twitter.com/TheTradeBuster> - David Sun
+   - <https://www.thetradebusters.com/>
    - <https://docs.google.com/spreadsheets/d/1IevLq9tkwZHxxdX2jWizaS4VC_NtaGUFlridHcNAjPI/edit#gid=1743608033>
    - <https://open.spotify.com/show/3g966BSYdPvLPNkiQzZsJa>
    - <https://www.youtube.com/channel/UCa36k1NVoqhXyOoEqfEFMdw/about>
@@ -237,6 +240,7 @@ Slingshot Hedge (SH) von Luc van Hof
 
 - <https://info.aeromir.com/alerts/slingshot/>
 - <https://www.youtube.com/watch?v=VjMdvZ7THbw>
+- <https://www.youtube.com/watch?v=zDCCoZWWaTs>
 
 
 Portfolio Metrics von Sweet Bobby
