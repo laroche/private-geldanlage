@@ -49,7 +49,7 @@ Ron Bertino
 - <https://www.tradingdominion.com/> Ron Bertino
    - <https://www.youtube.com/@TradingDominion/videos>
    - Black Swan Hedge (BSH) oder [Space Trip Trade (STT)](https://www.youtube.com/watch?v=LsUyvdS8J9w) von Ron Bertino
-   - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
+   - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics (PMTT)](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
 - <https://www.elitetrader.com/et/>
 - <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
 
@@ -114,12 +114,14 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
    - To adjust to current SP500 market prices, you should double all the prices: Sell 3 puts at about $6.00
      to receive a credit of 3x$6.00=$18.00 and buy 5 puts for less than $18.00/5=$3.60.
      This is now $900 in /ES and $1800 with SPX options.
+   - For an effective hedge you should have puts about 20% below current market level or more than delta 2
+     with options.
 - Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
    - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
    - Days To Expiration (DTE) - begin the entire campaign by purchasing 4 BSH tranches outright at
      approximately 120 DTE, ideally on a day when the market is up.
      Subsequent tranches must be equal or greater than 60 DTE.
-   - Factory Campaign - once the initial camaign has begun, sell additional short puts on a day when
+   - Factory Campaign - once the initial campaign has begun, sell additional short puts on a day when
      the market is down 0.4 % or more or after two consecutive down days (especially after two days of
      increasing volatility).
      Use the BSH calculator to buy the puts when the entire trade can be put on at a breakeven or a slight credit.
@@ -128,7 +130,7 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
      outright BSH tranches to keep the campaign going. It is permissible to diagonalize the outright
      BSH tranches so that the shorts are in a longer expiration than the longs so that the entire trade
      can be placed for breakeven or a small credit.
-   - Short Put Harvest - harvest the short puts at 20 cents or when the reach 14 DTE, whichever comes first.
+   - Short Put Harvest - harvest the short puts at 20 cents or when they reach 14 DTE, whichever comes first.
 
 
 Hedging mit Optionen von "Income Options Trading"
