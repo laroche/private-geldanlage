@@ -84,6 +84,7 @@ Noch mehr Informationen
       - <https://blog.trackingdifferences.com/meine-anlagestrategie-im-jahr-2021/>
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
+- [Hartmut Walz](https://hartmutwalz.de/)
 - [Dr. Armin Pszola: Reicht ein Welt-ETF?](https://www.youtube.com/watch?v=PC9TC9to7kc)
 - [Finanzfluss: Wenn ich nur EINEN ETF für immer halten müsste – welcher wäre es?](https://www.youtube.com/watch?v=_pYG2XxtHFY)
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
