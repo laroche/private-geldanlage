@@ -173,7 +173,7 @@ Hedging mit Optionen von "Income Options Trading"
      and 9 delta for 300-wide PDS.
    - Management: expire worthless
       - close earlier if
-         - spread is reaching 100 % profit
+         - spread is reaching full profit
          - underlying is under the "profit tent" of the PDS and is at risk of exiting the "profit tent" if not closed at a profit.
          - any leg of the spread that is in the money must be closed before expiration to avoid exercise and assignment fees.
 
@@ -267,6 +267,15 @@ Portfolio Metrics von Sweet Bobby
 This means for 100K USD you should have < 150 delta and > 100 theta.
 In a very volatile market with VIX more than 40, you should have a
 maximum of 500 theta and a max buying power of 50 %.
+
+
+Tony is Trading
+---------------
+
+- <https://www.youtube.com/@TonyisTrading/videos>
+- <https://www.tastylive.com/shows/trade-small-trade-often/episodes/tony-from-mexicos-trade-routine-06-07-2021>
+- [top secret trading plan revealed](https://www.youtube.com/watch?v=9_9hIyihVlk)
+- [convert a troubled naked put into a 1-1-2](https://www.youtube.com/watch?v=dJGdKsqS7Zk)
 
 
 Automatischer Handel und Backtests mit Optionen
