@@ -276,6 +276,31 @@ Tony is Trading
 - <https://www.tastylive.com/shows/trade-small-trade-often/episodes/tony-from-mexicos-trade-routine-06-07-2021>
 - [top secret trading plan revealed](https://www.youtube.com/watch?v=9_9hIyihVlk)
 - [convert a troubled naked put into a 1-1-2](https://www.youtube.com/watch?v=dJGdKsqS7Zk)
+- Zero Extrinsic Hedged Back Spread (ZEEHBS)
+   - <https://www.youtube.com/watch?v=YHggVlYlYZA&t=12s>
+
+
+Youtube "Steady Income Trading"
+-------------------------------
+
+- [Unified Options Trading Strategy from Steady Income Trading](https://www.youtube.com/watch?v=GG7qW77gtH8)
+   - Trading /ES or SPX options. Trade this weekly for time diversification.
+   - Naked Put (NP) for generating income:
+      - 7-9 Delta, 80-100 DTE
+      - Take Profit (TP) (or called Profit Target (PT)) at 60 %
+      - Stop Loss or Stop Target (ST) at 250 % (or 200 %)
+      - Win Rate should be around 90 % (or 85 %)
+   - Put Debit Spread (PDS) as hedge / protection:
+      - 35 Delta, Width 75 (Traditional is 25 Delta, Width 50)
+         - The higher delta should change the hedge from costing money to be more cost neutral per average.
+      - Take Profit (TP) at 80 % of max value
+   - Look at Naked Put (NP) and Put Debit Spread (PDS) separately. They have their own PT/ST.
+   - Trade about 2 PDS to 1 NP. Maybe a bit more PDS as NP are closed earlier.
+     So we end up with a ratio of 1/3 to 1/5 with active trades.
+   - NP are closed on market uptrend, PDS on market downtrend.
+   - For overall account planning: If you plan with a Premium Capture Rate (PCR) of 28 % and you have
+     a yearly return target of 25 %, you can calculate the premium sold over the year and thus per week.
+- [Retired 1-2-1 Trade](https://www.youtube.com/watch?v=aPKmWFl_gm8)
 
 
 Automatischer Handel und Backtests mit Optionen
@@ -308,5 +333,6 @@ python projects
 - <https://github.com/wilsonfreitas/awesome-quant>
 - <https://github.com/quantopian/pyfolio>
 - <https://github.com/deltaray-io/flexfolio>
+- <https://www.youtube.com/@TradeOptionsWithMe/videos>
 
 
