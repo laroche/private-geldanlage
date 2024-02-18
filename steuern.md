@@ -6,6 +6,8 @@ Linksammlung zu Steuern
 -----------------------
 
 - <https://www.finanztip.de/steuererklaerung-anlage-kap/>
+- <https://helfer-in-steuersachen.de/inhalt/08-tipps-zur-anlage-kap-eink%C3%BCnfte-aus-kapitalverm%C3%B6gen/1275-0-40-zeile-18-26-kapitalertraege-ohne-steuerabzug.html>
+   - <https://helfer-in-steuersachen.de/inhalt/08-tipps-zur-anlage-kap-eink%C3%BCnfte-aus-kapitalverm%C3%B6gen/1277-06-0-investmentertraege-anlage-kap-inv.html>
 - [Allianz Global Investors: Steuern für Privat- und Firmenanleger](https://de.allianzgi.com/de-de/service/steuern)
 - <https://www.smartsteuer.de/online/lexikon/e/einkuenfte-aus-kapitalvermoegen/>
 - <https://www.wallstreet-online.de/forum/85-1-50/recht-steuern>
