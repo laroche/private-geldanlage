@@ -96,6 +96,7 @@ Auswertung, Trading Log und Backtest
 - <https://www.tradingdiarypro.com/>
 - <https://tradersync.com/>
 - <https://www.optionen-support.de/>
+- <https://t4ri.de/ablauf-zur-erstellung-von-uebersichten/>
 - <https://edgewonk.com/>
 - <https://www.tools4people.de/options/index.html>
 - Thumper's Options Tracker:
