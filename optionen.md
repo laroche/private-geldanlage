@@ -303,6 +303,12 @@ Youtube "Steady Income Trading"
 - [Retired 1-2-1 Trade](https://www.youtube.com/watch?v=aPKmWFl_gm8)
 
 
+Broken Wing Butterfly (BWB)
+---------------------------
+
+- [BWB Youtube Videos](https://www.youtube.com/playlist?list=PLJhxLwjg3zb054JytiHbEWD9BY53SY_zF)
+
+
 Automatischer Handel und Backtests mit Optionen
 -----------------------------------------------
 
