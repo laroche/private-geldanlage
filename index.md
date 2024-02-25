@@ -62,5 +62,6 @@ Beratung bitte den Steuerberater zu Rate ziehen.
 - [Steuern](steuern.md)
 - [Bücher](buecher.md)
 - [Vorsorge und Erbe](erbe.md)
+- [Spenden](spenden.md)
 
 
