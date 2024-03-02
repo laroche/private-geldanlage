@@ -34,16 +34,15 @@ Neo-Broker:
 
 traditionellere Online-Broker:
 
+- <https://www.ing.de/wertpapiere/>
 - <https://www.whselfinvest.de/>
    - [YouTube WH SelfInvest Deutschland](https://www.youtube.com/c/WHSelfInvestDeutschlandFrankfurt/videos)
    - <https://www.whselfinvest.de/de/trading_newsletter_kostenlos_futures.php>
 - <https://www.comdirect.de/>
-- <https://www.onvista.de/>
 - <https://www.flatex.de/> (Degiro gehört auch dazu)
    - [YouTube Flatex](https://www.youtube.com/c/flatexOnlinebroker/videos)
    - negativ Zinsen auf Guthaben (aktuell nicht mehr)
 - <https://www.consorsbank.de/>
-- <https://www.ing.de/wertpapiere/>
 - <https://www.commerzbank.de/>
 - DKB: <https://bank.dkb.de/privatkunden/investieren>
 - Deutsche Bank, <https://www.maxblue.de/>

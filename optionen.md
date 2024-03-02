@@ -336,6 +336,7 @@ Automatischer Handel und Backtests mit Optionen
 python projects
 ---------------
 
+- <https://github.com/OpenBB-finance/OpenBBTerminal>
 - <https://github.com/wilsonfreitas/awesome-quant>
 - <https://github.com/quantopian/pyfolio>
 - <https://github.com/deltaray-io/flexfolio>

@@ -21,7 +21,8 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   Ein guter Kostenvergleich ist unter
   [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
   zu finden.
-- Als günstigen Broker in Deutschland würde ich [Scalable Capital](https://de.scalable.capital/) empfehlen.
+- Als günstigen Neo-Broker in Deutschland würde ich [Scalable Capital](https://de.scalable.capital/) empfehlen.
+   - Ansonsten ist [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) ein sehr beliebter Online-Broker.
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
 
 
@@ -108,6 +109,7 @@ Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?
 Dazu noch [Wikipedia: Liste der Wertpapierbörsen nach Marktkapitalisierung](https://de.wikipedia.org/wiki/Liste_der_Wertpapierb%C3%B6rsen_nach_Marktkapitalisierung)
 und [Wikipedia: Liste der Länder nach Bruttoinlandsprodukt (BIP)](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt).
 (Eventuell auch [Wikipedia: Liste der Länder nach BIP pro Kopf](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt_pro_Kopf).)
+[The Largest Stock Markets Over Time, by Country (1970-Today).](https://www.visualcapitalist.com/largest-stock-markets-by-country-1970-today/)
 
 Die USA haben den größten und stärksten Aktiemarkt.
 Speziell Technologie-Firmen sind in der Vergangenheit sehr stark gewesen.
