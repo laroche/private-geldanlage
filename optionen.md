@@ -178,6 +178,42 @@ Hedging mit Optionen von "Income Options Trading"
          - any leg of the spread that is in the money must be closed before expiration to avoid exercise and assignment fees.
 
 
+1-1-1 von Sweet Bobby
+---------------------
+
+- <https://www.youtube.com/watch?v=YjuutUho7aI>
+- Sweet Bobby Trading Plan 2024-02-4.
+- The trading strategy is composed of two primary components: naked puts and a put debit spread.
+- The strategy involves either a 1-1-1 or a 1-1-2 trade.
+- A 1-1-1 trade is comprised of an out-of-the-money put debit spread and one out-of-the-money naked put.
+- A 1-1-2 trade is comprised of an out-of-the-money put debit spread and two out-of-the-money naked puts.
+- Ideally, a 1 to 1 ratio of naked positions to put debit spreads is preferred.
+- Naked Puts - either one or two puts are sold:
+   - Days to Expiration (DTE): Closest to 120 days to expiration.
+   - Strike: Sell one 10-delta put for a 1-1-1. Sell two 5-delta puts for a 1-1-2.
+   - Management: Naked puts are usually closed at 95% profit or when they reach 30 to 21 days to expiration,
+     but subject to overall portfoliio metrics. It is acceptable to allow the naked puts to expire out of the money.
+   - 2x loss: It is permissible to close the naked puts at a loss equal to two times the initial credit received.
+   - 30 delta breach: If the short strike becomes a 30 delta or higher, permission is granted to either close the trade
+     and accept the loss or to place the put in "Problem Child" status where the debits and credits of the trade are
+     monitored to ensure that the trade is ultimately profitable.
+      - The puts are closed for a loss.
+      - The position can be rolled down farther away from the underlying price in the same expiration and
+        repositioned by selling twice the number of naked puts so that the credit received is equal to or
+        greater than the debit required to close the initial puts.
+        Thus, the position becomes either a 1-1-2 or a 1-1-4.
+      - Alternatively, the position can be rolled out farther in time and possibly farther away from the current price
+        of the underlying and repositioned so that the credit received is equal to or greater than the debit required
+        to close the initial puts.
+- Put Debit Spread - a put debit spread is bought:
+   - Day to Expiration (DTE): Use the same expiration as the naked puts.
+   - Width: 50-points wide.
+   - Cost: Quoted at approximately a $10 debit (actual cost is $50 for /MES and $500 for /ES).
+     Look for the long put to be approximately a 25 delta.
+   - Management: Under normal circumstances, the put debit spread expires worthless.
+   - [...more was now shown in this video...]
+
+
 Strangles von Sweet Bobby
 -------------------------
 
