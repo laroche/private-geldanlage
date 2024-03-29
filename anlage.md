@@ -422,6 +422,7 @@ Zur Info/Nachlesen:
 - [Gerd Kommer: Anleihen](https://gerd-kommer.de/anleihen/)
 - Finanzfluss Geldmarkt ETFS: <https://www.finanzfluss.de/informer/etf/suche/?asset_class=money_market>
 - <https://www.finanztip.de/anleihen/staatsanleihen/>
+- <https://fintechfinder.com/de/artikel/us-staatsanleihen-kaufen/>
 - deutsche Staatsanleihen
    - <https://www.deutsche-finanzagentur.de/bundeswertpapiere/bundeswertpapierarten/bundesschatzanweisungen>
    - [iShares eb.rexx Government Germany 0-1yr UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=DE000A0Q4RZ9)
@@ -432,6 +433,9 @@ Zur Info/Nachlesen:
 - europäische Staatsanleihen mit etwas mehr Rendite als die deutschen, allerdings auch höherem Risiko
    - [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
 - US Staatsanleihen (mit Währungsrisiko, also nur als Verbesserung von USD Cash)
+   - SPDR Bloomberg 1-3 Month T-Bill ETF (BIL)
+   - iShares 1-3 Year Treasury Bond ETF (SHY)
+   - iShares 20+ Year Treasury Bond ETF (TLT)
 - Overnight Return
    - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
