@@ -14,7 +14,7 @@ Options-Schulungen
 - <https://www.meetup.com/rdutraders/>
    - <https://www.youtube.com/@rdutraders/videos>
 - <https://svog.org/>
-   - <https://justcoveredcallsplus.groups.io/g/main/files/Wheel%20of%20Income.pdf>
+   - <https://justcoveredcallsplus.groups.io/g/main/files>
 - <https://www.sheridanmentoring.com/>
    - <https://www.youtube.com/@sheridanmentoring/videos>
    - <https://www.youtube.com/@SheridanmentoringTV/videos>
