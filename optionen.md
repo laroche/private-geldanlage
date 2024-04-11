@@ -44,6 +44,7 @@ Options-Schulungen
 - <https://deltaray.io/>
    - <https://blog.deltaray.io/tags/strategies/>
    - <https://gitlab.com/brentp/mesosim-stuff>
+- <https://earlyretirementnow.com/options/>
 
 
 Ron Bertino
@@ -120,7 +121,7 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
    - For an effective hedge you should have puts about 20% below current market level or more than delta 2
      with options.
 - Sweet Bobby hat den BSH hier erklärt: [How to trade the Black Swan Hedge](https://www.youtube.com/watch?v=A5Tm_GBJauk)
-   - Strikes - sell three short puts approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
+   - Strikes - sell three short puts at approximately $3. Buy 5 long puts 50 points below the shorts. (/ES)
    - Days To Expiration (DTE) - begin the entire campaign by purchasing 4 BSH tranches outright at
      approximately 120 DTE, ideally on a day when the market is up.
      Subsequent tranches must be equal or greater than 60 DTE.
@@ -134,6 +135,8 @@ Volatilität. Ein Aufsetzen kann weitgehend kosten-neutral erfolgen.
      BSH tranches so that the shorts are in a longer expiration than the longs so that the entire trade
      can be placed for breakeven or a small credit.
    - Short Put Harvest - harvest the short puts at 20 cents or when they reach 14 DTE, whichever comes first.
+   - Alternative Harvest - harvest the short puts along with an equal number of long puts at 20 cents or less.
+   - Increase tranch sizing when possible. The goal is to develop a wall of thousands of BSH tranches.
 
 
 Hedging mit Optionen von "Income Options Trading"
