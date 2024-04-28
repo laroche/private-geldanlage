@@ -10,7 +10,8 @@ Informationen eine solide Grundlage schaffen. Auch wenn man sich mit der Zeit no
 aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel besser sind:
 
 - Spare mindestens 10 % des verfügbaren Einkommens von jungen Jahren an für die Rente.
-  Wenn man mehr Gehalt bekommt, sollte man einen noch größeren Anteil sparen.
+  Bei einer Gehaltserhöhung immer prüfen, ob man den Sparanteil noch steigern kann.
+  Also einen größeren Teil der Gehaltserhöhung Sparen und die Konsumausgaben nur mäßig erhöhen.
 - Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
 - Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muß neu gekauft werden" zurück.
 - Schau nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
@@ -57,6 +58,11 @@ Noch mehr Informationen
       - Bei 5 % Jahresgewinn entsteht eine reale Rendite von 0,35 % und damit ein Kapitalerhalt
         bzw. (Kaufkraft-)Verdopplung in 200 Jahren (???).
       - Geld unverzinst auf dem Konto mit 3,325 % Inflation: Halbierung der Kaufkraft nach 22 Jahren.
+      - Wenn man von 7 % jährlicher Steigerung des Depots ausgeht und dann jedes Jahr als Inflationsausgleich eine
+        Depotsteigerung von 3 % im Depot selber belässt, dann kann man sich 4 % auszahlen. Wenn von den 4 % ca. 25 %
+        Steuern anfallen, dann bleiben pro Jahr nach Steuern noch 3 % tatsächlich zur Verfügung.
+        Bei einer Rendite von 11 %, könnte man 3 % Steigerung als Inflationsausgleich im Depot belassen und die
+        8 % dann mit 25 % Kapitalertragsteuer auszahlen. Das sind dann 6 % Netto als Auszahlung.
    - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
