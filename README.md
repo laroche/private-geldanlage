@@ -27,7 +27,7 @@ Die Community ersetzt in keinem Fall eine individuelle und professionelle Steuer
 Die Informationen, die hier bereitgestellt werden, dienen lediglich der Information und Aufklärung.
 
 Ich bin kein Steuerberater und dieser Beitrag ist nicht als Steuerberatung anzusehen. Für rechtsverbindliche
-Beratung bitte den Steuerberater zu Rate ziehen.
+Beratung bitte einen Steuerberater zu Rate ziehen.
 
 
 Übersicht

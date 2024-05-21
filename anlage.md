@@ -22,9 +22,15 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   Ein guter Kostenvergleich ist unter
   [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
   zu finden.
-- Als günstigen Neo-Broker in Deutschland würde ich [Scalable Capital](https://de.scalable.capital/) empfehlen.
-   - Ansonsten ist [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) ein sehr beliebter Online-Broker.
+- Als günstigen Neo-Broker in Deutschland empfehle ich [Scalable Capital](https://de.scalable.capital/).
+  Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
+   - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
+     beliebte Online-Broker.
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
+- Man kann auch etwas Geld ansparen, wenn man dieses dann bei Rücksetzern des Aktienmarktes als etwas größere
+  Geldsumme anlegt. Wenn man bei hohen Aktienkursen bis zu 20 % von der Aktienanlagesumme als Cash oder Gold oder
+  sichere (kurzlaufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % dieses Geld in den Aktienmarkt
+  umschichten.
 
 
 Noch mehr Informationen
@@ -54,16 +60,11 @@ Noch mehr Informationen
         jährlicher Inflation von 3,325 % auf das Kapital:
          - ohne Steuern und ohne Inflation: (Preis-)Verdopplung nach 7 Jahren
          - nach Steuern und ohne Inflation: Verdopplung in unter 10 Jahren
-         - nach Steuern und nach/mit Inflation (4 % reale Rendite): (Kaufkraft-)Verdopplung nach 18 Jahren
-      - Bei 15 % Jahresgewinn entsteht eine reale Rendite von 7,7 % und eine (Kaufkraft-)Verdopplung in unter 10 Jahren.
+         - nach Steuern und nach/mit Inflation (4 % reale Rendite): (Kaufkraft-) Verdopplung nach 18 Jahren
+      - Bei 15 % Jahresgewinn entsteht eine reale Rendite von 7,7 % und eine (Kaufkraft-) Verdopplung in unter 10 Jahren.
       - Bei 5 % Jahresgewinn entsteht eine reale Rendite von 0,35 % und damit ein Kapitalerhalt
-        bzw. (Kaufkraft-)Verdopplung in 200 Jahren (???).
+        bzw. (Kaufkraft-) Verdopplung in 200 Jahren (???).
       - Geld unverzinst auf dem Konto mit 3,325 % Inflation: Halbierung der Kaufkraft nach 22 Jahren.
-      - Wenn man von 7 % jährlicher Steigerung des Depots ausgeht und dann jedes Jahr als Inflationsausgleich eine
-        Depotsteigerung von 3 % im Depot selber belässt, dann kann man sich 4 % auszahlen. Wenn von den 4 % ca. 25 %
-        Steuern anfallen, dann bleiben pro Jahr nach Steuern noch 3 % tatsächlich zur Verfügung.
-        Bei einer Rendite von 11 %, könnte man 3 % Steigerung als Inflationsausgleich im Depot belassen und die
-        8 % dann mit 25 % Kapitalertragsteuer auszahlen. Das sind dann 6 % Netto als Auszahlung.
    - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
@@ -71,11 +72,15 @@ Noch mehr Informationen
    - Wenn der Aktienpreis 50 % einbricht, dann muss er erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
    - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
 - 4-Prozent-Regel für eine Entnahme im Rentenalter (4 % Rule and Safe Withdrawal Rates (SWR))
-   - Ganz vereinfachte Darstellung: Wenn man langfristig eine Rendite von 7 % mit der Aktienanlage hat und mit einer
-     durchschnittlichen Inflationsrate von 3 % rechnet, dann kann man 4 % des Aktienvermögens jedes Jahr als Rente auszahlen.
-     Das Aktienvermögen und auch die zukünftigen Auszahlungen steigen beide um die Inflation mit an. Die Auszahlung muss
-     dann natürlich noch versteuert werden. Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem
-     schlechten Verlauf vom Aktienmarkt noch sicher ist und das Aktiendepot nicht "aufbraucht".
+   - Ganz vereinfachte Darstellung:  Wir gehen von einer langfristigen durchschnittlichen Rendite von 7 % mit der Aktienanlage aus
+     und einer Inflationsrate von 3 %. Wenn wir diese 3 % jedes Jahr im Aktiendepot belassen, dann steigen das
+     Aktienvermögen und auch die zukünftigen Auszahlungen um die Inflation mit an (Inflationsausgleich für Kapitalerhalt).
+     Die Auszahlung von 4 % muss dann natürlich noch versteuert werden. (Bei voller Kapitalertragsteuer bleiben dann weniger wie 3 %
+     zur Auszahlung übrig.)
+     Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem schlechten Verlauf vom Aktienmarkt noch sicher
+     ist und das Aktiendepot nicht "aufbraucht".
+      - Bei einer Rendite von 11 %, könnte man 3 % Steigerung als Inflationsausgleich im Depot belassen und die
+        verbleibenden 8 % dann mit 25 % Kapitalertragsteuer auszahlen. Das sind dann 6 % Netto als Auszahlung.
    - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
    - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
@@ -216,7 +221,7 @@ MSCI World
 [YouTube: Finanzfluss: MSCI World ETF im Vergleich](https://www.youtube.com/watch?v=ElkELpWP69c)
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
-1.539 Unternehmen.
+1.539 Unternehmen weltweit.
 Bei der Ländergewichtung ist man zu 67 % in die USA investiert. Nur Industrieländer, keine Schwellenländer.
 Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
@@ -255,8 +260,10 @@ Schwellenländer und Small Caps hinzufügen: <https://www.youtube.com/watch?v=ld
 S&P500 und Technologiewerte Nasdaq100
 -------------------------------------
 
-S&P500 sind die 500 größten Unternehmen in den USA, der Nasdaq100 sind die 100 größten Technologieunternehmen
-in den USA. Beide sind in der Vergangenheit sehr gut gelaufen, bleiben aber natürlich eine Wette auf die USA.
+S&P500 sind die 500 größten Unternehmen in den USA. Viele Amerikaner nehmen diesen Index als Core-Portfolio
+für die Aktienanlage. Der Nasdaq100 sind die 100 größten Technologieunternehmen. Nachdem der Nasdaq100 nicht sehr
+breit diversifiziert ist, sollte er maximal als Beimischung zu einem Depot verwendet werden. (Wobei große Nasdaq-Werte
+auch häufig im S&P500 vertreten sind.)
 
 Die 10 größten Firmen haben im S&P500 einen Anteil von 27,97 %.
 
