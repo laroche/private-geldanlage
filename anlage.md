@@ -11,9 +11,9 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
 
 - Spare mindestens 10 % des verfügbaren Einkommens von jungen Jahren an für die Rente.
   Bei einer Gehaltserhöhung immer prüfen, ob man den Sparanteil noch steigern kann.
-  Also einen größeren Teil der Gehaltserhöhung Sparen und die Konsumausgaben nur mäßig erhöhen.
+  Also einen größeren Teil der Gehaltserhöhung sparen und die Konsumausgaben nur mäßig erhöhen.
 - Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
-- Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muß neu gekauft werden" zurück.
+- Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muss neu gekauft werden" zurück.
 - Schau nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
 - Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen wie z.B.
   [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25) oder
@@ -31,7 +31,7 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
 - Man kann auch etwas Geld ansparen, wenn man dieses dann bei Rücksetzern des Aktienmarktes als etwas größere
   Geldsumme anlegt. Wenn man bei hohen Aktienkursen bis zu 20 % von der Aktienanlagesumme als Cash oder Gold oder
-  sichere (kurzlaufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % dieses Geld in den Aktienmarkt
+  sichere (kurz laufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % dieses Geld in den Aktienmarkt
   umschichten.
 
 
@@ -71,7 +71,7 @@ Noch mehr Informationen
       - Wir gehen von einer Rendite von 7 % aus. Wenn man z.B. jeden Monat 100 Euro in einem Sparplan anlegt und
         diesen Sparplan 10 Jahre laufen lässt, dann kann man nach diesen 10 Jahren sich jeden Monat diese Sparsumme
         (von 100 Euro) für immer auszahlen.
-   - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
+   - Langfristige Charts sollten immer mit [logarithmischer Darstellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
 - Prozentrechnen
@@ -81,7 +81,7 @@ Noch mehr Informationen
    - Ganz vereinfachte Darstellung:  Wir gehen von einer langfristigen durchschnittlichen Rendite von 7 % mit der Aktienanlage aus
      und einer Inflationsrate von 3 %. Wenn wir diese 3 % jedes Jahr im Aktiendepot belassen, dann steigen das
      Aktienvermögen und auch die zukünftigen Auszahlungen um die Inflation mit an (Inflationsausgleich für Kapitalerhalt).
-     Die Auszahlung von 4 % muss dann natürlich noch versteuert werden. (Bei voller Kapitalertragsteuer bleiben dann weniger wie 3 %
+     Die Auszahlung von 4 % muss dann natürlich noch versteuert werden. (Bei voller Kapitalertragsteuer bleiben dann weniger als 3 %
      zur Auszahlung übrig.)
      Oft wird nur von 3,5 % an Auszahlungen ausgegangen, damit man auch bei einem schlechten Verlauf vom Aktienmarkt noch sicher
      ist und das Aktiendepot nicht "aufbraucht".
@@ -94,6 +94,8 @@ Noch mehr Informationen
    - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
    - <https://portfoliocharts.com/charts/withdrawal-rates/> Perpetual Withdrawal Rate (PWR)
 - Auswahl von ETFs/Fonds:
+   - ETFs, die in Irland aufgesetzt sind (und daher die ISIN der ETFs mit IE beginnt), sind häufig sehr
+     kostengünstig. Auch ETFs aus Luxemburg mit einer ISIN von LU sind kostengünstig.
    - <https://www.justetf.com/>
       - [YouTube justETF](https://www.youtube.com/c/justETF/videos)
       - [YouTube ETF-Weltportfolio zum Selbstbauen von Jan Altmann](https://www.youtube.com/watch?v=I6CHV_duWkc)
@@ -116,7 +118,7 @@ Noch mehr Informationen
 - [Stiftung Warentest Finanztest](https://www.test.de/abo/finanztest/)
    - [Stiftung Warentest Spezialhefte](https://www.test.de/shop/geldanlage-banken/?sort0=Bestseller)
 
-Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
+Die Geldanlage in Aktien sollte gut diversifiziert in ein liquides Produkt sein. Die Fondsgröße
 bietet auch einen Hinweis auf beliebte Produkte.
 
 Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?t=geo&st=w52) bzw
@@ -126,7 +128,7 @@ und [Wikipedia: Liste der Länder nach Bruttoinlandsprodukt (BIP)](https://de.wi
 (Eventuell auch [Wikipedia: Liste der Länder nach BIP pro Kopf](https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_Bruttoinlandsprodukt_pro_Kopf).)
 [The Largest Stock Markets Over Time, by Country (1970-Today).](https://www.visualcapitalist.com/largest-stock-markets-by-country-1970-today/)
 
-Die USA haben den größten und stärksten Aktiemarkt.
+Die USA haben den größten und stärksten Aktienmarkt.
 Speziell Technologie-Firmen sind in der Vergangenheit sehr stark gewesen.
 Zu den US-Aktien eine Übersicht von 2007 bis 2022 und einen Vergleich von Zentralbankzinsen und dem Aktienmarkt:
 
