@@ -19,9 +19,11 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25) oder
   ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
   (wie z.B. den ausschüttenden [HSBC MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B4X9L533))
-  Ein guter Kostenvergleich ist unter
-  [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
-  zu finden.
+   - Ein guter Kostenvergleich ist unter
+     [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
+     zu finden.
+   - Der MSCI World hat gegenüber dem FTSE All-World mehr Fokus auf die USA und daher in der Vergangenheit
+     eine höhere Performance gehabt. Dafür weniger Diversifikation weltweit.
 - Als günstigen Neo-Broker in Deutschland empfehle ich [Scalable Capital](https://de.scalable.capital/).
   Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
    - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
@@ -40,15 +42,16 @@ Noch mehr Informationen
 - [DAX Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
    - [MSCI-World Renditedreieck von Christian W. Röhl](https://www.dividendenadel.de/msci-world-renditedreieck/)
    - [MSCI-World über viele Jahre angelegt](https://blog.trackingdifferences.com/wie-schlimm-kann-es-werden/)
-- [DAX Renditedreieck von Finanzfluss](https://www.finanzfluss.de/geldanlage/dax-rendite-dreieck/)
 - [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
       - [YouTube: Finanzfluss: Alles über ETFs in nur 15 Minuten: Index, Sparplan, Steuern](https://www.youtube.com/watch?v=r80NOOdFIn8)
    - [Finanzfluss: ETF-Suche](https://www.finanzfluss.de/informer/etf/suche/)
       - [YouTube: Finanzfluss: ETF Suche in der Praxis](https://www.youtube.com/watch?v=jD6QlUAPzMg)
+- [Finanztip](https://www.finanztip.de/)
+   - <https://www.finanztip.de/geldanlage/>
+   - <https://www.finanztip.de/wertpapierdepot/>
+   - <https://www.finanztip.de/indexfonds-etf/>
 - [investorsapiens:investorsapiens: Geld Anlegen für Anfänger](https://investorsapiens.de/geld-anlegen-anfaenger/)
-- [Stiftung Warentest Finanztest](https://www.test.de/abo/finanztest/)
-   - [Stiftung Warentest Spezialhefte](https://www.test.de/shop/geldanlage-banken/?sort0=Bestseller)
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
    - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
    - [Finanzfluss: Kann man als „normaler“ Angestellter wirklich Millionär werden?](https://www.youtube.com/watch?v=r_kT1NlVamY)
@@ -65,6 +68,9 @@ Noch mehr Informationen
       - Bei 5 % Jahresgewinn entsteht eine reale Rendite von 0,35 % und damit ein Kapitalerhalt
         bzw. (Kaufkraft-) Verdopplung in 200 Jahren (???).
       - Geld unverzinst auf dem Konto mit 3,325 % Inflation: Halbierung der Kaufkraft nach 22 Jahren.
+      - Wir gehen von einer Rendite von 7 % aus. Wenn man z.B. jeden Monat 100 Euro in einem Sparplan anlegt und
+        diesen Sparplan 10 Jahre laufen lässt, dann kann man nach diesen 10 Jahren sich jeden Monat diese Sparsumme
+        (von 100 Euro) für immer auszahlen.
    - Langfristige Charts sollten immer mit [Logarithmischer Dartellung](https://de.wikipedia.org/wiki/Logarithmische_Darstellung)
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
@@ -107,14 +113,11 @@ Noch mehr Informationen
 - [Vanguard](https://investor.vanguard.com/)
    - <https://www.bogleheads.org/>
    - [YouTube Bogleheads](https://www.youtube.com/@bogleheads3687/videos)
+- [Stiftung Warentest Finanztest](https://www.test.de/abo/finanztest/)
+   - [Stiftung Warentest Spezialhefte](https://www.test.de/shop/geldanlage-banken/?sort0=Bestseller)
 
 Die Geldanlage in Aktien sollte gut diversifiziert sein in ein liquides Produkt. Die Fondsgröße
 bietet auch einen Hinweis auf beliebte Produkte.
-
-Wenn man ganz neu startet oder wenn man die Anlage einfach, solide, (Kosten-)günstig
-und zeitsparend sein soll, dann ist ein Sparplan auf den FTSE All-World sehr gut.
-Nur ein Produkt für die komplette Aktienanlage.
-(Mit höherem US-Anteil ist auch der MSCI World sehr beliebt.)
 
 Sehr gute Visualisierung [Weltweiter Aktienmärkte](https://finviz.com/map.ashx?t=geo&st=w52) bzw
 [SP500 Jahresperformance](https://finviz.com/map.ashx?t=sec&st=w52).
@@ -137,6 +140,10 @@ Aktien sind [Eigenkapital](https://de.wikipedia.org/wiki/Eigenkapital) der Firme
 Im Unterschied zu Aktien werden Inhaber von Anleihen nicht am Unternehmen beteiligt, bekommen aber für
 eine vorher festgelegte Laufzeit Zinsen ausbezahlt.
 Der Anleihenmarkt ist größer als der Aktienmarkt.
+
+
+Aktienanlage
+============
 
 
 FTSE All-World
@@ -423,11 +430,12 @@ Siehe auch <https://www.justetf.com/de/news/etf/die-rechtslage-bei-etfs-das-ucit
 oder <https://etf.capital/was-bedeutet-ucits-bei-etfs/>.
 
 Bei einem ausländischen Broker wie Interactive Brokers kann man nicht-UCITS-Produkte über Optionen
-erhalten. Ein Schlissen dieser Positionen ist immer möglich.
+erhalten. Ein Schliessen dieser Positionen ist immer möglich.
 
 
 Anleihen
---------
+========
+
 
 Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
 
