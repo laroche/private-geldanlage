@@ -148,44 +148,14 @@ Hedging mit Optionen von "Income Options Trading"
 - [Hedge 4-4-4](https://www.youtube.com/watch?v=1-fzF0Ec4oc)
 
 
-1-1-2 - Trade/Strategie von Sweet Bobby
----------------------------------------
-
-- <https://www.youtube.com/watch?v=-yzoJNUJMBE>
-- <https://www.youtube.com/watch?v=NWRQeb2hg7U>
-- A 1-1-2 trade is an out-of-the-money put debit spread and two out-of-the-money naked puts.
-  Ideally a 1 to 1 ratio of naked positions to put debit spreads is preferred.
-- 2 naked puts:
-   - 120 DTE, Strike: Delta 5
-   - Close at 95% profit or at expiration
-   - It is permissible to close the naked puts at a loss equal to two times the initial credit received.
-   - If the short strike becomes a delta 30 or higher, permission is granted to either close the trade and
-     accept the loss or to place the put into "problem child" status where the debits and credits of the trade
-     are monitored to ensure that the trade is ultimately profitable:
-      - Puts are closed for a loss.
-      - The position can be rolled down further away from the underlying price in the same expiration and
-        repositioned by selling twice the number of naked puts so that the credit received is equal to or
-        greater than the debit required to close the initial puts. Thus the position becomes a 1-1-4.
-      - Alternatively the position can be rolled out further in time and possible further away from the curent price
-        of the underlying and repositioned so that the credit received is equal to or greater than the debit required
-        to close the initial puts.
-- put debit spread:
-   - DTE same as naked puts or at least 1/2 of the DTE of the naked puts
-   - Width: 50 points wide (or 300 points)
-   - Cost: $10 debit (actual cost $50 for /MES and $500 for /ES). Look at the long put to be at about 25 delta for 50-wide PDS
-     and 9 delta for 300-wide PDS.
-   - Management: expire worthless
-      - close earlier if
-         - spread is reaching full profit
-         - underlying is under the "profit tent" of the PDS and is at risk of exiting the "profit tent" if not closed at a profit.
-         - any leg of the spread that is in the money must be closed before expiration to avoid exercise and assignment fees.
-
-
-1-1-1 von Sweet Bobby
+1-1-X von Sweet Bobby
 ---------------------
 
 - <https://www.youtube.com/watch?v=YjuutUho7aI>
-- Sweet Bobby Trading Plan 2024-02-4.
+- <https://www.youtube.com/watch?v=A8kEjDsM42c>
+   - Buy the trading plan for just $20: <https://5519505428805.gumroad.com/l/sweetbobbyplan>
+   - Buy the spreadsheet for $119: <https://5519505428805.gumroad.com/l/sweetbobbyspreadsheet>
+- Sweet Bobby Trading Plan 2024-04-24.
 - The trading strategy is composed of two primary components: naked puts and a put debit spread.
 - The strategy involves either a 1-1-1 or a 1-1-2 trade.
 - A 1-1-1 trade is comprised of an out-of-the-money put debit spread and one out-of-the-money naked put.
@@ -195,7 +165,7 @@ Hedging mit Optionen von "Income Options Trading"
    - Days to Expiration (DTE): Closest to 120 days to expiration.
    - Strike: Sell one 10-delta put for a 1-1-1. Sell two 5-delta puts for a 1-1-2.
    - Management: Naked puts are usually closed at 95% profit or when they reach 30 to 21 days to expiration,
-     but subject to overall portfoliio metrics. It is acceptable to allow the naked puts to expire out of the money.
+     but subject to overall portfolio metrics. It is acceptable to allow the naked puts to expire out of the money.
    - 2x loss: It is permissible to close the naked puts at a loss equal to two times the initial credit received.
    - 30 delta breach: If the short strike becomes a 30 delta or higher, permission is granted to either close the trade
      and accept the loss or to place the put in "Problem Child" status where the debits and credits of the trade are
@@ -210,11 +180,33 @@ Hedging mit Optionen von "Income Options Trading"
         to close the initial puts.
 - Put Debit Spread - a put debit spread is bought:
    - Day to Expiration (DTE): Use the same expiration as the naked puts.
-   - Width: 50-points wide.
+   - Width: 50-points wide (or 300 points).
    - Cost: Quoted at approximately a $10 debit (actual cost is $50 for /MES and $500 for /ES).
-     Look for the long put to be approximately a 25 delta.
+     Look for the long put to be approximately a 25 delta (for 50-wide PDS and 9 delta for 300-wide PDS).
    - Management: Under normal circumstances, the put debit spread expires worthless.
-   - [...more was now shown in this video...]
+     Permission is granted to close the debit spread before expiration if:
+      - The spread is approching full profit.
+      - The current price of the underlying is under the "profit tent" of the put debit spread and is
+        at risk of exiting the "profit tent" if not closed at a profit.
+      - Any leg of the spread that is in the money must be closed before expiration
+        to avoid exercise and assignment fees.
+
+
+2-2-1 or 4-4-1 variation from Sweet Bobby
+-----------------------------------------
+
+- Days to Expiration (DTE): closest to 120 days to expiration
+- Put Debit Spread (PDS): Buy either 2 PDS or 4 PDS.
+- Width: 50-points wide put debit spread with the short leg placed near the expected move.
+- Cost: Calculate the total debit for the put debit spreads. Then, sell a naked put so that the
+  entire trade is put on at a near breakeven for for a small credit.
+- Management: Under normal circumstances, the put debit spread expires worthless.
+  Permission is granted to close the debit spread before expiration if:
+   - The spread is approching full profit.
+   - The current price of the underlying is under the "profit tent" of the put debit spread and is
+     at risk of exiting the "profit tent" if not closed at a profit.
+   - Any leg of the spread that is in the money must be closed before expiration
+     to avoid exercise and assignment fees.
 
 
 Strangles von Sweet Bobby
@@ -223,6 +215,7 @@ Strangles von Sweet Bobby
 - DTE 90 days
 - Short Put Strike at Delta 7
 - Short Call Strike at Delta 6
+- Strike deltas may be adjusted based on portfolio Greeks. Ratio strangles may also be used.
 - Closed at 50% profit
 - Close at loss of two times initial credit received.
 - Delta 30 breach, execute one of:
