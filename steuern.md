@@ -248,6 +248,7 @@ Verlustverrechnungsbeschränkung von Optionen
    - <https://www.cfdverband.de/aktuelles/musterklage>
 - [Finanzgericht Rheinland-Pfalz, 1-V-1674/23](https://www.datev.de/dnlexom/client/app/index.html#/document/5025793)
 - [P. Houso: Bindingsteuer Demokratische Republik: How the SPD is (probably) striving for the DDR 2.0](https://www.amazon.de/dp/B0CSQG5RKM)
+- Bundesfinanzhof BFH: [Verfassungsmäßigkeit der Verlustverrechnungsbeschränkung für Termingeschäfte](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410113/)
 
 
 Aktienverluste voll anrechnen
