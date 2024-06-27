@@ -164,9 +164,9 @@ In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei de
 | Aktien Totalverlust         |     |     |     |     |     |     | x   |     |
 | Stillhaltergewinne          | x   |     | x   |     |     |     |     |     |
 | Stillhalterverluste         | x   |     | x   | x   |     |     |     |     |
+| Barausgleich Stillhalter    |     |     |     |     |     | x   |     |     |
 | Long-Optionen-Gewinne       | x   |     | x   |     |     |     |     |     |
 | Long-Optionen-Verluste      |     |     |     |     |     | x   |     |     |
-| Long-Optionen Totalverluste |     |     |     |     |     |     | x   |     |
 | Futuregewinne               | x   |     | x   |     |     |     |     |     |
 | Futureverluste              |     |     |     |     |     | x   |     |     |
 | CFD-Gewinne                 | x   |     | x   |     |     |     |     |     |
