@@ -28,6 +28,7 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
    - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
      beliebte Online-Broker.
+   - Ein guter Vergleich der Broker: <https://www.finanzfluss.de/vergleich/depot/>
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
 - Man kann auch etwas Geld ansparen, wenn man dieses dann bei Rücksetzern des Aktienmarktes als etwas größere
   Geldsumme anlegt. Wenn man bei hohen Aktienkursen bis zu 20 % von der Aktienanlagesumme als Cash oder Gold oder
