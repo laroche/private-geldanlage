@@ -24,6 +24,7 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
      zu finden.
    - Der MSCI World hat gegenüber dem FTSE All-World mehr Fokus auf die USA und daher in der Vergangenheit
      eine höhere Performance gehabt. Dafür weniger Diversifikation weltweit.
+   - MSCI World an der Spitze: [finanzfluss: Die beliebtesten ETFs in Deutschland](https://www.finanzfluss.de/blog/die-beliebtesten-etfs/)
 - Als günstigen Neo-Broker in Deutschland empfehle ich [Scalable Capital](https://de.scalable.capital/).
   Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
    - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
