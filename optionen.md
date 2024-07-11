@@ -61,6 +61,8 @@ Ron Bertino
 Optionen bei tastyworks
 -----------------------
 
+- <https://www.tastylive.com/shows/modern-portfolio-innovation-for-active-traders>
+- <https://www.tastylive.com/shows/top-dogs-managing-a-large-account>
 - [How to Build a $20k - $100k Option Portfolio](https://www.youtube.com/watch?v=8KN6pazdUlg)
    - With a daily theta decay of 0.1 % of your portfolio, you can earn 360 days * 0.1 % per day = 36 % of your portfolio.
      If you can keep around 25 % of your theta, this means 9 % returns per year.
@@ -70,14 +72,6 @@ Optionen bei tastyworks
       - Delta 100 means leverage of 1:1 with $45.000 portfolio.
       - Delta 200 means leverage of 2:1 with $45.000 portfolio.
    - Neutral Deltas: max +- 0.1 % of portfolio: With $100.000 portfolio this is max +- 100 delta.
-
-Mit Optionen ein $100K+ Portfolio verwalten:
-
-- [Core Portfolio & Product Indifference](https://www.youtube.com/watch?v=whDUysN2XYc&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq)
-- [Capital Efficiency & Allocation](https://www.youtube.com/watch?v=7m2P7kWJVc0&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=2)
-- [Cost Basis Reduction Strategies](https://www.youtube.com/watch?v=yU0ep2l9BRw&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=3)
-- [Managing Positions](https://www.youtube.com/watch?v=Pj9jOCJMtEk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=4)
-- [Scaling Up or Down](https://www.youtube.com/watch?v=61d-_6dO7yk&list=PLPVve34yolHYd6rzHKc-1FOGgMWm3MhTq&index=5)
 
 Wenn man anstelle von Spreads direkt Naked Puts als Stillhalter schreibt, dann kann man auch mit 75 % einbehaltener
 Prämie rechnen. Damit bekommt man 360 days * 0.04 % per day * 75 % = 10.8 % Jahresgewinn mit Stillhaltergeschäften.
