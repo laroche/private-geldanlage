@@ -57,6 +57,7 @@ Noch mehr Informationen
 - [Wikipedia: Zinseszins](https://de.wikipedia.org/wiki/Zinseszins)
    - [Finanzfluss: Zinseszinsrechner](https://www.finanzfluss.de/rechner/zinseszinsrechner/)
    - [Finanzfluss: Kann man als „normaler“ Angestellter wirklich Millionär werden?](https://www.youtube.com/watch?v=r_kT1NlVamY)
+   - [Rob Berger: Here's How Long It Takes To Become A Millionaire](https://www.youtube.com/watch?v=0mVfWS-Ogtk)
    - 72er Regel zur Verdopplung des Vermögens
       - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
       - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
@@ -362,12 +363,15 @@ Gerd Kommer Multifactor Equity
 Dividenden-Aktien
 -----------------
 
+- [XHF: Die besten Dividenden-ETFs 2024](https://www.youtube.com/watch?v=WDlm2yj5puQ)
+
 - Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
   TER 0,29 %, [TD -0,04 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B8GKDB10), Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
   Top 10 Positionen 13,50 %
 - Vanguard Dividend Appreciation ETF, Symbol:VIG
 - WKN: A1T8FV Vanguard FTSE All-World High Dividend Yield
-- iShares MSCI World Quality Dividend
+- iShares MSCI World Quality Dividend ESG UCITS ETF, TER 0,39 %
+   - ISIN:IE00BYYHSQ67, WKN:A2DRGS
 - iShares STOXX Global Select Dividend 100, WKN:A0F5UH, ISIN:DE000A0F5UH1
   TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
 - SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
@@ -381,6 +385,8 @@ Dividenden-Aktien
    - ISIN:IE00BZ56SW52 (thesaurierend), ISIN:IE00BZ56RN96 (ausschüttend)
    - TER: 0,38%
    - <https://www.youtube.com/watch?v=yDBt9B7auYk>
+- Wisdom Tree Emerging Markets Equity Income UCITS ETF, TER 0,46 %
+   - ISIN:IE00BQQ3Q067, WKN:A12HUR, Symbol:WTEI
 
 
 Themen ETFs
@@ -435,6 +441,23 @@ oder <https://etf.capital/was-bedeutet-ucits-bei-etfs/>.
 
 Bei einem ausländischen Broker wie Interactive Brokers kann man nicht-UCITS-Produkte über Optionen
 erhalten. Ein Schliessen dieser Positionen ist immer möglich.
+
+
+Bitcoin
+=======
+
+Bitcoin ETFs:
+
+- Blackrock: iShares Bitcoin Trust, Ticker:IBIT, ISIN:US46438F1012
+- Grayscale Bitcoin Trust, Ticker:GBTC, ISIN:US3896371099
+- Fidelity Physical Bitcoin ETP, Ticker:FBTC, ISIN:XS2434891219
+- Ark/21 Bitcoin ETF, Ticker:ARKB
+- Bitwise Bitcoin ETF, Ticker:BITB
+- VanEck Bitcoin Trust, Ticker:HODL
+- Valkyrie, Ticker:BRRR
+- Invesco Galaxy Bitcoin ETF, Ticker:BTCO
+- Franklin Templeton, Ticker:EZBC
+- Wisdom Tree, Ticker:BTCW
 
 
 Anleihen
