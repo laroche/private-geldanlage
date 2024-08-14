@@ -363,6 +363,7 @@ Gerd Kommer Multifactor Equity
 Dividenden-Aktien
 -----------------
 
+- [Dividend Radar](https://www.portfolio-insight.com/dividend-radar)
 - [XHF: Die besten Dividenden-ETFs 2024](https://www.youtube.com/watch?v=WDlm2yj5puQ)
 
 - Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM

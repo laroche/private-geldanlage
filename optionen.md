@@ -15,6 +15,7 @@ Options-Schulungen
    - <https://www.youtube.com/@rdutraders/videos>
 - <https://svog.org/>
    - <https://justcoveredcallsplus.groups.io/g/main/files>
+- <https://datadrivenoptions.com/>
 - <https://www.sheridanmentoring.com/>
    - <https://www.youtube.com/@sheridanmentoring/videos>
    - <https://www.youtube.com/@SheridanmentoringTV/videos>
@@ -218,6 +219,20 @@ Strangles von Sweet Bobby
    - Roll out in time and further away from current price. Credit recieved is same as debit paid to close initial position.
 
 
+VIX Hedge von Sweet Bobby
+-------------------------
+
+- <https://www.youtube.com/watch?v=mfa8ww-JmjI>
+- <https://www.youtube.com/watch?v=x-3TAUPzbzc>
+- Buy 10-delta VIX calls equal to 0.25 % of the net liquidation value monthly at 120 days to expiration
+  and repeast every 30 days so that over time, VIX calls are laddered into the 120, 90, 60, and 30-day expiration cycles.
+- Or, instead of buying multiple 10-delta calls, buy a single VIX call using the alotted capital of
+  0.25 % at a higher delta (closer to the at-the-money price of VIX).
+- Although the VIX hedge can be implemented in all VIX environments, optimally, it could be used
+  when VIX is under 20.
+- The VIX headge's annual cost will equal 3 % of the account's net liquidation value.
+
+
 Tom King Trades
 ---------------
 
@@ -342,6 +357,8 @@ Automatischer Handel und Backtests mit Optionen
 - option backtesting and option courses at <https://optionomega.com/>
 - 0DTE SPX Trading and Build Your Own Backtest (BYOB): <https://tradeautomationtoolbox.com/> (TAT)
 - <https://deltaray.io/>
+   - <https://mesosim.deltaray.io/education/strategy-library>
+   - <https://blog.deltaray.io/tags/strategies/>
 - <https://www.backtrader.com/>
    - <https://github.com/mementum/backtrader>
 - option backtests von Tastyworks: <https://www.tastylive.com/backtest>
