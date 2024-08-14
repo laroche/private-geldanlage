@@ -72,13 +72,13 @@ Pro:
 - Der günstige Standard-Broker im Ausland (USA).
 - Große Auswahl an Produkten und Börsen handelbar.
 - Konto kann viele verschiedene Währungen halten, Umtausch zu gringen Kosten.
-- Sehr gringe Kosten. (Transaktionskosten, Devisenhandel, Zinsen)
+- Sehr geringe Kosten. (Transaktionskosten, Devisenhandel, Zinsen)
    - Kreditzinsen sehr gering (oft zu ca. 1.5 %).
 - Einzahlung/Auszahlung erfolgt als SEPA-Überweisung mit geringen Kosten.
 
 Con:
 
-- Steuererklärung zu erstellen
+- Steuererklärung zu erstellen wie bei allen ausländischen Brokern
 
 Tipps:
 
@@ -120,6 +120,7 @@ Tastyworks
    - [Youtube: Tastyworks](https://www.youtube.com/channel/UCk99MvmvHZutKIkh2u0ImrA/videos)
    - <https://info.quietfoundation.com/alphaboost>
 - Zum Vorbereiten der Steuererklärung kann <https://github.com/laroche/tastyworks-pnl> hilfreich sein.
+- Anbindung von Tastytrade an Google Sheets: <https://www.gsbrokerconnector.co.uk/>
 - Für Dividenden von US-Aktien bekomme ich nur 15% Quellensteuer anstelle der vollen 30% abgezogen.
   Es gibt aber einige Rückmeldungen, dass Tastyworks dies nicht immer richtig einträgt. Falls dies
   der Fall ist, am besten per Email beim Tastyworks Support melden und dies richtig eintragen lassen.
