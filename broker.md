@@ -51,8 +51,8 @@ traditionellere Online-Broker:
 ausländische Broker
 ===================
 
-Für alle ausländischen Broker muss eine Steuererklärung KAP und KAP-Inv selber erstellt werden und am
-Ende vom Jahr dem Finanzamt eingereicht werden.
+Für alle ausländischen Broker muss eine Steuererklärung für die Anlage KAP und Anlage KAP-Inv
+selber erstellt werden und am Ende vom Jahr dem Finanzamt eingereicht werden.
 
 Deutsche Aktien sollte man wegen Dividendenzahlungen und Quellensteuer nicht
 bei einem ausländischen Broker handeln.
@@ -73,12 +73,14 @@ Pro:
 - Große Auswahl an Produkten und Börsen handelbar.
 - Konto kann viele verschiedene Währungen halten, Umtausch zu gringen Kosten.
 - Sehr geringe Kosten. (Transaktionskosten, Devisenhandel, Zinsen)
-   - Kreditzinsen sehr gering (oft zu ca. 1.5 %).
+   - Kreditzinsen sehr gering und Guthabenzinsen recht hoch.
 - Einzahlung/Auszahlung erfolgt als SEPA-Überweisung mit geringen Kosten.
 
 Con:
 
 - Steuererklärung zu erstellen wie bei allen ausländischen Brokern
+   - Oft wird ein kostenloser informativer Steuerbericht von PWC erstellt. Dieser hat
+     aber auch einige Mängel und ist daher oft für eine Steuererklärung nicht brauchbar.
 
 Tipps:
 
