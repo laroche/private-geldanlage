@@ -171,20 +171,21 @@ In Verlustzeilen werden die Verluste als positive Zahl eingetragen. (Z.B. bei de
 | Futureverluste              |     |     |     |     |     | x   |     |     |
 | CFD-Gewinne                 | x   |     | x   |     |     |     |     |     |
 | CFD-Verluste                |     |     |     |     |     | x   |     |     |
+| Anleihen Gewinne            | x   |     |     |     |     |     |     |     |
+| Anleihen Verluste           | x   |     |     | x   |     |     |     |     |
 | Dividenden                  | x   |     |     |     |     |     |     |     |
 | Zinsen                      | x   |     |     |     |     |     |     |     |
 | Quellensteuer               |     |     |     |     |     |     |     | x   |
 
 Offene Fragen:
 
-- Nach Gesetzestexten könnte man Long-Optionen-Verluste auch in Z25 eintragen und damit die
-  Verlustbeschränkungen auf mehrere Töpfe verteilen. Dies ist im neusten BMF-Schreiben allerdings
-  nicht erwähnt. (Dies gilt wohl nicht, siehe oben.)
 - Zeile 21 erlaubt im digitalen Formular keine negativen Einträge, nur positive. Durch Stillhalterverluste kann
   ein negativer Wert herauskommen.
-- (Bereits oben richtig eingetragen:) Verluste aus Termingeschäften (bei ausl. Broker) werden separiert
-  und nur in Zeile 24 eingetragen.  (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
-   - Auch Zeile 25 ist nicht in Zeile 18/19 enthalten.
+   - Bei WISO kommt dazu auch eine Warnung, man kann diese aber Ignorieren lassen.
+     Ob eine Steuerabgabe dann erfolgen kann, habe ich bisher nicht geprüft.
+- (Bereits oben richtig eingetragen:) Verluste aus Termingeschäften werden separiert und nur in Zeile 24 eingetragen.
+  (Auch nicht in Zeile 18/19 und auch nicht in Zeile 22.)
+   - Auch Zeile 25 für einen Aktien Totalverlust ist nicht in Zeile 18/19 enthalten.
 - (Manche Steuersoftware geht nicht korrekt damit um, wenn man Aktiengewinne und Aktienverluste eintragen will.)
 - Die deutschen Dividenden gehören in Zeile 7, die dazu gehörigen Steuern in Zeile 37 und 38.
    - Die deutschen Dividenden gehören in Zeile 7 "Kapitalerträge, die dem inländischen Steuerabzug unterlegen haben".
