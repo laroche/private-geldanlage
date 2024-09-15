@@ -4,9 +4,12 @@ Vorsorgevollmacht, Betreuungs- und Patientenverfügung
 - <https://www.bmjv.de/DE/Themen/VorsorgeUndPatientenrechte/Patientenrechte/Patientenrechte_node.html>
 - <https://www.bmjv.de/DE/Themen/VorsorgeUndPatientenrechte/Betreuungsrecht/Betreuungsrecht_node.html>
 - <https://www.bmjv.de/DE/Service/Formulare/Formulare_node.html>
+- [Verbraucherzentrale: Vorsorgevollmacht](https://www.verbraucherzentrale.de/gesundheit-pflege/onlinevorsorgevollmacht-jetzt-kostenlos-erstellen-und-vorsorgen-76131)
 - <https://www.familienratgeber.de/rechte-leistungen/rechte/vorsorgevollmacht.php>
+- <https://www.finanztip.de/vorsorgevollmacht/>
 - <https://www.vorsorgeregister.de/>
 - <https://de.wikipedia.org/wiki/Generalvollmacht>
+- [YouTube: Gerd Kommer: Vorsorgevollmachten und Verfügungen: Schütze deine Rechte bei Unfall, Krankheit oder Alter!](https://www.youtube.com/watch?v=9P5uqpRNu6c)
 - [YouTube: Patientenverfügung und Vorsorgevollmacht](https://www.youtube.com/watch?v=fWk99HxHHI0)
 - Sorgerechtsverfügung
 - [YouTube: Anwalt Christian Solmecke: Patientenverfügung](https://www.youtube.com/watch?v=6_OCLmv7VGM)
