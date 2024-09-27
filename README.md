@@ -17,7 +17,7 @@ Dieses Dokument soll als Community-Projekt weiter ausgebaut und verwaltet werden
 Motivation
 ----------
 
-Blah.
+Sammlung und Weitergabe von Informationen zur privaten Geldanlage.
 
 
 Disclaimer

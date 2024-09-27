@@ -111,6 +111,7 @@ Noch mehr Informationen
    - <https://www.fondsweb.com/>
    - <https://www.etf.com>
 - [Hartmut Walz](https://hartmutwalz.de/)
+   - [YouTube: Prof. Dr Hartmut Walz](https://www.youtube.com/@ProfWalz/videos)
 - [Dr. Armin Pszola: Reicht ein Welt-ETF?](https://www.youtube.com/watch?v=PC9TC9to7kc)
 - [Finanzfluss: Wenn ich nur EINEN ETF für immer halten müsste – welcher wäre es?](https://www.youtube.com/watch?v=_pYG2XxtHFY)
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
@@ -467,7 +468,7 @@ Anleihen
 ========
 
 
-Bei Anleihen spielt oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
+Bei Anleihen spielen oft die Kosten für den An- und Verkauf eine Rolle und sollten daher genauer betrachtet werden.
 
 Zur Info/Nachlesen:
 
