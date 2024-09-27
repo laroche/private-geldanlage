@@ -15,26 +15,28 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
 - Investiere nur Geld, das Du mindestens die nächsten 10 Jahre nicht anderweitig benötigst.
 - Leg eine Geldreserve für Probleme wie Arbeitslosigkeit oder "Auto muss neu gekauft werden" zurück.
 - Schau nach günstigen Konditionen sowohl beim Broker wie bei den gekauften Finanzprodukten.
-- Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen wie z.B.
+- Als Finanzprodukt ist ein ETF für den weltweiten Aktienmarkt zu empfehlen wie z.B. der
   [Vanguard FTSE All-World](https://www.justetf.com/de/etf-profile.html?isin=IE00B3RBWM25) oder
-  ein ETF auf den [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
-  (wie z.B. den ausschüttenden [HSBC MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B4X9L533))
+  der [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
+  (wie z.B. den ausschüttenden [HSBC MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B4X9L533)).
    - Ein guter Kostenvergleich ist unter
      [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
      zu finden.
    - Der MSCI World hat gegenüber dem FTSE All-World mehr Fokus auf die USA und daher in der Vergangenheit
      eine höhere Performance gehabt. Dafür weniger Diversifikation weltweit.
-   - MSCI World an der Spitze: [finanzfluss: Die beliebtesten ETFs in Deutschland](https://www.finanzfluss.de/blog/die-beliebtesten-etfs/)
+   - Der MSCI World wird in Deutschland am meisten gekauft: [finanzfluss: Die beliebtesten ETFs in Deutschland](https://www.finanzfluss.de/blog/die-beliebtesten-etfs/)
 - Als günstigen Neo-Broker in Deutschland empfehle ich [Scalable Capital](https://de.scalable.capital/).
   Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
    - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
      beliebte Online-Broker.
    - Ein guter Vergleich der Broker: <https://www.finanzfluss.de/vergleich/depot/>
 - Am besten einen festen monatlichen Sparplan zum Kauf des ETFs anlegen. Auch Einmalkäufe sind jederzeit möglich.
-- Man kann auch etwas Geld ansparen, wenn man dieses dann bei Rücksetzern des Aktienmarktes als etwas größere
+- Man kann auch etwas Geld ansparen, wenn man dieses dann bei Rücksetzern des Aktienmarktes als größere
   Geldsumme anlegt. Wenn man bei hohen Aktienkursen bis zu 20 % von der Aktienanlagesumme als Cash oder Gold oder
-  sichere (kurz laufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % dieses Geld in den Aktienmarkt
-  umschichten.
+  sichere (kurzlaufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % am Aktienmarkt dieses Geld
+  in den Aktienmarkt umschichten.
+- Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden oder
+  ausschüttende ETFs oder auch mal Teilverkäufen der ETFs/Aktien.
 
 
 Noch mehr Informationen
@@ -78,8 +80,8 @@ Noch mehr Informationen
      eingestellt sein. Der Preis wird in y-Richtung aufgetragen und bei gleichen Abschnitten in y-Richtung ist immer eine Verdopplung im
      Preis zu sehen (Wenn es eine Verdopplung von 100 auf 200 gibt, dann ist im gleichen Abstand eine weitere Verdopplung auf 400 zu sehen.)
 - Prozentrechnen
-   - Wenn der Aktienpreis 50 % einbricht, dann muss er erst wieder 100 % steigen, um den usprünglichen Kurs wieder zu erreichen.
-   - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 300 % auf den ursprünglichen Aktienkurs steigen.
+   - Wenn der Aktienpreis 50 % einbricht, dann muss er erst wieder 100 % steigen ("sich Verdoppeln"), um den usprünglichen Kurs wieder zu erreichen.
+   - Bei einem 66 % Einbruch muss der Aktienpreis erst wieder 200 % auf den ursprünglichen Aktienkurs steigen ("sich Verdreifachen").
 - 4-Prozent-Regel für eine Entnahme im Rentenalter (4 % Rule and Safe Withdrawal Rates (SWR))
    - Ganz vereinfachte Darstellung:  Wir gehen von einer langfristigen durchschnittlichen Rendite von 7 % mit der Aktienanlage aus
      und einer Inflationsrate von 3 %. Wenn wir diese 3 % jedes Jahr im Aktiendepot belassen, dann steigen das
