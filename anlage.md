@@ -98,6 +98,7 @@ Noch mehr Informationen
    - <https://www.ranioli.ch/unsere-cape-basierte-entnahme-regel/>
    - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
    - <https://portfoliocharts.com/charts/withdrawal-rates/> Perpetual Withdrawal Rate (PWR)
+   - [The 4% Rule Myth: Can YOU Afford Retirement? (Safe Withdrawal Rate](https://www.youtube.com/watch?v=xQDCBt86s9Q)
 - Auswahl von ETFs/Fonds:
    - ETFs, die in Irland aufgesetzt sind (und daher die ISIN der ETFs mit IE beginnt), sind häufig sehr
      kostengünstig. Auch ETFs aus Luxemburg mit einer ISIN von LU sind kostengünstig.
