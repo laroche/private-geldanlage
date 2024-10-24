@@ -285,6 +285,15 @@ Doppelbsteuerung der Renten
 - <https://www.youtube.com/watch?v=pVpOfza6Sqs>
 
 
+Wegzugsbesteuerung von privaten Anlegern
+----------------------------------------
+
+- Beim Wegzug wird von einem fiktiven Verkauf von Investmentanteilen ausgegangen und diese besteuert.
+  Dies gilt ab Anschaffungskosten von 500000 Euro.
+- Investmentsteuergesetz § 19 Absatz 3 ab 2025.
+- <https://www.youtube.com/watch?v=L-ao-C0KcGw>
+
+
 Termingeschäftsverluste ab 2021
 -------------------------------
 
