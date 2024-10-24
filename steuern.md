@@ -426,3 +426,22 @@ Steuererklärung weiter.
 - <https://github.com/shashankvemuri/Finance>
 
 
+AWV-Meldepflicht
+================
+
+- Meldungen zu statistischen Zecken an die Deutsche Bundesbank
+- Laut der geltenden Meldepflicht in Deutschland muss eine AWV Meldung von jeder Person oder jedem Unternehmen abgegeben werden,
+  die oder das eine Zahlung oder Überweisung ins Ausland von mehr als 12.500 Euro tätigt oder empfängt.
+   - Die Meldepflicht betrifft Zahlungen zwischen Inländern (natürliche und juristische Personen) mit gewöhnlichem Aufenthalt, Wohnsitz oder Sitz in der
+     Bundesrepublik Deutschland) und Ausländern.
+   - Meldegrenze von 12.500 Euro gilt je Wertpapier und Transaktionsrichtung (Verkäufe getrennt von Käufen) brutto pro Monat, d.h. 2 x 8000 EUR BASF im selben Monat kaufen = meldepflichtig.
+   - Transaktionen von der GmbH auf ein Verrechnungskonto von Interactive Broker: Nicht anzeigepflichtig, da das Geld ja im Namen der GmbH bei IB gehalten wird.
+   - Kauf und Verkauf von Wertpapieren (Z10 Meldung): Notwendig, da als Gegenpartei der GmbH die Interactive Brokers Ltd in Irland gesehen wird.
+     Gilt auch bei deutschen Wertpapieren, da Dein Broker als Vertragspartner gesehen wird, der die Zahlung erhält - auch wenn die Transaktion an einer deutschen Börse läuft.
+- [Außenwirtschaftsverordnung (AWV) § 67](https://www.gesetze-im-internet.de/awv_2013/__67.html)
+- [AWV § 70](https://www.gesetze-im-internet.de/awv_2013/__70.html) regelt die gleichen Vorschriften für inländische Banken
+- <https://www.finanztip.de/awv-meldepflicht/>
+- [Meldenummer von der Bundesbank](https://www.bundesbank.de/de/service/meldewesen/aussenwirtschaft/elektronische-einreichung/-/meldenummer-611648) (für Privatpersonen 00999995)
+- Meldung über die Webseite: <https://extranet.bundesbank.de/bsvpub/register1.do?fv=AMS>
+
+
