@@ -459,10 +459,17 @@ Bitcoin ETFs:
 - Ark/21 Bitcoin ETF, Ticker:ARKB
 - Bitwise Bitcoin ETF, Ticker:BITB
 - VanEck Bitcoin Trust, Ticker:HODL
-- Valkyrie, Ticker:BRRR
+- ProShares Ultra Bitcoin ETF, Ticker:BITU
+- Coinshares Valkyrie Bitcoin Fund, Ticker:BRRR
 - Invesco Galaxy Bitcoin ETF, Ticker:BTCO
-- Franklin Templeton, Ticker:EZBC
+- Franklin Templeton BitcoinETF, Ticker:EZBC
 - Wisdom Tree, Ticker:BTCW
+
+Ethereum ETFs:
+
+- iShares Ethereum Trust ETF, Ticker:ETHA
+- Fidelity Ethereum Fund ETF, Ticker:FETH
+- Bitwise Ethereum ETF, Ticker:ETHW
 
 
 Anleihen
