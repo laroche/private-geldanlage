@@ -508,8 +508,12 @@ Zur Info/Nachlesen:
    - [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
       - Dieser ETF bildet den Solactive Euro Overnight Return Index nach. Der Index repliziert den €STR + 0,085%
    - LYXOR ETF EURO Cash EuroMTS EONIA Investable ETF
-- Unternehmensanleihen:
+- (kurzlaufende) Unternehmensanleihen in Euro:
    - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
    - [iShares EUR Ultrashort Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00BCRY6557)
+   - [UBS ETF (LU) Bloomberg Euro Area Liquid Corporates 1-5 Year UCITS ETF (EUR) A-dis](https://www.justetf.com/de/etf-profile.html?isin=LU1048314196)
+- Unternehmensanleihen in Euro:
+   - [iShares Core EUR Corporate Bond UCITS ETF (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B3F81R35)
+   - [iShares EUR High Yield Corporate Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B66F4759)
 
 
