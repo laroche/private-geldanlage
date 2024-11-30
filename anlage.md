@@ -92,6 +92,9 @@ Noch mehr Informationen
      ist und das Aktiendepot nicht "aufbraucht".
       - Bei einer Rendite von 11 %, könnte man 3 % Steigerung als Inflationsausgleich im Depot belassen und die
         verbleibenden 8 % dann mit 25 % Kapitalertragsteuer auszahlen. Das sind dann 6 % Netto als Auszahlung.
+      - Vorsicht vor allem bei hoher Inflation, dann sollte man Ausgaben reduzieren und nach dem
+        Inflationsausgleich für einen Kapitalerhalt schauen.
+   - [Bill Bengen: What Everyone Gets Wrong About the 4% Rule](https://www.youtube.com/watch?v=gQqcKepuQdA)
    - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
    - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
