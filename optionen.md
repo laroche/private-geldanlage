@@ -366,6 +366,7 @@ The Rhino Trade
 
 - [list of Rhino Tutorials](https://www.youtube.com/watch?v=NBp8zzdrnXo&list=PLuxNPkHzzdkUR8cpurtEAewfY6nei57TJ)
 - [Rhino Trade 2022 Update](https://www.youtube.com/watch?v=aUaEdPeos5w)
+- [Rhino Revival von Martin Hlouschek](https://www.youtube.com/watch?v=oIn7gQI9p5s)
 
 
 Digital Nomad on YouTube with Delta Neutral trading
