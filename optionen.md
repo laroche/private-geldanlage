@@ -16,6 +16,7 @@ Options-Schulungen
 - <https://svog.org/>
    - <https://justcoveredcallsplus.groups.io/g/main/files>
 - <https://datadrivenoptions.com/>
+- <https://optionsjive.com/>
 - <https://www.sheridanmentoring.com/>
    - <https://www.youtube.com/@sheridanmentoring/videos>
    - <https://www.youtube.com/@SheridanmentoringTV/videos>
@@ -274,6 +275,7 @@ Other 1-1-2 resources:
 - [1-1-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-put-ratio/)
 - [1-1-2-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-2-put-ratio-trade/)
 - [reddit: 1-1-2 strategy](https://www.reddit.com/r/thetagang/comments/16iapjv/112_strategy/)
+- [The 1-1-2 Trade: Is It Really Worth the Risk? Discover Safer Alternatives](https://optionsjive.com/blog/the-1-1-2-trade-is-it-really-worth-the-risk-discover-safer-alternatives/)
 
 
 Slingshot Hedge (SH) von Luc van Hof
@@ -348,6 +350,44 @@ Broken Wing Butterfly (BWB)
 ---------------------------
 
 - [BWB Youtube Videos](https://www.youtube.com/playlist?list=PLJhxLwjg3zb054JytiHbEWD9BY53SY_zF)
+- [BWB from tastylive](https://www.youtube.com/watch?v=d5hbaFmUmwg)
+- [Broken Wing Butterfly from Brent Osachoff](https://www.youtube.com/watch?v=AJp2gleqnz8)
+
+
+Calendar Spreads
+----------------
+
+- [Calendar Options from Brent Osachoff](https://www.youtube.com/watch?v=ZlywocCHoG0)
+   - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive.
+
+
+The Rhino Trade
+---------------
+
+- [list of Rhino Tutorials](https://www.youtube.com/watch?v=NBp8zzdrnXo&list=PLuxNPkHzzdkUR8cpurtEAewfY6nei57TJ)
+- [Rhino Trade 2022 Update](https://www.youtube.com/watch?v=aUaEdPeos5w)
+
+
+Digital Nomad on YouTube with Delta Neutral trading
+---------------------------------------------------
+
+- [Digital Nomad on Youtube](https://www.youtube.com/@digitalnomadtrader/videos)
+- Videos related to the Rhino Trade:
+   - [Rhino Trade](https://www.youtube.com/watch?v=DYZbjnEy2tY)
+   - [Put Broken Wing Butterflies (BWB)](https://www.youtube.com/watch?v=8f6En2g8Hbc)
+      - +1 Delta -20, -2 Delta -40, +1 Delta -60 with 60+ DTE. Exit at 14 DTE.
+   - [Calendar Spreads](https://www.youtube.com/watch?v=hpVDk4HTBYk)
+   - [Option Spread Adjustments](https://www.youtube.com/watch?v=v9KqLjeQJuk)
+- Entry: Put BWB in RUT: +1 Delta 20, -2 Delta 35, +1 Delta 50.
+   - Some use slightly negative Delta, but I start with 0 Delta.
+- Profit Target 10 % and stop loss 10 %.
+- If RUT is at the two sold Puts, roll the whole structure back.
+- If RUT is the upper long Delta and we have maybe -5 Delta or -10 Delta (of the overall trade),
+  then do a delta adjustment: Either add a PCS or add a call calendar (monthly, at 40 delta).
+- Huge move up: Move the whole structure up.
+- With 56 DTE, add another Put BWB. Maybe flatten out overall delta.
+
+[Hedging IV Shocks](https://www.youtube.com/watch?v=aW-LQpqUFHE)
 
 
 Automatischer Handel und Backtests mit Optionen
