@@ -504,7 +504,7 @@ Zur Info/Nachlesen:
 - Overnight Return
    - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
-      - Symbol: XEON with Interactive Brokers
+      - Symbol: XEON with Interactive Brokers, WKN: DBX0AN
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
       - Symbol: XEOD with Interactive Brokers
    - [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
@@ -515,9 +515,12 @@ Zur Info/Nachlesen:
 - (kurzlaufende) Unternehmensanleihen in Euro:
    - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
    - [iShares EUR Ultrashort Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00BCRY6557)
+      - Symbol: ERNE, WKN:A1W375
    - [UBS ETF (LU) Bloomberg Euro Area Liquid Corporates 1-5 Year UCITS ETF (EUR) A-dis](https://www.justetf.com/de/etf-profile.html?isin=LU1048314196)
 - Unternehmensanleihen in Euro:
    - [iShares Core EUR Corporate Bond UCITS ETF (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B3F81R35)
+   - [Xtrackers EUR High Yield Corporate Bond UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU1109942653)
+      - Symbol: XHYG, WKN: DBX0PR
+      - bildet den iBoxx® EUR Liquid High Yield Index nach
    - [iShares EUR High Yield Corporate Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B66F4759)
-
 
