@@ -238,6 +238,7 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [Anwendungsfragen vom 2022-03-15](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2022-03-15-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=3)
 - [BMF: Stand DBA 2021](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2021-02-18-stand-DBA-1-januar-2021.pdf?__blob=publicationFile&v=3)
 - [BMF: Stand DBA 2022](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2022-01-19-stand-DBA-1-januar-2022.pdf?__blob=publicationFile&v=3)
+- [BMF: Stand DBA 2025](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Internationales_Steuerrecht/Allgemeine_Informationen/2025-01-20-stand-DBA-1-januar-2025.pdf?__blob=publicationFile&v=6)
 - [BMF-Schreiben zu virtuellen Währungen und Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2021-06-17-est-kryptowaehrungen.pdf?__blob=publicationFile&v=2)
 - [Bundesfinanzhof: anhänige Verfahren](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/entscheidungsvorschau/)
 

@@ -58,6 +58,33 @@ Deutsche Aktien sollte man wegen Dividendenzahlungen und Quellensteuer nicht
 bei einem ausländischen Broker handeln.
 
 
+W-8BEN
+------
+
+Wenn man das Formular W-8BEN ausfüllt, dann werden bei Dividendenzahlungen nur 15 % Quellensteuer
+anstelle der 30 % Quellensteuer vom Broker einbehalten. In Deutschland können die bereits bezahlten
+15 % Quellensteuer dann angerechnet werden.
+
+- <https://www.irs.gov/pub/irs-pdf/fw8ben.pdf>
+
+
+US Erbschaftssteuer für US-Aktien
+---------------------------------
+
+- [Why US ETFs Or Stocks Are A Bad Idea (European Investor)](https://www.youtube.com/watch?v=sXK_ncs1GnI)
+- $60.000 sind frei, dann fällt 40 % Steuer an. Dieser Wert wird nicht über die Inflation verändert.
+- In einzelnen Doppelbesteuerungsabkommen (DBA) kann mehr festgelegt werden.
+- Fängt die ISIN einer Aktie oder eines ETFs mit "IE" (Irland) oder "LU" (Luxemburg) an,
+  dann ist dieser ETF in Europa beheimatet und es fällt keine US-Steuer an.
+- DBA mit Deutschland (Infos recht wage, muss neu geprüft werden):
+   - US-Vermögensanteil zum Gesamtvermögen wird ermittelt.
+   - Dieser Anteil wird zu den $13.600.000 berechnet.
+   - Beispiel: Von $1.000.000 Vermögen sind $300.000 in US-Aktien, das sind 30 %.
+     Dann sind $13.600.000 * 30 % = $4.080.000 von der Steuer ausgenommen.
+- Innerhalb von 9 Monaten muss in den USA eine Aufstellung aller Vermögenswerte eingereicht werden,
+  ansonsten kann man die Freistellung von der Steuer verlieren.
+
+
 Interactive Brokers (IB)
 ------------------------
 
