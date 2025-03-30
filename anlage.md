@@ -170,7 +170,7 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
 
 - [Finanzfluss: FTSE-All-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=FTSE%20All-World)
 - Nur in eine Auswahl aller Aktien (ca. 3720) wird tatsächlich investiert.
-- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol: VWRD (VGWL?)
+- Vanguard FTSE All-World, WKN:A1JX52, ISIN:IE00B3RBWM25, Symbol:VGWL
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,22 %, [TD -0,02 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3RBWM25)
    - Fondsgröße 12.462 Millionen (2022-05), Fondswährung USD
    - Auflagedatum 2012-05-22
@@ -182,12 +182,12 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
    - Auflagedatum 2019-07-23
    - [finanzen.net: FTSE-All-World thesaurierend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie00bk5bqt80)
    - <https://www.de.vanguard/professionell/anlageprodukte/etf/aktien/9679/ftse-all-world-ucits-etf-usd-accumulating>
-- Invesco FTSE All-World UCITS ETF Dist, WKN:A3D7QY, ISIN:IE0000QLH0G6
+- Invesco FTSE All-World UCITS ETF Dist, WKN:A3D7QY, ISIN:IE0000QLH0G6, Symbol:FTWD
    - Ausschüttend, Replikationsart: physisch optimiert, TER 0,15 %, [TD x %](https://www.trackingdifferences.com/ETF/ISIN/IE0000QLH0G6)
    - Fondsgröße 4 Millionen (2023-07), Fondswährung USD
    - Auflagedatum 2023-06-26
    - [finanzen.net: Invesco FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie0000qlh0g6)
-- Invesco FTSE All-World UCITS ETF Acc, WKN:A3D7QX, ISIN:IE000716YHJ7
+- Invesco FTSE All-World UCITS ETF Acc, WKN:A3D7QX, ISIN:IE000716YHJ7, Symbol:FWIA
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,15 %, [TD x %](https://www.trackingdifferences.com/ETF/ISIN/IE000716YHJ7)
    - Fondsgröße 4 Millionen (2023-07), Fondswährung USD
    - Auflagedatum 2023-06-26
@@ -247,7 +247,7 @@ Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, 
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
 - [Finanzfluss MSCI-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20World)
-- iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983
+- iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983, Symbol:EUNL
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B4L5Y983)
    - Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
@@ -262,9 +262,9 @@ Die 10 größten Firmen haben einen Anteil von 19,81 %.
    - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2008-11-27
    - [finanzen.net: Lyxor MSCI World (LUX)](https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562)
-- SPDR MSCI World, WKN:A2N6CW, ISIN:IE00BFY0GT14, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFY0GT14)
-- Xtrackers MSCI World, WKN:DBX1MW, ISIN:LU0274208692 [TD 0,10 %](https://www.trackingdifferences.com/ETF/ISIN/LU0274208692)
-- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, Symbol:VEA, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
+- SPDR MSCI World, WKN:A2N6CW, ISIN:IE00BFY0GT14, Symbol:SPPW [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFY0GT14)
+- Xtrackers MSCI World, WKN:DBX1MW, ISIN:LU0274208692, Symbol:DBXW [TD 0,10 %](https://www.trackingdifferences.com/ETF/ISIN/LU0274208692)
+- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, Symbol:VGVE, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
 
 
 Welt AG mit 3 ETFs
@@ -291,26 +291,46 @@ Im Nasdaq100 haben die 6 größten Firmen (Apple, Microsoft, Amazon, Tesla, Alph
 Anteil von 42,5 %. Apple hat einen Anteil von 13 %.
 
 - [Finanzfluss SP500 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=S%26P%20500)
-- Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09, Symbol:VUSD
-   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,27 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3XXRP09)
-   - Fondsgröße 32.632 Millionen (2022-05), Fondswährung USD
-   - Auflagedatum 2012-05-22
-   - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00b3xxrp09>
-- iShares Core S&P 500, WKN:622391, ISIN:IE0031442068
-   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE0031442068)
-   - Fondsgröße 12.788 Millionen (2022-05), Fondswährung USD
-   - Auflagedatum 2002-03-15
-   - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
-- iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087, Symbol:CSSPX
-   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,21 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B5BMR087)
-   - Fondsgröße 53.994 Millionen (2022-05), Fondswährung USD
-   - Auflagedatum 2010-05-19
-   - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087>
-- Invesco S&P 500 UCITS ETF, WKN:A1CYW7, ISIN:IE00B3YCGJ38
-   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %, [TD -0,26 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3YCGJ38)
-   - Fondsgröße 15.233 Millionen (2022-05), Fondswährung USD
+- Invesco S&P 500 UCITS ETF, WKN:A1405W, ISIN:IE00BYML9W36, Symbol:D500
+   - Ausschüttend, Replikationsart: Synthetisch, TER 0,05 %, [TD -0,44 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BYML9W36)
+   - Fondsgröße 37.874 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2010-05-20
+   - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00byml9w36>
+- Invesco S&P 500 UCITS ETF, WKN:A1CYW7, ISIN:IE00B3YCGJ38, Symbol:P500
+   - Thesaurierend, Replikationsart: Synthetisch, TER 0,05 %, [TD -0,29 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3YCGJ38)
+   - Fondsgröße 37.874 Millionen (2025-03), Fondswährung USD
    - Auflagedatum 2010-05-20
    - <https://www.finanzen.net/etf/invesco-sp-500-etf-ie00b3ycgj38>
+- Vanguard S&P 500, WKN:A1JX53, ISIN:IE00B3XXRP09, Symbol:VUSA
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,25 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B3XXRP09)
+   - Fondsgröße 63.955 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2012-05-22
+   - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00b3xxrp09>
+- Vanguard S&P 500, WKN:, ISIN:IE00BFMXXD54, Symbol:VUAA
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,20 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFMXXD54)
+   - Fondsgröße 63.955 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2019-05-14
+   - <https://www.finanzen.net/etf/vanguard-sp-500-etf-ie00bfmxxd54>
+- iShares Core S&P 500, WKN:622391, ISIN:IE0031442068, Symbol:IUSA
+   - Ausschüttend, Replikationsart: physisch optimiert, TER 0,07 %, [TD -0,06 %](https://www.trackingdifferences.com/ETF/ISIN/IE0031442068)
+   - Fondsgröße 18.101 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2002-03-15
+   - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie0031442068>
+- iShares Core S&P 500, WKN:A0YEDG, ISIN:IE00B5BMR087, Symbol:SXR8
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,07 %, [TD -0,21 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B5BMR087)
+   - Fondsgröße 110.012 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2010-05-19
+   - <https://www.finanzen.net/etf/ishares-core-sp-500-etf-ie00b5bmr087>
+- SPDR S&P 500 UCITS ETF, WKN:A1JULM, ISIN:IE00B6YX5C33, Symbol:SPY5
+   - Ausschüttend, Replikationsart: physisch vollständig, TER 0,03 %, [TD -0,19 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B6YX5C33)
+   - Fondsgröße 22.578 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2012-03-19
+   - <https://www.finanzen.net/etf/spdr-sp-500-etf-ie00b6yx5c33>
+- SPDR S&P 500 UCITS ETF, WKN:A3EUC1, ISIN:IE000XZSV718, Symbol:SPYL
+   - Thesaurierend, Replikationsart: physisch vollständig, TER 0,03 %, [TD 0,03 %](https://www.trackingdifferences.com/ETF/ISIN/IE000XZSV718)
+   - Fondsgröße 22.578 Millionen (2025-03), Fondswährung USD
+   - Auflagedatum 2023-10-31
+   - <https://www.finanzen.net/etf/spdr-sp-500-etf-ie000xzsv718>
 
 - [Finanzfluss Nasdaq-100 ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=Nasdaq%20100)
 
@@ -374,13 +394,12 @@ Dividenden-Aktien
 - [Dividend Radar](https://www.portfolio-insight.com/dividend-radar)
 - [XHF: Die besten Dividenden-ETFs 2024](https://www.youtube.com/watch?v=WDlm2yj5puQ)
 
-- Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VHYD  VYM
+- Vanguard FTSE All-World High Dividend Yield, WKN:A1T8FV, ISIN:IE00B8GKDB10, Symbol:VGWD
   TER 0,29 %, [TD -0,04 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B8GKDB10), Fondsvolumen 2.662 Mio €, physisch, 2013-05-13, 1775 Aktienpositionen
   Top 10 Positionen 13,50 %
 - Vanguard Dividend Appreciation ETF, Symbol:VIG
-- WKN: A1T8FV Vanguard FTSE All-World High Dividend Yield
 - iShares MSCI World Quality Dividend ESG UCITS ETF, TER 0,39 %
-   - ISIN:IE00BYYHSQ67, WKN:A2DRGS
+   - ISIN:IE00BYYHSQ67, WKN:A2DRG5, Symbol:QDVW
 - iShares STOXX Global Select Dividend 100, WKN:A0F5UH, ISIN:DE000A0F5UH1
   TER 0,46 %, [TD 0,25 %](https://www.trackingdifferences.com/ETF/ISIN/DE000A0F5UH1)
 - SPDR S&P Global Dividend Aristocrats UCITS ETF, WKN:A1T8GD, ISIN:IE00B9CQXS71
@@ -498,15 +517,15 @@ Zur Info/Nachlesen:
 - europäische Staatsanleihen mit etwas mehr Rendite als die deutschen, allerdings auch höherem Risiko
    - [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
 - US Staatsanleihen (mit Währungsrisiko, also nur als Verbesserung von USD Cash)
-   - SPDR Bloomberg 1-3 Month T-Bill ETF (BIL)
-   - iShares 1-3 Year Treasury Bond ETF (SHY)
-   - iShares 20+ Year Treasury Bond ETF (TLT)
+   - SPDR Bloomberg 1-3 Month T-Bill ETF, WKN:A2JSLW, ISIN:US78468R6633, Symbol:VJZS (BIL bei IB)
+   - iShares 1-3 Year Treasury Bond ETF, WKN:750779, ISIN:US4642874576, Symbol:3ISC (SHY bei IB)
+   - iShares 20+ Year Treasury Bond ETF, WKN:357957, ISIN:US4642874329, Symbol:3ISE (TLT bei IB)
 - Overnight Return
    - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0290358497)
-      - Symbol: XEON with Interactive Brokers, WKN: DBX0AN
+      - WKN:DBX0AN, ISIN:LU0290358497, Symbol:XEON
    - [Xtrackers II EUR Overnight Rate Swap UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU0335044896)
-      - Symbol: XEOD with Interactive Brokers
+      - WKN:DBX0A2, ISIN:LU0335044896, Symbol:XEOD
    - [Lyxor Smart Overnight Return UCITS ETF C-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU1190417599)
    - [Lyxor Smart Overnight Return UCITS ETF D-EUR](https://www.justetf.com/de/etf-profile.html?isin=LU2082999306)
    - [Lyxor Euro Overnight Return UCITS ETF - Acc](https://www.justetf.com/de/etf-profile.html?isin=FR0010510800)
@@ -514,8 +533,9 @@ Zur Info/Nachlesen:
    - LYXOR ETF EURO Cash EuroMTS EONIA Investable ETF
 - (kurzlaufende) Unternehmensanleihen in Euro:
    - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
+      - WKN:A1W3V1, ISIN:IE00BC7GZW19, Symbol:SYBD
    - [iShares EUR Ultrashort Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00BCRY6557)
-      - Symbol: ERNE, WKN:A1W375
+      - WKN:A1W375, ISIN:IE00BCRY6557, Symbol:IS3M (ERNE???)
    - [UBS ETF (LU) Bloomberg Euro Area Liquid Corporates 1-5 Year UCITS ETF (EUR) A-dis](https://www.justetf.com/de/etf-profile.html?isin=LU1048314196)
 - Unternehmensanleihen in Euro:
    - [iShares Core EUR Corporate Bond UCITS ETF (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B3F81R35)
