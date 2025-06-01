@@ -518,6 +518,9 @@ Zur Info/Nachlesen:
    - [Invesco Euro Cash 3 Months UCITS ETF Acc](https://www.justetf.com/de/etf-profile.html?isin=IE00B3BPCH51)
 - US Staatsanleihen (mit Währungsrisiko, also nur als Verbesserung von USD Cash)
    - SPDR Bloomberg 1-3 Month T-Bill ETF, WKN:A2JSLW, ISIN:US78468R6633, Symbol:VJZS (BIL bei IB)
+   - iShares 0-3 Month Treasury Bond ETF, WKN:A40DL3, ISIN:IE000SSFEUS3, Symbol:SGOV
+   - BondBloxx Bloomberg Six Month Target Duration US Treasury ETF, Symbol:XHLF
+   - iShares $ Treasury Bond 0-1 yr ETF, WKN:A2PBNP, ISIN:IE00BGSF1X88
    - iShares 1-3 Year Treasury Bond ETF, WKN:750779, ISIN:US4642874576, Symbol:3ISC (SHY bei IB)
    - iShares 20+ Year Treasury Bond ETF, WKN:357957, ISIN:US4642874329, Symbol:3ISE (TLT bei IB)
 - Overnight Return
