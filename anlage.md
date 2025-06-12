@@ -101,6 +101,7 @@ Noch mehr Informationen
    - <https://www.ranioli.ch/unsere-cape-basierte-entnahme-regel/>
    - <https://earlyretirementnow.com/safe-withdrawal-rate-series/>
    - <https://portfoliocharts.com/charts/withdrawal-rates/> Perpetual Withdrawal Rate (PWR)
+   - <https://www.bogleheads.org/wiki/Variable_percentage_withdrawal> Variable percentage withdrawal (VPW)
    - [The 4% Rule Myth: Can YOU Afford Retirement? (Safe Withdrawal Rate](https://www.youtube.com/watch?v=xQDCBt86s9Q)
    - [Is The New Safe Withdrawal Rate 3.7%?](https://www.youtube.com/watch?v=Syp1XYun10s)
 - Auswahl von ETFs/Fonds:
