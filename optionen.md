@@ -278,6 +278,51 @@ Other 1-1-2 resources:
 - [The 1-1-2 Trade: Is It Really Worth the Risk? Discover Safer Alternatives](https://optionsjive.com/blog/the-1-1-2-trade-is-it-really-worth-the-risk-discover-safer-alternatives/)
 
 
+Tom King 112C (Calendarized 1-1-2 Trade)
+----------------------------------------
+
+- [Youtube Tom King: Calendarized 1-1-2 Trade](https://www.youtube.com/watch?v=AG0fmJ98-kA)
+- This trade has a much shorter DTE for the short puts, thus they have a tad more risk,
+  but come off quicker and we are left with a Put Debit Spread (PDS) for nearly 2-3 months.
+  The ladder of PDS with help with BP (Buying Power) relief and Delta hedging.
+- Buying Power and Sizing:
+   - Trades using /ES
+   - Size for max loss per trade of 2 % of Net Liq portfolio value.
+     Increase size as needed within the BP limit.
+- Trade Entry:
+   - Enter a 100 wide PDS at 150 DTE (120 DTE is also an option) @ 15-20 delta long put
+     for around $8-10 debit (Can change based on market profile).
+   - Finance with 2 naked puts at 60 DTE around 6-7 delta to generate the desired credit.
+     (I am aiming for $15-16 credit on the naked puts (NPs).
+- Management:
+   - Note: I manage the Naked Puts (NP) and the Put Debit Spread (PDS) as 2 separate trades.
+   - Naked Put (NP) Management:
+      - When NK are at 90 % of initial credit on the trade, close them. This frees up BP and
+        makes the trade a free PDS hedge for 90+ days.
+      - Close them at 2X (200 %) loss.
+      - Roll them out (and down) if touched or near expiration.
+        Note: You can close/adjust the PDS to pay for the roll.
+      - Take assignment if BP allows. (Then wheel out with ATM Covered Calls.)
+   - Put Debit Spread (PDS) Management:
+      - Note: If any leg of the spread that is in the money (ITM) at expiration must be closed
+        to avoid being exercised or assigned and fees.
+      - Reduce risk: If the short put of the PDS hits 90-95 %+ profitability, you can close this contract
+        and leave the long put open as a full hedge.
+        Note: This will reduce income generation slightly.
+      - Increase gains:
+         - Wait until close to expiration to close at or near full spread profit.
+         - If PDS is profitable early, we can look to capture part of the trap max profit by rolling the short
+           put up by 50 % or more of the width of the PDS to lock in profit and still have a trap remaining.
+           Note: Rolling up the short put of the PDS will keep the trap size larger and at a higher strike,
+           thus creating a greater chance for the remaining adjusted PDS to pay off.
+. Options for this 112C trade:
+   - Income generators: Roll up the naked puts, roll up the short puts of the PDS, close some of the long puts,
+     roll the whole PDS down.
+   - Hedge generators: Remove the naked puts early, remove some of the naked puts, remove the shorts of the PDS,
+     remove just a few of the puts of the PDS, close some naked puts and use the cash to roll up the long puts
+     (make a wider trap).
+
+
 Slingshot Hedge (SH) von Luc van Hof
 ------------------------------------
 
