@@ -323,6 +323,19 @@ Tom King 112C (Calendarized 1-1-2 Trade)
      (make a wider trap).
 
 
+Murray Lindhout: 1-1-1
+----------------------
+
+- <https://www.youtube.com/watch?v=4ByN7YEGuZY>
+- use uncorrelated underlyings
+- stay with small size and buying power
+- start with a normal 1-1-1
+- Start with a wide PDS and then move the (lower) short put up over time, so that
+  you collect additional income.
+- If the market moves down and challenges the income short put, then buy back this short
+  put and sell two further away short puts for a small credit. This is then a 1-1-2 trade.
+
+
 Slingshot Hedge (SH) von Luc van Hof
 ------------------------------------
 
