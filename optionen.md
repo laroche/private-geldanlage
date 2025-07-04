@@ -412,9 +412,29 @@ Broken Wing Butterfly (BWB)
 - [Broken Wing Butterfly from Brent Osachoff](https://www.youtube.com/watch?v=AJp2gleqnz8)
 
 
+Naming of option spreads
+------------------------
+
+- vertical, horizontal (calendar) and diagonal spreads:
+   - Spreads with the same expiration date and different strike prices are called vertical spreads.
+   - Spreads with the same strik price, but different expiration dates are called horizontal spreads.
+      - Horizontal spreads are also called calendar spreads.
+   - Spreads with differnet strike prices and different expiration dates are called diagonal spreads.
+- credit and debit spreads:
+   - Spreads that pay you money on entry are called credit spreads.
+   - Spreads that cost you money on entry are called debit spreads.
+- A double calendar is a combination of a bearish put calendar (e.g. delta 20) and a bullish call
+  calendar (e.g. delta 15). Take profit with 8 to 10 % profit on the paid premium.
+
+
 Calendar Spreads
 ----------------
 
+- Strike price is the same, but expiration date is different. This is called a horizontal spread.
+- Best setup if the front-month has more premium compared to the back-month. This is called
+  backwardation and often goes back to contango pretty fast.
+- Also good setup in low volatility as it can benefit from vola increase.
+- Debit paid is the max risk.
 - [Calendar Options from Brent Osachoff](https://www.youtube.com/watch?v=ZlywocCHoG0)
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive.
 
