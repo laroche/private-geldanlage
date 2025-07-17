@@ -37,6 +37,7 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   in den Aktienmarkt umschichten.
 - Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden oder
   ausschüttende ETFs oder auch mal Teilverkäufen der ETFs/Aktien.
+- [Finanzbär: Alle ETF Steuertricks](https://www.youtube.com/watch?v=KwncLekWNqE)
 
 
 Noch mehr Informationen
