@@ -438,6 +438,7 @@ Calendar Spreads
 - Debit paid is the max risk.
 - [Calendar Options from Brent Osachoff](https://www.youtube.com/watch?v=ZlywocCHoG0)
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
+- Best setup with the most premium is ATM. Other possibility is a bearish setup with delta 5 to 30.
 
 
 The Rhino Trade
@@ -468,6 +469,13 @@ Digital Nomad on YouTube with Delta Neutral trading
 - With 56 DTE, add another Put BWB. Maybe flatten out overall delta.
 
 [Hedging IV Shocks](https://www.youtube.com/watch?v=aW-LQpqUFHE)
+
+
+Geld Leihen mit Optionen
+------------------------
+
+- [Bennett Heitjan: Günstig Geld leihen in EUR und CHF](https://www.youtube.com/watch?v=e4nxca66GwU)
+- [Christian Czirnich: So vermeiden Sie Währungsrisiken beim Handel mit US-Optionen](https://www.youtube.com/watch?v=CCtg8i-FEb4)
 
 
 Automatischer Handel und Backtests mit Optionen
