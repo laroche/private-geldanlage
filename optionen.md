@@ -276,6 +276,7 @@ Other 1-1-2 resources:
 - [1-1-2-2 Put Ratio Trade](https://datadrivenoptions.com/1-1-2-2-put-ratio-trade/)
 - [reddit: 1-1-2 strategy](https://www.reddit.com/r/thetagang/comments/16iapjv/112_strategy/)
 - [The 1-1-2 Trade: Is It Really Worth the Risk? Discover Safer Alternatives](https://optionsjive.com/blog/the-1-1-2-trade-is-it-really-worth-the-risk-discover-safer-alternatives/)
+- [Nichol Hermel: The Hidden Risks of the 112 Options Strategy](https://www.youtube.com/watch?v=xi0TWeblfo4)
 
 
 Tom King 112C (Calendarized 1-1-2 Trade)
@@ -436,7 +437,7 @@ Calendar Spreads
 - Also good setup in low volatility as it can benefit from vola increase.
 - Debit paid is the max risk.
 - [Calendar Options from Brent Osachoff](https://www.youtube.com/watch?v=ZlywocCHoG0)
-   - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive.
+   - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
 
 
 The Rhino Trade
