@@ -431,6 +431,7 @@ Naming of option spreads
 Calendar Spreads
 ----------------
 
+- [NavigationTrading: Trading Calendar Spreads for Income](https://vimeo.com/720468103/b86fbaeba3)
 - Strike price is the same, but expiration date is different. This is called a horizontal spread.
 - Best setup if the front-month has more premium compared to the back-month. This is called
   backwardation and often goes back to contango pretty fast.
