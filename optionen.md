@@ -476,6 +476,7 @@ Geld Leihen mit Optionen
 ------------------------
 
 - [Bennett Heitjan: Günstig Geld leihen in EUR und CHF](https://www.youtube.com/watch?v=e4nxca66GwU)
+- <https://www.boxtrades.com/faq/what-is-a-box-spread>
 - [Christian Czirnich: So vermeiden Sie Währungsrisiken beim Handel mit US-Optionen](https://www.youtube.com/watch?v=CCtg8i-FEb4)
 
 
