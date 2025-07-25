@@ -20,7 +20,7 @@ Neo-Broker:
 - <https://de.scalable.capital/>
    - [YouTube: Erik Podzuweit bei Aktien mit Kopf](https://www.youtube.com/watch?v=BjQZk403Itw)
    - handelbare Börsenplätze: Gettex (an der Börse München), Xetra
-   - Backend von der Baader Bank
+   - Backend von der Baader Bank und in Zukunft eigene Banklizenz
 - <https://traderepublic.com/>
    - handelbare Börsenplätze: L&S Exchange (Lang und Schwarz an der Börse Hamburg)
    - Solaris Bank (?)
@@ -41,7 +41,6 @@ traditionellere Online-Broker:
 - <https://www.comdirect.de/>
 - <https://www.flatex.de/> (Degiro gehört auch dazu)
    - [YouTube Flatex](https://www.youtube.com/c/flatexOnlinebroker/videos)
-   - negativ Zinsen auf Guthaben (aktuell nicht mehr)
 - <https://www.consorsbank.de/>
 - <https://www.commerzbank.de/>
 - DKB: <https://bank.dkb.de/privatkunden/investieren>
@@ -111,6 +110,7 @@ Con:
 
 Tipps:
 
+- [OptionsWelten: europäische ETFs bei IB kaufen](https://www.youtube.com/watch?v=THI7xa4cyFA)
 - [TradingView mit Interactive Brokers verbinden](https://www.youtube.com/watch?v=HFHOdod8XlA)
 - Kontensicherheit bei IB:
    - [YouTube Zahltagstrategie: Kontensicherheit bei IB](https://www.youtube.com/watch?v=rBdyDkwoEW0)
