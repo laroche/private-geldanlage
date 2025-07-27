@@ -375,11 +375,38 @@ Tony is Trading
 ---------------
 
 - <https://www.youtube.com/@TonyisTrading/videos>
+- <https://x.com/tfmtrades?lang=de>
 - <https://www.tastylive.com/shows/trade-small-trade-often/episodes/tony-from-mexicos-trade-routine-06-07-2021>
 - [top secret trading plan revealed](https://www.youtube.com/watch?v=9_9hIyihVlk)
+   - "death before debit": always finance a debit spread with further short options to have an overall credit trade
+   - "campaign trade" is done regularely with a fixed schedule, an "opportunistic trade" is done only on down days with more premium
+   - Portfolio of $1.000.000 with 50% initial buying power usage
+   - example trades are shown with SPX at around 4700
+   - 10% 12-month short put SPY, DTE 365 with delta 16 and about $10 credit, 2 short puts per month with max 12 open short puts, take profit 50%, $12.000 expected income
+   - 10% 1-1-1 SPX, DTE 45-60, delta 25 and 50 points below for debit spread, overall credit of $15-$20, $20.400 expected income
+   - 10% 1-2-0 SPX, can be done on the put side and for advanced users on the call side, trade is a bit more aggressive than 1-1-1,
+     DTE 45-60, sell 2 puts at expected move, buy one higher put with overall credit of $15-$20, $20.400 expected income
+   - 10% 1-1-2 SPX, higher risk due to two naked puts at delta 5-7, DTE 120, debit spread at delta 25 with 50 points,
+     possible to keep the debit spread and open/close the short puts several times, $20.400 expected income
+   - 10% Smart SPX, small debit trade, very bullish trade, only partially explained, dte 45-60,
+     (buy 100 stocks, better synthetic long), buy ATM call, sell call with half price and sell put with half price, $42.000 expected income
+   - 10% weekly SPY straddle, enter on a down day, every wednesday, DTE 60, sell ATM put/call, take profit 25%,
+     if market runs higher, move short put also higher, max 6 open positions, $20.400 expected income
+   - 10% SPX strangles, DTE 45-60, sell delta 16 (expected move), $21.600 expected income
+   - 5%  SPX 4-8-8, complex trade explained only partially, max 2 open positions, $20.400 expected income
+   - 25% cash/treasuries, $12.480 expected income
 - [convert a troubled naked put into a 1-1-2](https://www.youtube.com/watch?v=dJGdKsqS7Zk)
+- 4-4-1: 4 delta 25 and 50 points wide put debit spreads and then sell 1 short put financing it
+   - short put can be rolled down and out in time, take profit from debit spread
 - Zero Extrinsic Hedged Back Spread (ZEEHBS)
    - <https://www.youtube.com/watch?v=YHggVlYlYZA&t=12s>
+   - (Sell one ATM call and buy for the same price two lower long calls. Also go short 50 stocks.)
+   - Sell two ATM calls and buy for the same price four lower long calls. Add one synthetic short
+     by buying ATM put and selling ATM call.
+   - Has nearly no extrinsic value.
+   - If market goes up, take off the two long call spreads. This reduces valley of death.
+   - If market goes down, move the short calls down. This adds more credit and reduces valley of death.
+     And it reduces upside potential. Or just sell another short call.
 
 
 Youtube "Steady Income Trading"
