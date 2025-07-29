@@ -381,15 +381,25 @@ Tony is Trading
    - "death before debit": always finance a debit spread with further short options to have an overall credit trade
    - "campaign trade" is done regularely with a fixed schedule, an "opportunistic trade" is done only on down days with more premium
    - Portfolio of $1.000.000 with 50% initial buying power usage
-   - example trades are shown with SPX at around 4700
-   - 10% 12-month short put SPY, DTE 365 with delta 16 and about $10 credit, 2 short puts per month with max 12 open short puts, take profit 50%, $12.000 expected income
+   - example trades are shown with SPX at around 4700 (video from 2023-12-15)
+   - [trading plan as Google spreadsheet](https://docs.google.com/spreadsheets/d/1OF_BxOgK0ngo70vcGQmQNCPXGWazLXwFKjZ6YZ1hQVI/edit?gid=0#gid=0)
+   - 10% 12-month short put SPY, DTE 365 at expected move (with delta 16) and about $10 credit, 2 short puts per month with max 12 open short puts, take profit 50%, $12.000 expected income
+      - <https://www.youtube.com/watch?v=bW8e2u9LCmA>
    - 10% 1-1-1 SPX, DTE 45-60, delta 25 and 50 points below for debit spread, overall credit of $15-$20, $20.400 expected income
-   - 10% 1-2-0 SPX, can be done on the put side and for advanced users on the call side, trade is a bit more aggressive than 1-1-1,
-     DTE 45-60, sell 2 puts at expected move, buy one higher put with overall credit of $15-$20, $20.400 expected income
+   - 10% 1-2-0 SPX, can be done on the put side and for advanced users on the call side, $20.400 expected income
+      - trade is a bit more aggressive than 1-1-1, trade is similar to a butterfly
+      - DTE 45-60, buy put at delta 25 and sell two further down puts with overall credit of the trade of $16-$20
+      - This trade can be viewed as one naked short put and one debit spread.
+      - If the market sells off, the naked put can be rolled down and out and the debit spread can be closed for a profit.
+      - <https://www.youtube.com/watch?v=odMekbIEjrA>
+      - <https://www.youtube.com/watch?v=47Rh883W9Uw> (older video)
    - 10% 1-1-2 SPX, higher risk due to two naked puts at delta 5-7, DTE 120, debit spread at delta 25 with 50 points,
      possible to keep the debit spread and open/close the short puts several times, $20.400 expected income
-   - 10% Smart SPX, small debit trade, very bullish trade, only partially explained, dte 45-60,
-     (buy 100 stocks, better synthetic long), buy ATM call, sell call with half price and sell put with half price, $42.000 expected income
+   - 10% Smart SPX, small debit trade, very bullish trade, only partially explained, DTE 45-60, $42.000 expected income
+      - <https://www.youtube.com/watch?v=A_1Zq-az5mc>
+      - -1 OTM Put, +1 ATM Call, -1 OTM Call (Selling price for short put and short call are each half the price of the long ATM call.)
+      - If market goes up, take off the call spread and then also the short put.
+      - If market goes down, roll the short put down and out until the market recovers. No new trades until we are fully recovered.
    - 10% weekly SPY straddle, enter on a down day, every wednesday, DTE 60, sell ATM put/call, take profit 25%,
      if market runs higher, move short put also higher, max 6 open positions, $20.400 expected income
    - 10% SPX strangles, DTE 45-60, sell delta 16 (expected move), $21.600 expected income
@@ -398,6 +408,7 @@ Tony is Trading
 - [convert a troubled naked put into a 1-1-2](https://www.youtube.com/watch?v=dJGdKsqS7Zk)
 - 4-4-1: 4 delta 25 and 50 points wide put debit spreads and then sell 1 short put financing it
    - short put can be rolled down and out in time, take profit from debit spread
+   - [The Shocking Evolution from 4-4-1 to 1-1-2 Trade and Why I Disapprove](https://www.youtube.com/watch?v=UE-DweP5uVY)
 - Zero Extrinsic Hedged Back Spread (ZEEHBS)
    - <https://www.youtube.com/watch?v=YHggVlYlYZA&t=12s>
    - (Sell one ATM call and buy for the same price two lower long calls. Also go short 50 stocks.)
