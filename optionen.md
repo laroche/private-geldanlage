@@ -470,14 +470,20 @@ Calendar Spreads
 ----------------
 
 - [NavigationTrading: Trading Calendar Spreads for Income](https://vimeo.com/720468103/b86fbaeba3)
+- [OptionsWelten: Calendar Spreads](https://www.youtube.com/watch?v=vqJjD6bigac)
 - Strike price is the same, but expiration date is different. This is called a horizontal spread.
+- A longer running option is bought (usually with more premium) and a shorter running option is sold
+  at the same strike price as the first option. The shorter running option should decayits premium
+  faster than the longer running option.
+- Best setup with the most premium is ATM. Other possibility is a bearish setup with delta 5 to 30.
+- This can be setup with puts or with calls.
+- Expectation is that the market stays sideways.
 - Best setup if the front-month has more premium compared to the back-month. This is called
   backwardation and often goes back to contango pretty fast.
-- Also good setup in low volatility as it can benefit from vola increase.
+- Another good setup in low volatility as it can benefit from vola increase.
 - Debit paid is the max risk.
 - [Calendar Options from Brent Osachoff](https://www.youtube.com/watch?v=ZlywocCHoG0)
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
-- Best setup with the most premium is ATM. Other possibility is a bearish setup with delta 5 to 30.
 
 
 The Rhino Trade
