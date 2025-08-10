@@ -486,15 +486,39 @@ Calendar Spreads
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
 
 
+Time Flies Spread from Simon Black
+----------------------------------
+
+- <https://www.plenitudetrading.com/>
+- [Simon Black: Time Flies Spread](https://www.youtube.com/watch?v=nzx4yWbzs-I)
+- <https://www.thetaprofits.com/the-time-flies-spread-a-smarter-way-to-trade-theta/>
+- Theta decay with a delta neutral setup with a weekly trade.
+- Enter on thursday until friday of next week. (8 DTE.)
+   - Profit taken often monday/tuesday of next week.
+- Diagonal put spread below the price and a call-BWB above. Defined risk trade.
+- Example 1:
+   - RUT at 1956 at 2025-04-27.
+   - 4d/8d calendar put spread (50 points below market): -1 put 1900 2025-05-01 and +1 put 1900 2025-05-05.
+      - Positive vega. If marjet drops, volatility will go up and the profit tent will widen.
+   - 4d Call-BWB with +1 call 2000, -2 call 2015, +1 call 2030 2025-05-01. (regular call butterfly in example.)
+- Example 2:
+   - SPX at about 5525.
+   - -1 put 5385 2025-05-02 and +1 put 5380 2025-05-05.
+   - +1 call 5620, -2 call 5650, +1 call 5690 2025-05-02.
+- Exit with 10 % profit on the buying power used (or max loss).
+- Exit 24h before it expires.
+
+
 Flyagonal from Steve Ganz
 -------------------------
 
 - <https://members.sjgtrades.com/flyagonal>
 - [Theta Profits Interview: Flyagonal-Optionsstrategie](https://www.youtube.com/watch?v=y_7vCLAcc9c)
+- <https://www.thetaprofits.com/flyagonal-how-a-hybrid-options-strategy-hit-a-96-win-rate/>
 - Call-BWB and Diagonal Spread combined. Defined risk trade. (In SPX about $5000 risk.)
 - SPX, but also RUT or even individual stocks.
 - 8-10 DTE and double the days for the long call as part of the diagonal spread.
-- Example 1:
+- Example:
    - SPX at 6368 on 2025-07-29.
    - Call-BWB with +1 call 6370, -2 call 6420, +1 call 6480 (10 DTE on 2025-08-08).
       - Call-BWB with 50 and 60 points wings, the upper side has a higher loss potential, less risk on the lower side.
