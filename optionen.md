@@ -491,8 +491,8 @@ Flyagonal from Steve Ganz
 
 - <https://members.sjgtrades.com/flyagonal>
 - [Theta Profits Interview: Flyagonal-Optionsstrategie](https://www.youtube.com/watch?v=y_7vCLAcc9c)
-- Call-BWB and Diagonal Spread combined
-- SPX, but also RUT or even individual stocks
+- Call-BWB and Diagonal Spread combined. Defined risk trade. (In SPX about $5000 risk.)
+- SPX, but also RUT or even individual stocks.
 - 8-10 DTE and double the days for the long call as part of the diagonal spread.
 - Example 1:
    - SPX at 6368 on 2025-07-29.
@@ -504,11 +504,13 @@ Flyagonal from Steve Ganz
       - Short put is 50 points below ATM.
       - positive vega and positive theta.
       - If theta increases (and usually the market drops), then the profit zone increases.
-   - Usual days In Trade (DIT) of about 4-5 days.
-   - Best if market does not move too much.
-- exit with 10 % of profit (based on the debit paid for the trade)
-- exit 3-4 days before the expiration
+- Usual days In Trade (DIT) of about 4-5 days.
+- Best if market does not move too much.
+- Exit with 10 % of profit (based on the max loss).
+   - If adjustments are made, then lower your profit expectancy.
+- Always exit 3-4 days before the expiration.
 - Adjustments in case of big moves up or down are part of a seminar.
+- Adjustments often move the short strikes. Try to get about delta neutral.
 
 
 The Rhino Trade
