@@ -486,6 +486,31 @@ Calendar Spreads
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
 
 
+Flyagonal from Steve Ganz
+-------------------------
+
+- <https://members.sjgtrades.com/flyagonal>
+- [Theta Profits Interview: Flyagonal-Optionsstrategie](https://www.youtube.com/watch?v=y_7vCLAcc9c)
+- Call-BWB and Diagonal Spread combined
+- SPX, but also RUT or even individual stocks
+- 8-10 DTE and double the days for the long call as part of the diagonal spread.
+- Example 1:
+   - SPX at 6368 on 2025-07-29.
+   - Call-BWB with +1 call 6370, -2 call 6420, +1 call 6480 (10 DTE on 2025-08-08).
+      - Call-BWB with 50 and 60 points wings, the upper side has a higher loss potential, less risk on the lower side.
+      - Lower long call is ATM of the underlying (SPX).
+      - Good theta and negative vega.
+   - 10d/20d Diagonal Put Spread with -1 put 6320 2025-08-08 and +1 put 6300 2025-08-18.
+      - Short put is 50 points below ATM.
+      - positive vega and positive theta.
+      - If theta increases (and usually the market drops), then the profit zone increases.
+   - Usual days In Trade (DIT) of about 4-5 days.
+   - Best if market does not move too much.
+- exit with 10 % of profit (based on the debit paid for the trade)
+- exit 3-4 days before the expiration
+- Adjustments in case of big moves up or down are part of a seminar.
+
+
 The Rhino Trade
 ---------------
 
