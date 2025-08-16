@@ -486,6 +486,24 @@ Calendar Spreads
    - Put Calendars benefit from a volatility increase. Delta neutral. Theta positive. Vega positive (long vega).
 
 
+Diagonal spread from Dan Sheridan
+---------------------------------
+
+- <https://www.youtube.com/watch?v=-V1rSEghTfY>
+- entry for SPX (with low vola) an Friday at 3pm:
+   - -1 Call Delta-20 with 5 DTE
+   - +1 Call +10 points (from short call above) with 7 DTE
+   - -1 Put Delta-25 with 5 DTE
+   - +1 Put -10 points (from short put above) with 7 DTE
+- call side with less delta to give more room to the upside
+- exit
+   - Profit Target 100%
+   - if S/L (short/long) ratio below 0.05 (no premium left)
+   - short put: exit this leg above delta 65
+   - short call: exit this leg below delta -65
+- 4.6 average days in trade and 68.4% win percentage
+
+
 Time Flies Spread from Simon Black
 ----------------------------------
 

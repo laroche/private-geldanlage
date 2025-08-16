@@ -38,6 +38,9 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
 - Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden oder
   ausschüttende ETFs oder auch mal Teilverkäufen der ETFs/Aktien.
 - [Finanzbär: Alle ETF Steuertricks](https://www.youtube.com/watch?v=KwncLekWNqE)
+- Die Kapitalanlage kann man in ein Jahressumme benötigtes Geld, Anleihen für 2 bis 4 Jahre und eine
+  Aktienanlage aufteilen, um damit einen Aktienverkauf zu schlechten Zeiten zu vermeiden.
+  (Siehe dazu [Dr. Andreas Beck: Geld anlegen und davon leben](https://www.youtube.com/watch?v=gSdrTbUBHMc).)
 
 
 Noch mehr Informationen
