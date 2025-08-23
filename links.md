@@ -29,6 +29,7 @@ Link-Sammlung
    - [YouTube Finanztip](https://www.youtube.com/c/FinanztipDe/videos)
 - <https://www.finanzfluss.de/>
    - [YouTube Finanzfluss](https://www.youtube.com/c/Finanzfluss/videos)
+   - [Prof. Dr. Hartmut Walz: Finanzfluss](https://www.youtube.com/watch?v=6-NTL3Y_nBU)
 - <https://www.jay-medrow.com/>
    - [YouTube Jay Medrow](https://www.youtube.com/c/JayMedrow/videos)
 - <https://www.echtgeld.tv/>
