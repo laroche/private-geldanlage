@@ -443,6 +443,14 @@ Youtube "Steady Income Trading"
 - [Retired 1-2-1 Trade](https://www.youtube.com/watch?v=aPKmWFl_gm8)
 
 
+Naming of Butterflies
+---------------------
+
+- all call butterfly (debit trade) is done on bullish outlook
+- all put butterfly (debit trade) is done on bearish outlook
+- call/put butterfly is called an iron butterfly (credit trade)
+
+
 Broken Wing Butterfly (BWB)
 ---------------------------
 
@@ -553,6 +561,7 @@ Flyagonal from Steve Ganz
 - Always exit 3-4 days before the expiration.
 - Adjustments in case of big moves up or down are part of a seminar.
 - Adjustments often move the short strikes. Try to get about delta neutral.
+   - Adjustments: Rare; usually a simple roll of a short leg.
 
 
 The Rhino Trade
