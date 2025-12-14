@@ -170,6 +170,7 @@ Portfoliotheorie
 - [Notgroschen: 3 ETF-Learnings aus 50 Finanzsimulationen](https://www.youtube.com/watch?v=o2RFFCjlrvo)
 - [Notgroschen: Wie funktioniert Portfoliotheorie? Optimale Asset Allocation finden!](https://www.youtube.com/watch?v=Bsfa-49RYGc)
 - [Notgroschen: Wie viel Anleihen-ETF braucht dein Portfolio als Beimischung zu Aktien-ETF?](https://www.youtube.com/watch?v=xtewgXWJorQ)
+- [OptionsWelten: Mit diesen Portfolien hätte man seit 2005 den S&P 500 geschlagen](https://www.youtube.com/watch?v=Unh0wTIoIDU)
 
 
 Aktienanlage

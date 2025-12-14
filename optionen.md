@@ -49,6 +49,13 @@ Options-Schulungen
 - <https://earlyretirementnow.com/options/>
 
 
+Einführungs-Schulungen
+----------------------
+
+- [Prof. Dr. Arun Chaudhuri: Übersicht Optionshandel](https://www.vtad.de/wp-content/uploads/2022/11/Optionshandel_VTAD.pdf)
+- [Claudia Jankewitz: US-Optionen](https://www.vtad.de/wp-content/uploads/2018/06/Optionen_2015-02-12.pdf)
+
+
 Ron Bertino
 -----------
 
