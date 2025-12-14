@@ -118,6 +118,7 @@ Regeln der Kapitalertragsteuer
    - [YouTube: Suricate Trading: Nachschusspflicht einfach erklärt](https://www.youtube.com/watch?v=8zGYpGbUa8k)
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
+- Vorabpauschale: <https://www.finanzfluss.de/rechner/vorabpauschale-berechnen/>
 
 
 Wie wird die KAP berechnet?
@@ -222,6 +223,7 @@ aktuelle Rechtsprechung, BMF und Zusatzinfos
    - [Vorabpauschale 2022](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2022-01-07-basiszins-zum-3-januar-2022-zur-berechnung-der-vorabpauschale-gemaess-paragraf-18-absatz-4-InvStG.pdf?__blob=publicationFile&v=2): Basiszins ist -0,05 %, es wird keine Vorabpauschale erhoben
    - [Vorabpauschale 2023](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2023-01-04-basiszins-zur-berechnung-der-vorabpauschale-gemaess-paragraf-18-absatz-4-InvStG-basiszins-zum-2-januar-2023.pdf?__blob=publicationFile&v=1): Basiszins ist 2,55 %
    - Vorabpauschale 2024: Basiszins ist 2,29 %
+   - [Vorabpauschale 2025](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2025-01-10-basiszins-vorabpauschale-zum-2-1-2025.pdf?__blob=publicationFile&v=7): Basiszins ist 2,53 %
    - [Anwendungsfragen vom 2017-09-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-09-21-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-Januar-2018-geltenden-fassung-InvStG-2018.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-11-08](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-11-08-anwendungsfragen-zum-investmentsteuergesetz-in-der-am-1-januar-2018-geltenden-fassung-InvStG-2018-dringliche-fragen-der-DK-sowie-des-BVI.pdf?__blob=publicationFile&v=4)
    - [Anwendungsfragen vom 2017-12-21](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Investmentsteuer/2017-12-21-Anwendungsfragen-Investmentsteuergesetz-Dringliche-Fragen-BVI-DK.pdf?__blob=publicationFile&v=4)
