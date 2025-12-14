@@ -38,6 +38,7 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
 - Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden oder
   ausschüttende ETFs oder auch mal Teilverkäufen der ETFs/Aktien.
 - [Finanzbär: Alle ETF Steuertricks](https://www.youtube.com/watch?v=KwncLekWNqE)
+   - [Notgroschen: ETF-Steuertricks berechnet: Wie viel spart man wirklich?](https://www.youtube.com/watch?v=LJJqbyxN1Xs)
 - Die Kapitalanlage kann man in ein Jahressumme benötigtes Geld, Anleihen für 2 bis 4 Jahre und eine
   Aktienanlage aufteilen, um damit einen Aktienverkauf zu schlechten Zeiten zu vermeiden.
   (Siehe dazu [Dr. Andreas Beck: Geld anlegen und davon leben](https://www.youtube.com/watch?v=gSdrTbUBHMc).)
@@ -68,6 +69,7 @@ Noch mehr Informationen
       - [Finanzfluss: 72er-Regel](https://www.finanzfluss.de/geldanlage/72er-regel/)
       - [Wikipedia: 72er-Regel](https://de.wikipedia.org/wiki/72er-Regel)
       - [Youtube: Finanztip: Die wahre Natur des Zinseszinses](https://www.youtube.com/watch?v=ZMlQN7ZPY8s)
+      - [Notgroschen: Wann bist Du doppelt so reich wie heute?](https://www.youtube.com/watch?v=HI9x6s8BZNs)
       - Bei 10 % jährlichem Gewinn: Mit Zahlung der (jährlichen) Kapitalertragsteuern von 26,375 % auf den Gewinn und
         jährlicher Inflation von 3,325 % auf das Kapital:
          - ohne Steuern und ohne Inflation: (Preis-)Verdopplung nach 7 Jahren
@@ -99,6 +101,7 @@ Noch mehr Informationen
       - Vorsicht vor allem bei hoher Inflation, dann sollte man Ausgaben reduzieren und nach dem
         Inflationsausgleich für einen Kapitalerhalt schauen.
    - [Bill Bengen: What Everyone Gets Wrong About the 4% Rule](https://www.youtube.com/watch?v=gQqcKepuQdA)
+   - [Notgroschen: MSCI World: Wie sinnvoll ist die 4 % Regel wirklich?](https://www.youtube.com/watch?v=_-x5fl1p8fU)
    - <https://www.finanzfluss.de/rechner/finanzielle-freiheit/>
    - <https://geldhelden.org/die-4-entnahme-regel-dein-weg-in-die-finanzielle-freiheit/>
    - <https://frugalisten.de/die-4-prozent-regel-wie-viel-geld-brauchst-du-um-nicht-mehr-arbeiten-gehen-zu-muessen/>
@@ -160,8 +163,20 @@ eine vorher festgelegte Laufzeit Zinsen ausbezahlt.
 Der Anleihenmarkt ist größer als der Aktienmarkt.
 
 
+Portfoliotheorie
+================
+
+- Strategic Asset Allocation (SAA)
+- [Notgroschen: 3 ETF-Learnings aus 50 Finanzsimulationen](https://www.youtube.com/watch?v=o2RFFCjlrvo)
+- [Notgroschen: Wie funktioniert Portfoliotheorie? Optimale Asset Allocation finden!](https://www.youtube.com/watch?v=Bsfa-49RYGc)
+- [Notgroschen: Wie viel Anleihen-ETF braucht dein Portfolio als Beimischung zu Aktien-ETF?](https://www.youtube.com/watch?v=xtewgXWJorQ)
+
+
 Aktienanlage
 ============
+
+- Überblick über die Welt-ETFs: [xHeavenFinance: Die besten Welt-ETFs für 2026](https://www.youtube.com/watch?v=_vNWrr1Ck-w).
+- [Notgroschen: MSCI World: Wie wahrscheinlich sind 7 % wirklich?](https://www.youtube.com/watch?v=7aqlopTFWqc)
 
 
 FTSE All-World
@@ -243,7 +258,8 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
 MSCI World
 ----------
 
-[YouTube: Finanzfluss: MSCI World ETF im Vergleich](https://www.youtube.com/watch?v=ElkELpWP69c)
+- [YouTube: Finanzfluss: MSCI World ETF im Vergleich](https://www.youtube.com/watch?v=ElkELpWP69c)
+- [Notgroschen: MSCI World: Wie sinnvoll ist die 4 % Regel wirklich?](https://www.youtube.com/watch?v=_-x5fl1p8fU)
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen weltweit.
@@ -369,6 +385,7 @@ Ein recht neuer Aktienfonds von Dr. Andreas Beck mit einer Anlage in 8.800 Unter
 eingebauten Re-Balancing, das die Aktienquote bei einem Crash von den normalen 80 % Aktien auf 90 % bzw. 100 %
 Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
 
+- [Notgroschen: Wie gut ist das Global Portfolio One von Dr. Andreas Beck?](https://www.youtube.com/watch?v=aPB14s3u84Q)
 - Global Portfolio One, WKN:A2PT6U, ISIN:AT0000A2B4T3
    - Thesaurierend, TER 0,7 %, Fondsgröße 270 Millionen EUR (2022-05)
    - Auflagedatum 2019-11-13, ca. 8800 Unternehmen weltweit
@@ -462,6 +479,9 @@ machen:
 - Verkauf von überbewerteten Aktien (Sektorenrotation)
 - bei extremen Crash: gehebeltes Investieren auf Margin (Dies ist extrem gefährlich und eigentlich nie
   zu empfehlen!)
+
+- [Notgroschen: Wie sinnvoll ist eine Cashreserve für Crashs?](https://www.youtube.com/watch?v=jLtYqNVnpRE)
+- [Notgroschen: Was passiert, wenn du im Crash deinen Notgroschen in ETF investierst?](https://www.youtube.com/watch?v=ahYFlxr-U_U)
 
 
 UCITS

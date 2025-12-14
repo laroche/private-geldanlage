@@ -467,7 +467,9 @@ Naming of Butterflies
 
 - all call butterfly (debit trade) is done on bullish outlook
 - all put butterfly (debit trade) is done on bearish outlook
+   - best traded with low IV and only small expected move
 - call/put butterfly is called an iron butterfly (credit trade)
+   - best traded with high IV
 
 
 Broken Wing Butterfly (BWB)
