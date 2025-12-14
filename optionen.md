@@ -337,6 +337,25 @@ Murray Lindhout: 1-1-1
   put and sell two further away short puts for a small credit. This is then a 1-1-2 trade.
 
 
+Zoheb Noormohamed: 1-1-1
+------------------------
+
+- <https://www.youtube.com/watch?v=d3MDIGl7TjA>
+   - 45-60 DTE with monthly expirations (for better liquidity).
+   - Put Debit Spread as hedge. (Long option at Delta 30 and 5-10 width for the spread.)
+   - Short Put at least 20% away from current market price. (Around Delta 20.)
+   - $2 credit for the overall trade.
+   - Individual stocks with RSI oversold or overbought.
+- Close at 50 % max profit or roll at 21DTE (to next cycle).
+- Managing the trade:
+   - Close complete position and open a completely new position (rolloing down and out, possibly for a credit).
+      - Maybe change to no credit above the debit spread of the trade to allow maximum roll down of the trade.
+   - Close debit spread (with a profit) and use that to roll out the short put (down and out).
+     Now you have one short naked put open.
+   - Close the long leg of the debit spread and roll the two short puts down and out.
+     You will now have two naked short puts and higher risk and margin requirement.
+
+
 Slingshot Hedge (SH) von Luc van Hof
 ------------------------------------
 
