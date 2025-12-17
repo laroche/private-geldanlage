@@ -177,6 +177,7 @@ Aktienanlage
 ============
 
 - Überblick über die Welt-ETFs: [xHeavenFinance: Die besten Welt-ETFs für 2026](https://www.youtube.com/watch?v=_vNWrr1Ck-w).
+- [Angelo Colombo: The Best World ETF To Hold Forever (2026)](https://www.youtube.com/watch?v=TAY7jkmxVdg)
 - [Notgroschen: MSCI World: Wie wahrscheinlich sind 7 % wirklich?](https://www.youtube.com/watch?v=7aqlopTFWqc)
 
 
@@ -254,6 +255,7 @@ Die 10 größten Firmen haben einen Anteil von 17,19 %.
    - Auflagedatum 2011-10-21
    - [finanzen.net: MSCI ACWI](https://www.finanzen.net/etf/ishares-msci-acwi-etf-ie00b6r52259)
    - Nur in eine Auswahl aller Aktien (ca. 1645) wird tatsächlich investiert.
+- SPDR MSCI ACWI UCITS ETF, WKN:A1JJTC, ISIN:IE00B44Z5B48
 
 
 MSCI World
@@ -261,6 +263,9 @@ MSCI World
 
 - [YouTube: Finanzfluss: MSCI World ETF im Vergleich](https://www.youtube.com/watch?v=ElkELpWP69c)
 - [Notgroschen: MSCI World: Wie sinnvoll ist die 4 % Regel wirklich?](https://www.youtube.com/watch?v=_-x5fl1p8fU)
+- [trackingdifferences:MSCI-World](https://www.trackingdifferences.com/ETF/Index/MSCI%20World%20Index)
+- [MSCI World](https://www.justetf.com/de/how-to/msci-world-etfs.html)
+- [Finanzfluss MSCI-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20World)
 
 Gewichtung erfolgt nach der Marktkapitalisierung.
 1.539 Unternehmen weltweit.
@@ -268,25 +273,15 @@ Bei der Ländergewichtung ist man zu 67 % in die USA investiert. Nur Industriel�
 Die 10 größten Firmen sind Apple, Microsoft, Amazon, Tesla, Alphabet A und C, Nvidia, Meta Platforms, JP Morgan und Home Depot.
 Die 10 größten Firmen haben einen Anteil von 19,81 %.
 
-- [Finanzfluss MSCI-World ETFs](https://www.finanzfluss.de/informer/etf/suche/?base_index=MSCI%20World)
+- [HSBC MSCI World UCITS ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00B4X9L533)
 - iShares Core MSCI World, WKN:A0RPWH, ISIN:IE00B4L5Y983, Symbol:EUNL
    - Thesaurierend, Replikationsart: physisch optimiert, TER 0,20 %, [TD 0,08 %](https://www.trackingdifferences.com/ETF/ISIN/IE00B4L5Y983)
    - Fondsgröße 41.603 Millionen (2022-06), Fondswährung USD
    - Auflagedatum 2009-09-25
    - [finanzen.net: iShares Core MSCI World](https://www.finanzen.net/etf/ishares-core-msci-world-etf-ie00b4l5y983)
-- Lyxor Core MSCI World (DR) UCITS ETF, WKN:LYX0YD, ISIN:LU1781541179
-   - Thesaurierend, Replikationsart: physisch optimiert, TER 0,12 %, [TD 0,03 %](https://www.trackingdifferences.com/ETF/ISIN/LU1781541179)
-   - Fondsgröße 1.814 Millionen (2022-06), Fondswährung USD
-   - Auflagedatum 2018-02-28
-   - [finanzen.net: Lyxor Core MSCI World (DR)](https://www.finanzen.net/etf/lyxor-core-msci-world-dr-etf-lu1781541179)
-- Lyxor MSCI World (LUX) UCITS ETF, WKN:ETF110, ISIN:LU0392494562
-   - Ausschüttend, Replikationsart: synthetisch, TER 0,20 %, [TD 0,01 %](https://www.trackingdifferences.com/ETF/ISIN/LU0392494562)
-   - Fondsgröße 3.172 Millionen (2022-06), Fondswährung USD
-   - Auflagedatum 2008-11-27
-   - [finanzen.net: Lyxor MSCI World (LUX)](https://www.finanzen.net/etf/lyxor-msci-world-lux-etf-lu0392494562)
 - SPDR MSCI World, WKN:A2N6CW, ISIN:IE00BFY0GT14, Symbol:SPPW [TD -0,05 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BFY0GT14)
 - Xtrackers MSCI World, WKN:DBX1MW, ISIN:LU0274208692, Symbol:DBXW [TD 0,10 %](https://www.trackingdifferences.com/ETF/ISIN/LU0274208692)
-- Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, Symbol:VGVE, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
+- as an alternative: Vanguard FTSE Developed World, WKN:A12CX1, ISIN:IE00BKX55T58, Symbol:VGVE, [TD -0,09 %](https://www.trackingdifferences.com/ETF/ISIN/IE00BKX55T58)
 
 
 Welt AG mit 3 ETFs
