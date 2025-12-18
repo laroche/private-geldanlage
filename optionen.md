@@ -630,6 +630,21 @@ Geld Leihen mit Optionen
 - [Christian Czirnich: So vermeiden Sie Währungsrisiken beim Handel mit US-Optionen](https://www.youtube.com/watch?v=CCtg8i-FEb4)
 
 
+0DTE
+----
+
+- [Tammy Chambless, Dale Perryman, and Mark Anderson: 0DTE](https://www.youtube.com/watch?v=MaNYhyjQ30E)
+- Tammy Chambless
+   - [0DTE Iron Condor](https://www.youtube.com/watch?v=o-CmLEeiaoU)
+   - [0DTE for beginners](https://www.youtube.com/watch?v=1YLglos6Ru8)
+   - [MEIC](https://www.youtube.com/watch?v=GWaEIzJa-0Y)
+- Mark Anderson
+   - <https://www.youtube.com/@zerodaymark/videos>
+   - [Hedging](https://www.youtube.com/watch?v=8tsYqqQlnJE)
+   - [0DTE](https://www.youtube.com/watch?v=i_HSTzdVXdc)
+- [David Berndsen: 0DTE Iron Condor](https://www.youtube.com/watch?v=BwWh9cPYZdY)
+
+
 Automatischer Handel und Backtests mit Optionen
 -----------------------------------------------
 
