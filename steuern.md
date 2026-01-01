@@ -118,7 +118,9 @@ Regeln der Kapitalertragsteuer
    - [YouTube: Suricate Trading: Nachschusspflicht einfach erklärt](https://www.youtube.com/watch?v=8zGYpGbUa8k)
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
   oder Vortrag in die Folgejahre.
-- Vorabpauschale: <https://www.finanzfluss.de/rechner/vorabpauschale-berechnen/>
+- Vorabpauschale:
+   - <https://www.finanzfluss.de/rechner/vorabpauschale-berechnen/>
+   - <https://www.test.de/vorabpauschale-rechner-6123332-0/>
 
 
 Wie wird die KAP berechnet?

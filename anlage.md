@@ -24,9 +24,9 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
      zu finden.
    - Der MSCI World hat gegenüber dem FTSE All-World mehr Fokus auf die USA und daher in der Vergangenheit
      eine höhere Performance gehabt. Dafür weniger Diversifikation weltweit.
-   - Der MSCI World wird in Deutschland am meisten gekauft: [finanzfluss: Die beliebtesten ETFs in Deutschland](https://www.finanzfluss.de/blog/die-beliebtesten-etfs/)
 - Als günstigen Neo-Broker in Deutschland empfehle ich [Scalable Capital](https://de.scalable.capital/).
   Auch [Trade Republic](https://traderepublic.com/) ist eine gute Alternative.
+   - [Flatex](https://flatex.de/) bietet gute Konditionen als Online-Broker.
    - Ansonsten sind [ING](https://www.ing.de/sparen-anlegen/direkt-depot/) oder [Consors](https://www.consorsbank.de/)
      beliebte Online-Broker.
    - Ein guter Vergleich der Broker: <https://www.finanzfluss.de/vergleich/depot/>
@@ -35,12 +35,12 @@ aneignet, sollte man immer wieder prüfen, ob die einfachen Regeln nicht viel be
   Geldsumme anlegt. Wenn man bei hohen Aktienkursen bis zu 20 % von der Aktienanlagesumme als Cash oder Gold oder
   sichere (kurzlaufende) Anleihe anlegt, kann man bei einem Rücksetzer von 20 % am Aktienmarkt dieses Geld
   in den Aktienmarkt umschichten.
-- Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden oder
-  ausschüttende ETFs oder auch mal Teilverkäufen der ETFs/Aktien.
+- Den Sparerfreibetrag von 1000 Euro pro Jahr sollte man möglichst komplett ausschöpfen. Über Dividenden der
+  ausschüttende ETFs, Vorabpauschale oder auch mal Teilverkäufen der ETFs/Aktien.
 - [Finanzbär: Alle ETF Steuertricks](https://www.youtube.com/watch?v=KwncLekWNqE)
    - [Notgroschen: ETF-Steuertricks berechnet: Wie viel spart man wirklich?](https://www.youtube.com/watch?v=LJJqbyxN1Xs)
-- Die Kapitalanlage kann man in ein Jahressumme benötigtes Geld, Anleihen für 2 bis 4 Jahre und eine
-  Aktienanlage aufteilen, um damit einen Aktienverkauf zu schlechten Zeiten zu vermeiden.
+- Die Kapitalanlage kann man in 3 Anlagetöpfe aufteilen, um damit einen Aktienverkauf zu schlechten Zeiten zu vermeiden:
+  eine Jahressumme benötigtes Geld, Anleihen für 2 bis 4 Jahre und eine Aktienanlage.
   (Siehe dazu [Dr. Andreas Beck: Geld anlegen und davon leben](https://www.youtube.com/watch?v=gSdrTbUBHMc).)
 
 
@@ -48,8 +48,8 @@ Noch mehr Informationen
 -----------------------
 
 - [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
-- [DAX Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
-   - [MSCI-World Renditedreieck von Christian W. Röhl](https://www.dividendenadel.de/msci-world-renditedreieck/)
+- [Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
+   - [MSCI-World Renditedreieck von Christian W. Röhl](https://de.scalable.capital/cwr-cash-wealth-returns/msci-world-renditedreieck   https://www.dividendenadel.de/msci-world-renditedreieck/)
    - [MSCI-World über viele Jahre angelegt](https://blog.trackingdifferences.com/wie-schlimm-kann-es-werden/)
 - [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
@@ -163,10 +163,10 @@ eine vorher festgelegte Laufzeit Zinsen ausbezahlt.
 Der Anleihenmarkt ist größer als der Aktienmarkt.
 
 
-Portfoliotheorie
+Asset Allocation
 ================
 
-- Strategic Asset Allocation (SAA)
+- (Strategic) Asset Allocation (SAA/AA)
 - [Notgroschen: 3 ETF-Learnings aus 50 Finanzsimulationen](https://www.youtube.com/watch?v=o2RFFCjlrvo)
 - [Notgroschen: Wie funktioniert Portfoliotheorie? Optimale Asset Allocation finden!](https://www.youtube.com/watch?v=Bsfa-49RYGc)
 - [Notgroschen: Wie viel Anleihen-ETF braucht dein Portfolio als Beimischung zu Aktien-ETF?](https://www.youtube.com/watch?v=xtewgXWJorQ)

@@ -637,7 +637,7 @@ Geld Leihen mit Optionen
 - Tammy Chambless
    - [0DTE Iron Condor](https://www.youtube.com/watch?v=o-CmLEeiaoU)
    - [0DTE for beginners](https://www.youtube.com/watch?v=1YLglos6Ru8)
-   - [MEIC](https://www.youtube.com/watch?v=GWaEIzJa-0Y)
+   - [MEIC Multiple Entry Iron Condors](https://www.youtube.com/watch?v=GWaEIzJa-0Y)
 - Mark Anderson
    - <https://www.youtube.com/@zerodaymark/videos>
    - [Hedging](https://www.youtube.com/watch?v=8tsYqqQlnJE)
