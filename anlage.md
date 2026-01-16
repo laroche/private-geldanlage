@@ -48,6 +48,7 @@ Noch mehr Informationen
 -----------------------
 
 - [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
+- [Ben Carlson: Historical Returns For Stocks, Bonds, Cash, Housing & Gold (2025)](https://awealthofcommonsense.com/2026/01/historical-returns-for-stocks-bonds-cash-housing-gold-2025/)
 - [Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
    - [MSCI-World Renditedreieck von Christian W. Röhl](https://de.scalable.capital/cwr-cash-wealth-returns/msci-world-renditedreieck   https://www.dividendenadel.de/msci-world-renditedreieck/)
    - [MSCI-World über viele Jahre angelegt](https://blog.trackingdifferences.com/wie-schlimm-kann-es-werden/)
@@ -385,9 +386,7 @@ Aktienquote erhöht. Dies muss der Anleger damit nicht selber übernehmen.
 - Global Portfolio One, WKN:A2PT6U, ISIN:AT0000A2B4T3
    - Thesaurierend, TER 0,7 %, Fondsgröße 270 Millionen EUR (2022-05)
    - Auflagedatum 2019-11-13, ca. 8800 Unternehmen weltweit
-   - <https://globalportfolio-one.com/gpo/> (inklusive genauer Auflistung aller Produkte in diesem Fonds, vielleicht
-     will man ja nur Teile davon bei sich als Idee im Portfolio aufnehmen/nachhandeln.)
-      - anstelle von Cash werden z.B. Schweizer Staatsanleihen gehalten
+   - <https://globalportfolio-one.com/>
 
 
 ARERO Weltfond

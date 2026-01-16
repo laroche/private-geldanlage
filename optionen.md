@@ -363,6 +363,20 @@ Zoheb Noormohamed: 1-1-1
      You will now have two naked short puts and higher risk and margin requirement.
 
 
+Karl Domm: 122 Crash-Proof Structure (PL5 Pro)
+----------------------------------------------
+
+- <https://www.youtube.com/watch?v=YCFgBNJyzqk>
+- Modified hedged Broken Wing Butterfly, designed to neutralize Gamma risk.
+- Flat upper line. No negative drag when market rallies higher.
+- Long downside runway. Extra long puts create positive gamma in crashes.
+- Enter rules:
+   - 100-150 DTE
+   - Buy 1 Long Put at -30 Delta
+   - Sell 2 Short Puts at -18 Delta
+   - Buy 2 Long Puts at -3 Delta
+
+
 Slingshot Hedge (SH) von Luc van Hof
 ------------------------------------
 
@@ -590,6 +604,9 @@ Flyagonal from Steve Ganz
 - Adjustments in case of big moves up or down are part of a seminar.
 - Adjustments often move the short strikes. Try to get about delta neutral.
    - Adjustments: Rare; usually a simple roll of a short leg.
+
+Review of this trade:
+- [Karl Domm: Flyagonal Strategy](https://www.youtube.com/watch?v=Bv50uf9sJ-Y)
 
 
 The Rhino Trade
