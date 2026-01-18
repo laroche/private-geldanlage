@@ -540,6 +540,7 @@ Zur Info/Nachlesen:
    - SPDR Bloomberg 1-3 Month T-Bill ETF, WKN:A2JSLW, ISIN:US78468R6633, Symbol:VJZS (BIL bei IB)
    - SPDR Bloomberg 1-3 Month T-Bill UCITS ETF, WKN:A2PM4Q, ISIN:IE00BJXRT698, Symbol:ZPR1
    - iShares 0-3 Month Treasury Bond ETF, WKN:A40DL3, ISIN:IE000SSFEUS3, Symbol:SGOV
+   - iShares Short-Term Treasury ETF, Symbol:SHV
    - WisdomTree Floating Rate Treasury Fund, WKN:A2PHF9, ISIN:IE00BJFN5P63, Symbol:USFR
    - BondBloxx Bloomberg Six Month Target Duration US Treasury ETF, Symbol:XHLF
    - iShares $ Treasury Bond 0-1 yr ETF, WKN:A2PBNP, ISIN:IE00BGSF1X88

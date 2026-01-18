@@ -65,6 +65,7 @@ Ron Bertino
    - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics (PMTT)](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
 - <https://www.elitetrader.com/et/>
 - <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
+- <https://www.youtube.com/watch?v=9Jq3I91wNG4>
 
 
 Optionen bei tastyworks
