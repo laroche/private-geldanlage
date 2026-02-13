@@ -545,6 +545,7 @@ Zur Info/Nachlesen:
    - BondBloxx Bloomberg Six Month Target Duration US Treasury ETF, Symbol:XHLF
    - iShares $ Treasury Bond 0-1 yr ETF, WKN:A2PBNP, ISIN:IE00BGSF1X88
    - iShares 1-3 Year Treasury Bond ETF, WKN:750779, ISIN:US4642874576, Symbol:3ISC (SHY bei IB)
+   - Schwab (like SHY, less expenses), Symbol: (SCHO bei IB)
    - iShares 20+ Year Treasury Bond ETF, WKN:357957, ISIN:US4642874329, Symbol:3ISE (TLT bei IB)
 - Overnight Return
    - Wie ist das Ausfallrisiko von Swappern? Sind nicht deutsche Staatsanleihen besser?
@@ -558,6 +559,7 @@ Zur Info/Nachlesen:
       - Dieser ETF bildet den Solactive Euro Overnight Return Index nach. Der Index repliziert den €STR + 0,085%
    - LYXOR ETF EURO Cash EuroMTS EONIA Investable ETF
 - (kurzlaufende) Unternehmensanleihen in Euro:
+   - GSY: blend of government and corportate bonds with maturity under 1 year (average of 7 months)
    - [SPDR Barclays 0-3 Year Euro Corporate Bond ETF](https://www.justetf.com/de/etf-profile.html?isin=IE00BC7GZW19)
       - WKN:A1W3V1, ISIN:IE00BC7GZW19, Symbol:SYBD
    - [iShares EUR Ultrashort Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00BCRY6557)

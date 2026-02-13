@@ -63,6 +63,7 @@ Ron Bertino
    - <https://www.youtube.com/@TradingDominion/videos>
    - Black Swan Hedge (BSH) oder [Space Trip Trade (STT)](https://www.youtube.com/watch?v=LsUyvdS8J9w) von Ron Bertino
    - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics (PMTT)](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
+   - [RonBertino: Pre-Earnings Straddles and Strangles](https://www.youtube.com/watch?v=QfQOvajG2Dk)
 - <https://www.elitetrader.com/et/>
 - <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
 - <https://www.youtube.com/watch?v=9Jq3I91wNG4>
@@ -508,13 +509,20 @@ Naming of option spreads
 - vertical, horizontal (calendar) and diagonal spreads:
    - Spreads with the same expiration date and different strike prices are called vertical spreads.
    - Spreads with the same strik price, but different expiration dates are called horizontal spreads.
-      - Horizontal spreads are also called calendar spreads.
+      - Horizontal spreads are also called calendar spreads or time spreads.
+      - Calendar spreads are neutral - they work best when the underlying stays near a specific price.
+      - Calendars are entered for a net debit as buying the longer-term option costs more than selling
+        the shorter-term option at the same strike.
    - Spreads with differnet strike prices and different expiration dates are called diagonal spreads.
+      - Diagonal spreads track directional price movement.
+      - Diagonal spreads are directional - they add delta exposure, allowing you to express a bullish or
+        bearish view while still benefiting from time decay.
 - credit and debit spreads:
    - Spreads that pay you money on entry are called credit spreads.
    - Spreads that cost you money on entry are called debit spreads.
 - A double calendar is a combination of a bearish put calendar (e.g. delta 20) and a bullish call
   calendar (e.g. delta 15). Take profit with 8 to 10 % profit on the paid premium.
+- [Nichol Hermel: LEAPS, Calendar Spreads & Diagonals Explained](https://www.youtube.com/watch?v=GKRUWN3bras)
 
 
 Calendar Spreads
