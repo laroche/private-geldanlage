@@ -462,6 +462,53 @@ Tony is Trading
      And it reduces upside potential. Or just sell another short call.
 
 
+Tony Rihan's 4 Hedging Strategies for a Falling Market
+------------------------------------------------------
+
+- [Tony Rihan: SPY Put in Trouble? Tony Rihan's 4 Hedging Strategies for a Falling Market](https://www.youtube.com/watch?v=6lCkqptYG4I)
+- 2026-03.30: SPY at 637
+- Short put in trouble: -1 SPY Put 650 May, sold for $10
+   - So breakeven is at SPY 640.
+   - Start new reparation/hedge trade.
+      - BWB without downside long leg:
+      - +1 Put 655 for $31,72
+      - -1 Put 635 for $22
+      - -1 Put 588 for $10,36 (to cover expenses)
+      - This is a 1-1-1 trade. In high-vol days this should be traded instead of a 1-2-0.
+         - One long and two shorts.
+      - This trade has a small credit (breakeven). It has no risk to the upside.
+      - Additional downside risk by adding one unit of SPY.
+      - Overall breakeven is now at about SPY 600.
+- Prevent margin call hedge:
+   - Buy deep in the money (ITM) put: +1 SPY Put 680 (or 670).
+   - Hope for a bounce up in the market. Costs quite some money.
+   - Also close other winners to reduce margin requirements.
+   - Sell calls against other long positions in the portfolio.
+- New trade:
+   - -1 Call 600 for $53 (-> So $16 extrinsic value with market at 637).
+   - +1 Call 657 for $16
+   - If market goes down, earn $37.
+   - Together with the -1 SPY Put 650, this is a 1-1-1 trade.
+- A 650/660 call spread is only $5, so does not help.
+- ATM 7-DTE (short-term hedge trade)
+   - -1 Put ATM
+   - +2 Put 10 points lower (627)
+   - Overall trade +-0/breakeven. Long vega trade with good downside protection.
+   - Valley of death if market does not move down or up.
+- Long-term hedge trade
+   - Dec -1 Call 540 has $29 extrinsic value.
+      - 540 if we expect the market could drop to this strike.
+   - So buy $29 call -> SPY 685.
+   - Sell further call if we rally up (e.g. 740).
+      - No loss until 685.
+   - Sell shorter dated calls against this. Maybe aggressively sell two short calls against this one long call.
+- New trade:
+   - -1 Call 580
+      - Sell short puts with less DTE against this.
+   - +1 Call 600
+   - Sell short puts against this with shorter DTE (monthly expirey).
+
+
 Youtube "Steady Income Trading"
 -------------------------------
 
