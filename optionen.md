@@ -615,15 +615,19 @@ Time Flies Spread from Simon Black
 
 - <https://www.plenitudetrading.com/>
 - [Simon Black: Time Flies Spread](https://www.youtube.com/watch?v=nzx4yWbzs-I)
+- [Simon Black: Time Flies option strategy](https://www.youtube.com/watch?v=319lHEiewRY)
 - <https://www.thetaprofits.com/the-time-flies-spread-a-smarter-way-to-trade-theta/>
-- Theta decay with a delta neutral setup with a weekly trade.
-- Enter on thursday until friday of next week. (8 DTE.)
+- Theta decay with a delta neutral setup with a weekly trade. RUT is favourite underlying.
+- Enter on thursday until friday of next week. (8 DTE. 7DTE should be minimum, longer DTE should be fine.)
    - Profit taken often monday/tuesday of next week.
 - Diagonal put spread below the price and a call-BWB above. Defined risk trade.
+   - The short put of the diagonal spread also has the shorter expiration date and
+     the BWB has the same expiration date as the short put of the diagonal spread.
+   - Overall trade should have less risk to the upside.
 - Example 1:
    - RUT at 1956 at 2025-04-27.
    - 4d/8d calendar put spread (50 points below market): -1 put 1900 2025-05-01 and +1 put 1900 2025-05-05.
-      - Positive vega. If marjet drops, volatility will go up and the profit tent will widen.
+      - Positive vega. If market drops, volatility will go up and the profit tent will widen.
    - 4d Call-BWB with +1 call 2000, -2 call 2015, +1 call 2030 2025-05-01. (regular call butterfly in example.)
 - Example 2:
    - SPX at about 5525.
@@ -631,6 +635,16 @@ Time Flies Spread from Simon Black
    - +1 call 5620, -2 call 5650, +1 call 5690 2025-05-02.
 - Exit with 10 % profit on the buying power used (or max loss).
 - Exit 24h before it expires.
+- Example 3: (second youtube video)
+   - RUT at 2861 at 2026-05-15.
+   - 7d/11d: -1 put 2785 2026-05-22 and +1 put 2775 2026-05-26
+   - (Or instead: 7d/11d: -1 put 2815 2026-05-22 and +1 put 2805 2026-05-26.)
+   - +1 call 2915, -2 call 2935, +1 call 2960/2965 2026-05-22.
+- If market moves down too much, add another diagonal put spread further down.
+  (Which will add an upside risk to loose money.)
+   - An adjustment is usually done only to exit a trade soon with a smaller loss.
+- If market moves up a lot, consider closing with a small loss. Otherwise add
+  a call calendar.
 
 
 Flyagonal from Steve Ganz
