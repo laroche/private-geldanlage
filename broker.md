@@ -21,6 +21,7 @@ Neo-Broker:
    - [YouTube: Erik Podzuweit bei Aktien mit Kopf](https://www.youtube.com/watch?v=BjQZk403Itw)
    - handelbare Börsenplätze: Gettex (an der Börse München), Xetra
    - Backend von der Baader Bank und in Zukunft eigene Banklizenz
+   - <https://github.com/ScalableCapital/scalable-cli>
 - <https://traderepublic.com/>
    - handelbare Börsenplätze: L&S Exchange (Lang und Schwarz an der Börse Hamburg)
    - Solaris Bank (?)

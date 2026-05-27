@@ -613,7 +613,7 @@ Diagonal spread from Dan Sheridan
 Time Flies Spread from Simon Black
 ----------------------------------
 
-- <https://www.plenitudetrading.com/>
+- <https://www.plenitudetrading.com/TimeFliesSpreadResults/2026>
 - [Simon Black: Time Flies Spread](https://www.youtube.com/watch?v=nzx4yWbzs-I)
 - [Simon Black: Time Flies option strategy](https://www.youtube.com/watch?v=319lHEiewRY)
 - <https://www.thetaprofits.com/the-time-flies-spread-a-smarter-way-to-trade-theta/>
