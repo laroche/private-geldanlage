@@ -725,11 +725,42 @@ Geld Leihen mit Optionen
    - [0DTE Iron Condor](https://www.youtube.com/watch?v=o-CmLEeiaoU)
    - [0DTE for beginners](https://www.youtube.com/watch?v=1YLglos6Ru8)
    - [MEIC Multiple Entry Iron Condors](https://www.youtube.com/watch?v=GWaEIzJa-0Y)
+   - [SPX 0DTE Iron Condors](https://www.youtube.com/watch?v=RW6d-4KKw0A)
 - Mark Anderson
    - <https://www.youtube.com/@zerodaymark/videos>
    - [Hedging](https://www.youtube.com/watch?v=8tsYqqQlnJE)
    - [0DTE](https://www.youtube.com/watch?v=i_HSTzdVXdc)
 - [David Berndsen: 0DTE Iron Condor](https://www.youtube.com/watch?v=BwWh9cPYZdY)
+
+
+Boomer Dan's Burrito Butterfly
+------------------------------
+
+- Dan Westbrook
+   - <https://www.boomertrade.com/>
+   - <https://www.youtube.com/@BoomerDan/videos>
+- <https://www.youtube.com/watch?v=KuQdL4-1IcM>
+- <https://www.youtube.com/watch?v=uz2-uiII1G4>
+- opening trade:
+   - use european style cash-settled underlying like SPX or XSP (good for training/testing)
+   - ATM Butterfly with 15 points wide wings, DTE 2-3 (beste < 14 DTE)
+   - If we expect the market to move up, we open a 5-point vertical at the upper strike.
+     (Same on lower strike if we expect market to drop.)
+   - example:
+      - ATM Call Butterfly: +1 Call 7505, -2 Call 7520, +1 Call 7535 opened for $0.75 debit
+      - Bullish Case: Call Vertical at upper long: +1 Call 7535, -1 Call 7540 opened for $2.30 debit
+      - Bearish Case: Put Vertical at lower long: +1 Put 7505, -1 Put 7500 opened for $1.95 debit
+- Trade exit
+   - Exit with 5-10% profit (or more) or add another vertical also to the other side of the BWB.
+   - Also exit with 5-10% stop loss on a loosing position.
+
+
+Boomer Dan’s Levitation trades
+------------------------------
+
+- <https://www.youtube.com/watch?v=DHViE1YZ710>
+- <https://www.youtube.com/watch?v=KF9O5lW5jPA>
+- <https://www.youtube.com/watch?v=g91BqAQf3tk>
 
 
 Automatischer Handel und Backtests mit Optionen
