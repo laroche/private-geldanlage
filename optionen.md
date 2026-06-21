@@ -610,6 +610,22 @@ Diagonal spread from Dan Sheridan
 - 4.6 average days in trade and 68.4% win percentage
 
 
+Double Diagonal from Conservative Options Strategies
+----------------------------------------------------
+
+- <https://www.youtube.com/watch?v=goKSTTpnLVg>
+- SPX or SPY
+- entry:
+   - long options: 45-60 DTE, buy 35 delta call and put
+   - short options: 7 DTE, sell 12-15 delta call and put
+- management:
+   - close shorts at 70%-80% profit
+   - replace longs around 25-30 DTE
+   - roll challanged side at 25-30 delta
+- target:
+   - 3-6% monthly return on capital in normal markets
+
+
 Time Flies Spread from Simon Black
 ----------------------------------
 
