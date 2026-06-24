@@ -215,6 +215,7 @@ Eines der folgenden beiden Produkte auswählen (sind bis auf die Ausschüttung d
    - Fondsgröße 4 Millionen (2023-07), Fondswährung USD
    - Auflagedatum 2023-06-26
    - [finanzen.net: Invesco FTSE-All-World ausschüttend](https://www.finanzen.net/etf/vanguard-ftse-all-world-etf-ie000716yhj7)
+- Xtrackers FTSE All World ETF 1C, WKN:, ISIN:IE000L6ZMMC4
 
 
 MSCI
