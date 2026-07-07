@@ -113,6 +113,7 @@ Auswertung, Trading Log und Backtest
 - <https://investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/>
 - <https://fyoumoney.de/diy-portfolio-uebersicht-in-google-sheets/>
 - <https://www.portfoliovisualizer.com/>
+- <https://testfol.io/>
 - <https://visualtradingjournal.com/>
 - [extraETF: FinanzManager](https://de.extraetf.com/user/portfolio)
 - <https://finary.com/>
