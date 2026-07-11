@@ -369,7 +369,9 @@ Karl Domm: 122 Crash-Proof Structure (PL5 Pro)
 ----------------------------------------------
 
 - <https://www.youtube.com/watch?v=YCFgBNJyzqk>
+- <https://www.youtube.com/watch?v=GVG9N9hnewY>
 - Modified hedged Broken Wing Butterfly, designed to neutralize Gamma risk.
+   - Gamma near zero and also delta near zero.
 - Flat upper line. No negative drag when market rallies higher.
 - Long downside runway. Extra long puts create positive gamma in crashes.
 - Enter rules:
