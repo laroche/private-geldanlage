@@ -96,24 +96,34 @@ Regeln der Kapitalertragsteuer
    - Jede Option wird einzeln abgerechnet, es gibt keine gemeinsame Berechnung für komplexe Optionsstrategien.
    - Bei Stillhaltergeschäften wird die eingenommene Prämie sofort besteuert. (Short Call und Short Put.) (§ 20 Abs. 1 Nr. 11 EStG)
       - Wird bei Stillhaltergeschäften am Ende ein [Barausgleich](https://de.wikipedia.org/wiki/Barausgleich) ("cash settlement")
-        gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft und fällt damit auch unter
-        die Verlustverrechnungsgrenze von Termingeschäften.
+        gezahlt (meistens bei Indexoptionen), so ist dieser Barausgleich ein Termingeschäft und teilt deren
+        steuerliche Behandlung (zur inzwischen aufgehobenen Verlustverrechnungsgrenze siehe unten).
       - Für die Einkünfte aus Stillhalterprämien müssen die Glattstellungskosten im Jahr des Zuflusses der Stillhalterprämien
         berücksichtigt werden und nicht in dem Zeitpunkt, in dem sie aufgewendet wurden (BFH-Urteil vom 02. August 2022, VIII R 27/21):
         <https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210176/>
    - Bei Long-Optionen wird wie bei Aktien beim Verkauf der Gewinn/Verlust nach FIFO berechnet. (§ 20 Abs. 2 Satz 1 Nr. 3a EStG.)
-     Diese gelten als Termingeschäfte und fallen unter die Verlustverrechnungsgrenze von 20.000 Euro pro Jahr.
+     Diese gelten als Termingeschäfte; die frühere Verlustverrechnungsgrenze von 20.000 Euro pro Jahr
+     ist durch das JStG 2024 rückwirkend für alle noch offenen Fälle entfallen (siehe unten).
    - Wird eine Long-Option angedient, wird der Kaufpreis der Option zum Anschaffungspreis vom Underlying/Basiswert hinzugerechnet.
 - Optionsscheine, CFDs, Crypto, physisches Gold/Silber
    - hier nicht weiter betrachtet
    - <https://www.gold.de/steuern-edelmetalle/> und <https://eichhorn-coaching.de/steuerfrei-in-xetra-gold-investieren/>
    - Besteuerung von Kryptowährungen: <https://pekuna.de/>
-- Wertlose Wirtschaftsgüter dürfen nur iHv 20.000 Euro mit anderen Kapitalerträgen verrechnet werden. (Z25 in der KAP)
-- Alle Verluste mit Termingeschäften dürfen pro Jahr und pro Person nur bis zu 20.000 Euro angerechnet werden (§ 20 Abs. 6 Satz 5 EStG ab 2021),
-  der Rest wird vorgetragen. (Verlustverrechnungsbeschränkung von Termingeschäften. Termingeschäfte sind u.a. Futures,
-  Long-Optionen, CFDs und ein Barausgleich bei Stillhaltergeschäften.)
-   - Verluste bei Termingeschäften bilden einen eigenen Verlustverrechnungstopf, nur Gewinne aus Stillhaltergeschäften
-     dürfen damit verrechnet werden.
+- Die Beschränkung für wertlos gewordene Wirtschaftsgüter und Forderungsausfälle (§ 20 Abs. 6 Satz 6 EStG a.F.,
+  ab 2020: nur iHv 20.000 Euro verrechenbar; Z25 in der KAP bis 2024) wurde durch das JStG 2024 aufgehoben,
+  anwendbar in allen noch offenen Fällen (§ 52 Abs. 28 Satz 26 EStG).
+- Die Verlustverrechnungsbeschränkung von Termingeschäften (§ 20 Abs. 6 Satz 5 EStG a.F., ab 2021: Verrechnung
+  nur bis 20.000 Euro pro Jahr und Person und nur mit Gewinnen aus Termingeschäften und mit Stillhalterprämien)
+  wurde durch das Jahressteuergesetz 2024 ersatzlos aufgehoben (Gesetz vom 02.12.2024, BGBl. 2024 I Nr. 387).
+  Die Aufhebung gilt in allen noch offenen Fällen (§ 52 Abs. 28 Satz 25 EStG), also nicht erst ab 2024, sondern
+  auch für 2021 bis 2023, soweit der Bescheid noch nicht bestandskräftig ist; bestandskräftige Bescheide bleiben
+  unverändert. (Termingeschäfte sind u.a. Futures, Long-Optionen, CFDs und ein Barausgleich bei
+  Stillhaltergeschäften.)
+   - Damit entfällt auch der eigene Verlustverrechnungstopf: Verluste aus Termingeschäften sind wieder mit allen
+     Einkünften aus Kapitalvermögen verrechenbar. Der allgemeine Verrechnungskreis des § 20 Abs. 6 Satz 1 EStG
+     bleibt bestehen, und Aktienveräußerungsverluste behalten ihren eigenen Topf (§ 20 Abs. 6 Satz 4 EStG).
+   - Hintergrund der Aufhebung: BFH, Beschluss vom 07.06.2024, VIII B 113/23 (ernstliche verfassungsrechtliche
+     Zweifel); der Beschluss ist unten im Abschnitt "Verlustverrechnungsbeschränkung von Optionen" verlinkt.
 - Verbot von Futures ab 2023: <https://www.finanzen.net/nachricht/aktien/allgemeinverfuegung-bafin-einschraenkung-des-futures-handel-fuer-kleinanleger-ab-2023-11758139>
    - [YouTube: Suricate Trading: Nachschusspflicht einfach erklärt](https://www.youtube.com/watch?v=8zGYpGbUa8k)
 - Sonstige Verluste aus Kapitalerträgen dürfen mit allen weiteren Gewinnen aus Kapitalerträgen verrechnet werden
@@ -258,6 +268,11 @@ Verlustverrechnungsbeschränkung von Optionen
 - [P. Houso: Bindingsteuer Demokratische Republik: How the SPD is (probably) striving for the DDR 2.0](https://www.amazon.de/dp/B0CSQG5RKM)
 - Bundesfinanzhof BFH: [Verfassungsmäßigkeit der Verlustverrechnungsbeschränkung für Termingeschäfte](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410113/)
    - [WIWO: Besteuerung von Termingeschäften ist verfassungswidrig](https://www.wiwo.de/finanzen/geldanlage/urteil-des-bundesfinanzhofs-besteuerung-von-termingeschaeften-ist-verfassungswidrig/29870348.html)
+- Erledigt durch Gesetzesänderung: das Jahressteuergesetz 2024 (Gesetz vom 02.12.2024, BGBl. 2024 I Nr. 387)
+  hat § 20 Abs. 6 Satz 5 und 6 EStG ersatzlos aufgehoben, anwendbar in allen noch offenen Fällen
+  (§ 52 Abs. 28 Satz 25 und 26 EStG).
+   - <https://www.recht.bund.de/bgbl/1/2024/387>
+   - <https://www.gesetze-im-internet.de/estg/__52.html>
 
 
 Aktienverluste voll anrechnen
@@ -304,6 +319,8 @@ Wegzugsbesteuerung von privaten Anlegern
 Termingeschäftsverluste ab 2021
 -------------------------------
 
+- Zwischenzeitlich erledigt: die Beschränkung wurde durch das JStG 2024 rückwirkend für alle noch offenen
+  Fälle aufgehoben (siehe oben).
 - <https://epetitionen.bundestag.de/content/petitionen/_2021/_06/_06/Petition_124097.html>
 - <https://www.openpetition.de/petition/online/initiative-ruecknahme-der-steuerlichen-benachteiligungen-privater-anleger>
 - <https://www.youtube.com/c/MartinHlouschekOptionstrader/videos>
