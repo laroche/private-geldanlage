@@ -572,8 +572,8 @@ Broken Wing Butterfly (BWB)
 - [Broken Wing Butterfly from Brent Osachoff](https://www.youtube.com/watch?v=AJp2gleqnz8)
 
 
-laddered put ratio spreads by dtoptions
----------------------------------------
+laddered put ratio spreads by Derek Taylor (dtoptions)
+------------------------------------------------------
 
 - <https://www.youtube.com/watch?v=xchQq_AiWVc>
    - Put Ratio Spread: SPY, 90 DTE, -2 Put Delta 10, +1 Put 20 points higher
@@ -592,6 +592,10 @@ laddered put ratio spreads by dtoptions
    - Twin Peaks: 1223 trade (more bullish than 1222)
    - Twin Peaks: 1234 trade (more bearish than 1222)
    - Twin Peaks: 2345 trade (even more bearish than 1234)
+- <https://www.youtube.com/watch?v=xS3ipoVCc9s>
+   - 1112 Step-Down Ladder Options Strategy (bearish trade)
+      - MES or ES: 90 DTE, start with delta between 20 and 25 long put
+         - further puts are each 200 points apart, adjust to personal liking
 
 
 Naming of option spreads
