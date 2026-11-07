@@ -43,6 +43,7 @@ Steuern bei ausländischen Banken/Brokern
 
 - Ausländische Broker behalten nur die Quellensteuer sofort ein.
 - Alle anderen Steuern müsse mit der jährlichen Steuererklärung angegeben werden.
+- <https://meinkapitan.de/>
 - <https://bubbletax.de/>
 - <https://konvexinvestment.github.io/ibkr-steuer/>
    - <https://github.com/KonvexInvestment/ibkr-steuer>
