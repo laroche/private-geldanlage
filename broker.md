@@ -122,15 +122,6 @@ Tipps:
    - [Automatic Exchange of Information (AEOI)](https://www.oecd.org/tax/automatic-exchange/)
 
 
-FxFlat
-------
-
-- Reseller von IB in Deutschland
-   - höhere Kosten als direkt bei IB
-- <https://www.fxflat.com/>
-   - [Youtube FXFlat](https://www.youtube.com/c/FxflatOnlineBroker/videos)
-
-
 CapTrader
 ---------
 
@@ -145,12 +136,10 @@ Tastyworks
 ----------
 
 - <https://tastyworks.com/> und offene Lernplattform <https://www.tastytrade.com/> and <https://tastylive.com>
-   - [Youtube: Tastytrade](https://www.youtube.com/c/tastytrade1/videos)
+   - [Youtube: Tastytrade](https://www.youtube.com/@tastytrade_/videos)
    - [Youtube: The Small Exchange](https://www.youtube.com/c/TheSmallExchange/videos)
    - [Youtube: Tastyworks](https://www.youtube.com/channel/UCk99MvmvHZutKIkh2u0ImrA/videos)
-   - <https://info.quietfoundation.com/alphaboost>
 - Zum Vorbereiten der Steuererklärung kann <https://github.com/laroche/tastyworks-pnl> hilfreich sein.
-- Anbindung von Tastytrade an Google Sheets: <https://www.gsbrokerconnector.co.uk/>
 - Für Dividenden von US-Aktien bekomme ich nur 15% Quellensteuer anstelle der vollen 30% abgezogen.
   Es gibt aber einige Rückmeldungen, dass Tastyworks dies nicht immer richtig einträgt. Falls dies
   der Fall ist, am besten per Email beim Tastyworks Support melden und dies richtig eintragen lassen.

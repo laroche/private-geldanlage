@@ -17,9 +17,8 @@ Options-Schulungen
    - <https://justcoveredcallsplus.groups.io/g/main/files>
 - <https://datadrivenoptions.com/>
 - <https://optionsjive.com/>
-- <https://www.sheridanmentoring.com/>
-   - <https://www.youtube.com/@sheridanmentoring/videos>
-   - <https://www.youtube.com/@SheridanmentoringTV/videos>
+- <https://www.sheridanriskmanagement.com/>
+   - <https://www.youtube.com/@sheridanriskmanagement/videos>
 - <https://spotgamma.com/>
    - <https://www.youtube.com/@spotgamma/videos>
 - <https://xn--brsenstrategen-vpb.com/>
@@ -29,8 +28,8 @@ Options-Schulungen
 - <https://optionswelten.com/>
    - <https://www.youtube.com/@optionswelten/videos>
 - <https://www.youtube.com/@SweetBobby/videos>
-- <https://daytradingcoach.de/>
-   - <https://www.youtube.com/@DaytradingCoachMartinGoersch/videos>
+- <https://martingoersch.de/>
+   - <https://www.youtube.com/@MartinGoersch/videos>
 - <https://optiontradingpal.com/>
    - <https://www.youtube.com/@OptionTradingPal/videos>
 - <https://eichhorn-coaching.de/>
@@ -415,10 +414,11 @@ In a very volatile market with VIX more than 40, you should have a
 maximum of 500 theta and a max buying power of 50 %.
 
 
-Tony is Trading
----------------
+Tony is Trading - Grow Your Pile
+--------------------------------
 
-- <https://www.youtube.com/@TonyisTrading/videos>
+- <https://www.growyourpile.com/>
+   - <https://www.youtube.com/@GrowYourPile/videos>
 - <https://x.com/tfmtrades?lang=de>
 - <https://www.tastylive.com/shows/trade-small-trade-often/episodes/tony-from-mexicos-trade-routine-06-07-2021>
 - [top secret trading plan revealed](https://www.youtube.com/watch?v=9_9hIyihVlk)

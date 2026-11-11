@@ -12,7 +12,6 @@ Vorsorgevollmacht, Betreuungs- und Patientenverfügung
 - [YouTube: Gerd Kommer: Vorsorgevollmachten und Verfügungen: Schütze deine Rechte bei Unfall, Krankheit oder Alter!](https://www.youtube.com/watch?v=9P5uqpRNu6c)
 - [YouTube: Patientenverfügung und Vorsorgevollmacht](https://www.youtube.com/watch?v=fWk99HxHHI0)
 - Sorgerechtsverfügung
-- [YouTube: Anwalt Christian Solmecke: Patientenverfügung](https://www.youtube.com/watch?v=6_OCLmv7VGM)
 - Patientenverfügung
    - § 1901a Patientenverfügung BGB
    - <https://www.prevago.de/>

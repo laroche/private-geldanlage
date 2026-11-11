@@ -49,7 +49,7 @@ Link-Sammlung
    - [YouTube Zahltagstrategie](https://www.youtube.com/c/Zahltagstrategie/videos)
 - <https://sdk.org/>
    - [YouTube Schutzgemeinschaft der Kapitalanleger (SdK) e.V.](https://www.youtube.com/channel/UCdpjjouypP9dZFkgO7lPEHg/videos)
-- <https://www.pwlcapital.com/author/benjamin-felix/>
+- <https://pwlcapital.com/our-team/>
    - [YouTube Ben Felix CSI](https://www.youtube.com/c/BenFelixCSI/videos)
 - <https://rationalreminder.ca/podcast>
 - <https://www.personalcapital.com/financial-software/>
@@ -69,12 +69,10 @@ Link-Sammlung
 - <https://www.youtube.com/c/principlesbyraydalio/videos>
 - <https://www.youtube.com/results?search_query=Jim+Rogers>
 - <https://www.youtube.com/c/TheMaverickofWallStreet/videos>
-- <https://www.realvision.com/>
-   - [YouTube RealVision](https://www.youtube.com/c/RealVisionFinance/videos)
 - <https://www.lynalden.com/>
 - <https://think-beyondtheobvious.com/> von Dr. Daniel Stelter
 - <https://www.weforum.org/events/world-economic-forum-annual-meeting-2022/>
-- <https://www.armuts-und-reichtumsbericht.de/DE/Bericht/Der-sechste-Bericht/sechster-bericht.html>
+- <https://www.armuts-und-reichtumsbericht.de/DE/Bericht/Der-siebte-Bericht/Der-Bericht/der-bericht.html>
 - <https://www.iwkoeln.de/presse/pressemitteilungen/beitrag/judith-niehues-maximilian-stockhausen-wer-in-deutschland-vermoegend-ist.html>
 - <https://de.wikipedia.org/wiki/Einkommensverteilung_in_Deutschland>
 - <https://www.iwkoeln.de/fileadmin/user_upload/HTML/2019/einkommensverteilung/index.html>
@@ -106,10 +104,8 @@ Auswertung, Trading Log und Backtest
    - <https://www.youtube.com/c/FinancialOptionsWithThumper/videos>
 - <https://www.tradinglogbook.de/>
 - <http://www.tradelogsoftware.com/>
-- <https://www.parqet.com/> <https://tresor.one/>
-   - <https://github.com/tresorone/tresor-import/>
+- <https://www.parqet.com/>
 - <https://www.getquin.com/> <https://app.getquin.com/>
-   - <https://app.getquin.com/learn/unterstuetze-broker-getquin/>
 - <https://investmentmoats.com/stock-market-commentary/portfolio-management/introducing-our-free-stock-portfolio-tracker-spreadsheet/>
 - <https://fyoumoney.de/diy-portfolio-uebersicht-in-google-sheets/>
 - <https://www.portfoliovisualizer.com/>
@@ -168,8 +164,8 @@ Elliott Wave Analysis
 CoT
 ---
 
-- <https://daytradingcoach.de/>
-   - [YouTube Martin Görsch](https://www.youtube.com/c/DaytradingCoachMartinGoersch/videos)
+- <https://martingoersch.de/>
+   - [YouTube Martin Görsch](https://www.youtube.com/@MartinGoersch/videos)
    - [YouTube Tickmill Deutsch](https://www.youtube.com/channel/UCv8DaPYIQMKZGptwRjcDx4w/videos)
 - <https://www.suricate-trading.de/>
    - [YouTube Suricate Trading](https://www.youtube.com/channel/UCl0nSqiiixKmnfbztLLsZvg/videos)
@@ -183,8 +179,6 @@ CoT
    - [YouTube Oscar Carboni](https://www.youtube.com/c/futuresanalysts/videos)
 - <https://futures.io/options-futures/>
 - <https://www.mrci.com/>
-- <https://www.upperman.com/>
-   - [Commitments of Traders: Profitable Insider-Strategien: Floyd Uppermann](https://www.amazon.de/Commitments-Traders-Insider-Strategien-Floyd-Uppermann/dp/3898792080/ref=sr_1_1)
 - <https://www.tradestation.com/>
    - [YouTube Tradestation](https://www.youtube.com/c/TradeStation/videos)
 
@@ -207,8 +201,8 @@ Optionen
    - <https://twitter.com/Optionsuniversu>
 - <https://der-optionstrader.com/>
    - [YouTube Martin Hlouschek](https://www.youtube.com/c/MartinHlouschekOptionstrader/videos)
-- <https://www.sheridanmentoring.com/>
-   - [YouTube Sheridan Mentoring](https://www.youtube.com/channel/UC9LbCrFQn4zezf9BX27837A)
+- <https://www.sheridanriskmanagement.com/>
+   - [YouTube Sheridan Mentoring](https://www.youtube.com/@sheridanriskmanagement/videos)
 - <https://www.freakyfinance.net/>
    - <https://www.freakyfinance.net/option-tradingpal-magazin/>
    - [YouTube freaky finance](https://www.youtube.com/c/freakyfinance/videos)

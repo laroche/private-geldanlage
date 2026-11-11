@@ -50,7 +50,7 @@ Noch mehr Informationen
 - [Gerd Kommer: Passiv investieren – die Basics](https://gerd-kommer.de/passiv-investieren-die-basics/)
 - [Ben Carlson: Historical Returns For Stocks, Bonds, Cash, Housing & Gold (2025)](https://awealthofcommonsense.com/2026/01/historical-returns-for-stocks-bonds-cash-housing-gold-2025/)
 - [Rendite-Dreiecke vom Deutschen Aktieninstitut](https://www.dai.de/rendite-dreiecke/)
-   - [MSCI-World Renditedreieck von Christian W. Röhl](https://de.scalable.capital/cwr-cash-wealth-returns/msci-world-renditedreieck   https://www.dividendenadel.de/msci-world-renditedreieck/)
+   - [MSCI-World Renditedreieck von Christian W. Röhl](https://de.scalable.capital/cwr-cash-wealth-returns/msci-world-renditedreieck)
    - [MSCI-World über viele Jahre angelegt](https://blog.trackingdifferences.com/wie-schlimm-kann-es-werden/)
 - [Finanzfluss: Geldanlage](https://www.finanzfluss.de/geldanlage/)
    - [Finanzfluss: ETF-Handbuch](https://www.finanzfluss.de/etf-handbuch/)
@@ -132,6 +132,7 @@ Noch mehr Informationen
 - [Christian Delacour: Die besten ETFs 2023. Aktien-ETF Auswahl & Aufteilung, Welt-AG](https://www.youtube.com/watch?v=yPyLi6vtA08)
 - [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
 - [YouTube Rob Berger: How to Create a 3 Fund Portfolio, A Beginner's Guide](https://www.youtube.com/watch?v=kmw8OpGp2rM)
+- <https://www.autopilotyourwealth.com/>
 - [Vanguard](https://investor.vanguard.com/)
    - <https://www.bogleheads.org/>
    - [YouTube Bogleheads](https://www.youtube.com/@bogleheads3687/videos)

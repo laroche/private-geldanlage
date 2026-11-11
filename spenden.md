@@ -7,6 +7,6 @@ Einige Ideen für Spenden-Gelder:
 - [Tafel Deutschland](https://www.tafel.de/)
 - [UNO-Flüchtlingshilfe](https://www.uno-fluechtlingshilfe.de/) (der deutsche Partner des UNHCR)
 - [UNICEF](https://www.unicef.de/) (Kinderhilfswerk der Vereinten Nationen)
-- [Hilfe für den Nachbarn von der Stuttgarter Zeitung](https://www.stuttgarter-zeitung.de/stz-hilfe)
+- [Hilfe für den Nachbarn von der Stuttgarter Zeitung](https://stz-hilfe.de/)
 - lokale Sport- und Musikvereine
 
