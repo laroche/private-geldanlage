@@ -16,6 +16,7 @@ Options-Schulungen
 - <https://svog.org/>
    - <https://justcoveredcallsplus.groups.io/g/main/files>
 - <https://datadrivenoptions.com/>
+   - <https://datadrivenoptions.com/change-log/>
 - <https://optionsjive.com/>
 - <https://www.sheridanriskmanagement.com/>
    - <https://www.youtube.com/@sheridanriskmanagement/videos>
@@ -61,7 +62,8 @@ Ron Bertino
 - <https://www.tradingdominion.com/> Ron Bertino
    - <https://www.youtube.com/@TradingDominion/videos>
    - Black Swan Hedge (BSH) oder [Space Trip Trade (STT)](https://www.youtube.com/watch?v=LsUyvdS8J9w) von Ron Bertino
-   - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics (PMTT)](https://open.spotify.com/episode/4MZCgCTVV2GTtAMipoRZKZ)
+   - [Ron Bertino and an Introduction to Portfolio Margin Trading Tactics (PMTT)](https://poddtoppen.se/podcast/1576884492/the-trade-busters/53-portfolio-margin-trading-tactics-wron-bertino)
+   - [Ron Bertino and Portfolio Investing](https://open.spotify.com/episode/4Aw6hCZhvAoEf2rTIUD2bM)
    - [RonBertino: Pre-Earnings Straddles and Strangles](https://www.youtube.com/watch?v=QfQOvajG2Dk)
 - <https://www.elitetrader.com/et/>
 - <http://www.travelsandtrades.com/?tag=space-trip-trade-ron-bertino>
