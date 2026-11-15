@@ -716,7 +716,7 @@ Time Flies Spread from Simon Black
 Flyagonal from Steve Ganz
 -------------------------
 
-- <https://members.sjgtrades.com/flyagonal>
+- <https://trader.optionsincomeacademy.com/flyagonal>
 - [Theta Profits Interview: Flyagonal-Optionsstrategie](https://www.youtube.com/watch?v=y_7vCLAcc9c)
 - <https://www.thetaprofits.com/flyagonal-how-a-hybrid-options-strategy-hit-a-96-win-rate/>
 - Call-BWB and Diagonal Spread combined. Defined risk trade. (In SPX about $5000 risk.)

@@ -130,7 +130,6 @@ Noch mehr Informationen
 - [Finanzfluss: Wenn ich nur EINEN ETF für immer halten müsste – welcher wäre es?](https://www.youtube.com/watch?v=_pYG2XxtHFY)
 - [Christian Delacour: Mit einem ETF zur Welt AG, 5 TOP solo Aktien-ETFs](https://www.youtube.com/watch?v=wBIlfl8R4AI)
 - [Christian Delacour: Die besten ETFs 2023. Aktien-ETF Auswahl & Aufteilung, Welt-AG](https://www.youtube.com/watch?v=yPyLi6vtA08)
-- [Pfennigfabrik: 7 prominente Welt-ETF-Strategien im Vergleich](https://www.youtube.com/watch?v=2tsUdgjgtdo)
 - [YouTube Rob Berger: How to Create a 3 Fund Portfolio, A Beginner's Guide](https://www.youtube.com/watch?v=kmw8OpGp2rM)
 - <https://www.autopilotyourwealth.com/>
 - [Vanguard](https://investor.vanguard.com/)

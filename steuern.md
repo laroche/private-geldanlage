@@ -285,7 +285,6 @@ Aktienverluste voll anrechnen
 -----------------------------
 
 - [Aktienverluste: BFH hält Verrechnungsbeschränkung für verfassungswidrig](https://www.boerse-online.de/nachrichten/geld-und-vorsorge/aktienverluste-bfh-haelt-verrechnungsbeschraenkung-fuer-verfassungswidrig-1030494333)
-   - <https://blog.handelsblatt.com/steuerboard/2021/06/07/gute-nachrichten-fuer-private-anleger-bfh-haelt-beschraenkung-der-verlustverrechnung-fuer-aktien-fuer-verfassungswidrig/>
    - [Steuer-Webinar: BFH hält Regelung im Einkommensteuergesetz für verfassungswidrig](https://www.youtube.com/watch?v=Bhkqy7_hn80)
    - Bundesverfassungsgericht Aktenzeichen 2 BvL 3/21
    - <https://www.bundesfinanzhof.de/de/presse/pressemeldungen/detail/vorlage-an-das-bundesverfassungsgericht-der-bfh-haelt-die-verlustverrechnungsbeschraenkung-fuer-aktienveraeusserungsverluste-fuer-verfassungswidrig/>
@@ -351,7 +350,6 @@ Links:
 - <https://www.youtube.com/watch?v=Bm2r2yXCJ30>
    - <https://fintax-steuerberater.de/>
    - <https://fintegra.de/steuerliches-fremdwaehrungsreporting/>
-- <http://www.iusconsulting.de/de/portal-eintrag/private-veraumluszligerungsgeschaumlfte>
 
 
 Zusammenfassung Steuern im Privatvermögen bei Fremdwährungskonten:

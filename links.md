@@ -186,8 +186,8 @@ CoT
 Optionen
 --------
 
-- <https://xn--brsenstrategen-vpb.com/>
-   - <https://xn--brsenstrategen-vpb.com/trading-buch/>
+- <https://boersenstrategen.com/>
+   - <https://boersenstrategen.com/trading-buch/>
    - [YouTube Börsenstrategen](https://www.youtube.com/channel/UC82fuCmfwo_kFW6FGT9q_aw/videos)
 - [Wikipedia: Kategorie:Optionsgeschäft](https://de.wikipedia.org/wiki/Kategorie:Optionsgesch%C3%A4ft)
 - [Wikipedia: finance Greeks](https://en.wikipedia.org/wiki/Greeks_(finance))
