@@ -114,6 +114,7 @@ Auswertung, Trading Log und Backtest
 - [extraETF: FinanzManager](https://de.extraetf.com/user/portfolio)
 - <https://finary.com/>
 - <https://www.physicianonfire.com/net-worth-tracker/>
+- <https://optionstats.io/>
 
 
 Finanznachrichten
