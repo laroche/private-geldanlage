@@ -19,6 +19,7 @@ Link-Sammlung
    - <https://aktie.traderfox.com/>
    - Firmeninfos: <https://www.sec.gov/edgar/searchedgar/companysearch.html>
    - <https://roic.ai/>
+   - <https://www.fairvalue-calculator.com/>
 - <https://marketchameleon.com/>
 - Foren: <https://www.wallstreet-online.de/community/foren.html>
 - <https://globalportfolio-one.com/>
