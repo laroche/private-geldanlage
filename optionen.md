@@ -7,6 +7,9 @@ Options-Schulungen
 
 - <https://de.wikipedia.org/wiki/Optionsstrategie>
 - [OptionsUniversum](https://www.optionsuniversum.de/)
+- <https://www.edgeseeker.io/>
+   - <https://www.youtube.com/@OptionsMasteryEdge/videos>
+- <https://optiverse.io/>
 - <https://www.tastylive.com/>
    - <https://www.youtube.com/@tastytrade_/videos>
 - <https://aeromir.com/>
